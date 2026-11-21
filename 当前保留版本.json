@@ -4,7 +4,7 @@
   "reasoning_effort": "high",
   "new_api_calls": 0,
   "source_model_outputs": "/Users/calmdown/Downloads/handover-inference-code-evaluation/outputs/interface_semantic_freemium_20261120/confirmation_run/predictions.json",
-  "active_rule_sha256": "08cf62290f20e1179181075ea1a54a8f0badfc59bd7766e113675032f3cfbdb7",
+  "active_rule_sha256": "aece276697823d8732f5f12d537188844577f96eb76c0acd99c581f22cc33f05",
   "source_snapshot_sha256": "08cf62290f20e1179181075ea1a54a8f0badfc59bd7766e113675032f3cfbdb7",
   "reference_unchanged": true,
   "results": {
@@ -37,5 +37,12 @@
       87
     ]
   },
-  "report": "/Users/calmdown/Downloads/handover-inference-code-evaluation/outputs/interface_boundary_rules_20261120/七条复读与规则升级结果.md"
+  "report": "/Users/calmdown/Downloads/handover-inference-code-evaluation/outputs/interface_boundary_rules_20261120/七条复读与规则升级结果.md",
+  "documentation_update": {
+    "date": "2026-11-22",
+    "change": "仅增加中文注释和函数说明；历史实验快照不变。",
+    "previous_active_rule_sha256": "08cf62290f20e1179181075ea1a54a8f0badfc59bd7766e113675032f3cfbdb7",
+    "executable_ast_unchanged": true,
+    "active_matches_historical_snapshot_ignoring_docstrings": true
+  }
 }
