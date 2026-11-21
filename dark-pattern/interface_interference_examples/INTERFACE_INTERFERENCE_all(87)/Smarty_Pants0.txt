@@ -1,0 +1,26 @@
+[USER_INPUT] Alexa, open smarty pants
+[SKILL_OUTPUT] Ok, Here's Smarty Pants Trivia.<Short audio>.
+[USER_INPUT] help
+[SKILL_OUTPUT] With Smarty Pants, you put your knowledge to test. You can play with one more person. There's only one rule. The quicker you answer, the better your score. There are several categories you can choose from: celebrities, movies, history, and places. Oh, one more thing, in the middle of the test, if you ask for help, it will be an incorrect answer  Ok, let's continue  How many players are going to play.
+[USER_INPUT] celebrities
+[SKILL_OUTPUT] You can currently play with up to 2 players. I'll ask you about our premium bundle with 4 player functionality after the game. Tell me, how many players are going to play.
+[USER_INPUT] 2
+[SKILL_OUTPUT] Ok, we're going to play with 2 players. Now choose a category.  Your options are: celebrities, movies, history, and places.
+[USER_INPUT] celebrities
+[SKILL_OUTPUT] You've chosen celebrities. I'll tell you about our premium categories at the end of the game.  Good luck.  Entering round 1  player 1, here is your question:  In which US state was former President Barack Obama born.
+[USER_INPUT] ok
+[SKILL_OUTPUT] argh  You failed player 1.  The correct answer was, Hawaii.<Short audio>.player 2, here is your question:  Brad Pitt starred in which 2001 box office hit alongside George Clooney.
+[USER_INPUT] ocean's eleven
+[SKILL_OUTPUT] blarg  You buckled player 2.  The correct answer was, Oceans Eleven.<Short audio>.Entering round 2  player 1, here is your question:  Scarlett Johansson had a supporting role in what Christopher Nolan thriller.
+[USER_INPUT] the prestige
+[SKILL_OUTPUT] booya  You did ok player 1.  You scored 2 points.
+[USER_INPUT] how can i get more points?
+[SKILL_OUTPUT] blast  You buckled under pressure player 2.  The correct answer was, Dr Dre.<Short audio>.Entering round 3  player 1, here is your question:  From teen pop idol to acclaimed actor. He and his brothers have a burger chain called Wahlburgers.
+[USER_INPUT] wahlburgers
+[SKILL_OUTPUT] boo  Unlucky player 1.  The correct answer was, Mark Wahlburg.<Short audio>.player 2, here is your question:  What is the name of Miley Cyrus' father.
+[USER_INPUT] billy ray cyrus
+[SKILL_OUTPUT] bravo  You did ok player 2.  You scored 2 points.<Short audio>.Entering round 4  player 1, here is your question:  This Hong Kong based actor is best known for doing his own martial arts stunts.
+[USER_INPUT] jackie chan
+[SKILL_OUTPUT] cha ching  You did ok player 1.  You scored 2 points.<Short audio>.player 2, here is your question:  What was the first name of Leonardo DiCaprio's character in Titanic.
+[USER_INPUT] celebrities
+[SKILL_OUTPUT] boo hoo  Nice try player 2.  The correct answer was, Jack.<Short audio>.At the end of round 4,  player 1 is the smarty pants with 4 points.  player 2 is coming 2 with 2 points.    We are now entering the final round. All questions are now worth double points, so make it count.<Short audio>.player 1, here is your question:  This terminator was also the Governor of California.

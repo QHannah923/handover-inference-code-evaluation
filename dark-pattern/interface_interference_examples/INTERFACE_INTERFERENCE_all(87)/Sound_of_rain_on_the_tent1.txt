@@ -1,0 +1,3 @@
+[USER_INPUT] Alexa, open sound of rain on the tent
+[SKILL_OUTPUT] Thank you for using Sound of Rain on the Tent, we hope you're sleeping better since you started using this skill. By the way, you might like our latest book, Sleep Better. Sound of Rain on the Tent earns from qualifying purchases that you make while using this skill. Would you like to learn how to buy the book on Amazon.
+[USER_INPUT] yes

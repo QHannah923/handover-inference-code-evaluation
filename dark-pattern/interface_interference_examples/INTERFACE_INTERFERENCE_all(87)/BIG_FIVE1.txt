@@ -1,0 +1,26 @@
+[USER_INPUT] Alexa, open big five
+[SKILL_OUTPUT] Oh hey. Welcome back.  What question would you like answered.
+[USER_INPUT] service details
+[SKILL_OUTPUT] Sorry, I didn't catch that. Ask me a question again, my friend.
+[USER_INPUT] what platforms are supported?
+[SKILL_OUTPUT] Sorry, I didn't catch that. Ask me a question again, my friend.
+[USER_INPUT] can you give me an example?
+[SKILL_OUTPUT] Sorry, I didn't catch that. Ask me a question again, my friend.
+[USER_INPUT] how do i become a member of the credit union?
+[SKILL_OUTPUT] Sorry, I didn't catch that. Ask me a question again, my friend.
+[USER_INPUT] what are the benefits of joining the credit union?
+[SKILL_OUTPUT] Sorry, I didn't catch that. Ask me a question again, my friend.
+[USER_INPUT] benefits
+[SKILL_OUTPUT] Sorry, I didn't catch that. Ask me a question again, my friend.
+[USER_INPUT] how does it work?
+[SKILL_OUTPUT] Sorry, I didn't catch that. Ask me a question again, my friend.
+[USER_INPUT] what do i need to open an account?
+[SKILL_OUTPUT] Sorry, I didn't catch that. Ask me a question again, my friend.
+[USER_INPUT] where are the credit union branches located?
+[SKILL_OUTPUT] Sorry, I didn't catch that. Ask me a question again, my friend.
+[USER_INPUT] cost
+[SKILL_OUTPUT] Sorry, I didn't catch that. Ask me a question again, my friend.
+[USER_INPUT] alexa ask big five what's new
+[SKILL_OUTPUT] Happy holidays to you. 2020 was a BIG year for voice, pun intended. We've created 40 voice applications to help organizations just like yours become leaders in the voice revolution, more are being added every day. BIG's Voice Name Registry helps businesses claim their name to get a voice application into the Alexa store quickly and easily. These skills don't integrate into any of your back office systems so they are fast and easy to deploy. Offer information about your organization, as well as custom built frequently asked questions, to the public. You can visit voice name registry dot com for more details. Don't miss out. Take your first step today.  To learn more about FIVE, you can say ask big five about linking accounts or I'm Done.  Do you have another question.
+[USER_INPUT] alexa ask big five what's new
+[SKILL_OUTPUT] Happy holidays to you. 2020 was a BIG year for voice, pun intended. We've created 40 voice applications to help organizations just like yours become leaders in the voice revolution, more are being added every day. BIG's Voice Name Registry helps businesses claim their name to get a voice application into the Alexa store quickly and easily. These skills don't integrate into any of your back office systems so they are fast and easy to deploy. Offer information about your organization, as well as custom built frequently asked questions, to the public. You can visit voice name registry dot com for more details. Don't miss out. Take your first step today.  To learn more about FIVE, you can say ask big five about linking accounts or I'm Done.  Do you have another question.

@@ -1,0 +1,26 @@
+[USER_INPUT] Alexa, open simple translator
+[SKILL_OUTPUT] Here's the skill Simple Translator, by LC Publishing.Welcome to Simple Translator  German, French, Spanish, Italian, and Japanese use locale specific voices during translations.  To use this skill, simply say translate plus a phrase into the desired language.  What do you want to translate now.
+[USER_INPUT] help
+[SKILL_OUTPUT] For best results, simply say translate and then your phrase into language.    There is also a subscription available that unlocks extra features.   What would you like to translate next.
+[USER_INPUT] english
+[SKILL_OUTPUT] What phrase do you want to translate.
+[USER_INPUT] spanish
+[SKILL_OUTPUT] Which phrase would you like to have translated.
+[USER_INPUT] french
+[SKILL_OUTPUT] What phrase do you want to translate.
+[USER_INPUT] translate
+[SKILL_OUTPUT] translate in French is       Traduire.       Say repeat to hear that again or help for more options.   What phrase would you like to have translated next.
+[USER_INPUT] translate
+[SKILL_OUTPUT] translate in French is       Traduire.       Say repeat to hear that again or help for more options.   What do you want to translate now.
+[USER_INPUT] german
+[SKILL_OUTPUT] translate in German is       Übersetzen.       Say repeat to hear that again or help for more options.   What do you want to translate now.
+[USER_INPUT] italian
+[SKILL_OUTPUT] translate in Italian is       Traduci.       Say repeat to hear that again or help for more options.   Which phrase do you want to translate next.
+[USER_INPUT] repeat
+[SKILL_OUTPUT] translate in Italian is       Traduci.       Say repeat to hear that again or help for more options.
+[USER_INPUT] translate
+[SKILL_OUTPUT] translate in Italian is       Traduci.       Say repeat to hear that again or help for more options.   Which phrase do you want to translate next.
+[USER_INPUT] help
+[SKILL_OUTPUT] For best results, simply say translate and then your phrase into language.    There is also a subscription available that unlocks extra features.   What phrase would you like to have translated next.
+[USER_INPUT] german
+[SKILL_OUTPUT] translate in German is       Übersetzen.       Say repeat to hear that again or help for more options.   Which phrase do you want to translate next.

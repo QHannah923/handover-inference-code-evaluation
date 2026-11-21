@@ -1,0 +1,12 @@
+[USER_INPUT] Alexa, open history quiz
+[SKILL_OUTPUT] Welcome to the Ultimate History Quiz from history dot comm, where you'll find a fresh quiz every day. Here is your host.<Short audio>.<Short audio>.
+[USER_INPUT] start quiz
+[SKILL_OUTPUT] Hmm, it looks like you don't have any quiz packs in your library. Packs of fifty questions are available for purchase. Are you interested in owning a quiz pack that you can play whenever you like.
+[USER_INPUT] no
+[SKILL_OUTPUT] Each month we'll release a new theme pack. Ask about our quiz packs any time to hear what's available. Would you like to play the daily quiz.
+[USER_INPUT] quiz packs
+[SKILL_OUTPUT] Hmm, it looks like you don't have any quiz packs in your library. Packs of fifty questions are available for purchase. Are you interested in owning a quiz pack that you can play whenever you like.
+[USER_INPUT] quiz pack
+[SKILL_OUTPUT] Hmm, it looks like you don't have any quiz packs in your library. Packs of fifty questions are available for purchase. Are you interested in owning a quiz pack that you can play whenever you like.
+[USER_INPUT] free daily three
+[SKILL_OUTPUT] <Short audio>.<Short audio>.<Short audio>.

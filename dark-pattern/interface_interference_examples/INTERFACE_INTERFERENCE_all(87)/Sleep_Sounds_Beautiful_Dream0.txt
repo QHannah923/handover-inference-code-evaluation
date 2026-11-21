@@ -1,0 +1,6 @@
+[USER_INPUT] Alexa, open beautiful dream
+[SKILL_OUTPUT] Thank you for using Beautiful Dreams, we hope you're sleeping better since you started using this skill. By the way, you might like our latest book, Sleep Better. Beautiful Dreams earns from qualifying purchases that you make while using this skill. Would you like to learn how to buy the book on Amazon.
+[USER_INPUT] help
+[SKILL_OUTPUT] Thanks to this skill you can hear a noise that can help you stay focused, do you want to continue.
+[USER_INPUT] make
+[SKILL_OUTPUT] Thanks to this skill you can hear a noise that can help you stay focused, do you want to continue.

@@ -1,0 +1,7 @@
+[USER_INPUT] Alexa, open the local guide
+[SKILL_OUTPUT] Welcome to Manhattan Local Guide. Say about, to hear more about the city, or say name of a cuisine like Mexican, American, Italian, European, Chinese, Japanese, Mediterranean, Greek, Indian, European, French, Asian, Seafood or say brunch, lunch, dinner, kid friendly place or late night, to hear local restaurant suggestions, or say recommend an attraction, or say, go outside. To move to the next cuisine or attraction say next follwed by the cuisine or attraction name. What do you want to say.
+[USER_INPUT] american
+[SKILL_OUTPUT] American cuisine . Here is a good spot. Junior's. Would you like to hear more. Say yes to know more or say ' next American place ' to move to the next one.
+[USER_INPUT] no
+[SKILL_OUTPUT] Ok, see you next time. Check out www.kidzlearn.co with a z in kidz for more educational products.
+[USER_INPUT] www.kidzlearn.co

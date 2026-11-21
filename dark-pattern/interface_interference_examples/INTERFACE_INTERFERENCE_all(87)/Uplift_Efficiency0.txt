@@ -1,0 +1,44 @@
+[USER_INPUT] Alexa, open uplift efficiency
+[SKILL_OUTPUT] Welcome back to Uplift Efficiency Looks like you returned after a long time If you want to learn more about this skill or get reminded on how to use this, say help.What feature would you like to use today. Day planner, Productivity Timer, or screen timer.
+[USER_INPUT] help
+[SKILL_OUTPUT] You said help. Do you want to get help.
+[USER_INPUT] help
+[SKILL_OUTPUT] You said help. Do you want to get help.
+[USER_INPUT] day planner
+[SKILL_OUTPUT] Welcome to the Day Planner... With this feature you can set up a routine for a typical day. Then you can set reminders according to your routine, or you can refer to it whenever you forget what to do... We need to know how old you are to automate some tasks.  Can we know your age.
+[USER_INPUT] i am [your age] years old.
+[SKILL_OUTPUT] The day plan feature is better with the premium version.... You are allowed to create multiple accounts and set up separate day plans... Would you like to try the premium version.
+[USER_INPUT] yes
+[SKILL_OUTPUT] The premium version allows you to create up to 4 accounts. Which means, you can create different day plans for each account and also get personalized reminders.Also the premium version opens up an all new feature, challenges. Take 5 day challenges that will boost your productivity. And many more features are coming soon for the premium version. Would you like to buy the premium version.
+[USER_INPUT] no
+[SKILL_OUTPUT] Now what feature will you use. Day planner, Productivity Timer, Or Screen Timer.
+[USER_INPUT] day planner
+[SKILL_OUTPUT] Welcome to the Day Planner... With this feature you can set up a routine for a typical day. Then you can set reminders according to your routine, or you can refer to it whenever you forget what to do... We need to know how old you are to automate some tasks.  Can we know your age.
+[USER_INPUT] help
+[SKILL_OUTPUT] You said help. Do you want to get help.
+[USER_INPUT] productivity timer
+[SKILL_OUTPUT] You said help. Do you want to get help.
+[USER_INPUT] screen timer
+[SKILL_OUTPUT] Welcome to Screen Timer... Use this feature every time you use a device with a screen... We will remind you every 20 minutes to take a 20 second break to look far. This is the 20 20 20 rule. This can help you reduce eye strain. During the 20 second break you can look at a distance of 20 feet. Do you want to begin a screen timer now.
+[USER_INPUT] screen timer
+[SKILL_OUTPUT] Welcome to Screen Timer... Use this feature every time you use a device with a screen... We will remind you every 20 minutes to take a 20 second break to look far. This is the 20 20 20 rule. This can help you reduce eye strain. During the 20 second break you can look at a distance of 20 feet. Do you want to begin a screen timer now.
+[USER_INPUT] yes
+[SKILL_OUTPUT] What is your screen session.
+[USER_INPUT] no
+[SKILL_OUTPUT] Example phrase: begin a screen session of 2 hours and 30 minutes.
+[USER_INPUT] help
+[SKILL_OUTPUT] You said help. Do you want to get help.
+[USER_INPUT] yes
+[SKILL_OUTPUT] Would you like to learn about this skill, or troubleshoot a problem.
+[USER_INPUT] no
+[SKILL_OUTPUT] Learn more or troubleshoot.
+[USER_INPUT] day planner
+[SKILL_OUTPUT] Welcome to the Day Planner... With this feature you can set up a routine for a typical day. Then you can set reminders according to your routine, or you can refer to it whenever you forget what to do... We need to know how old you are to automate some tasks.  Can we know your age.
+[USER_INPUT] day planner
+[SKILL_OUTPUT] Welcome to the Day Planner... With this feature you can set up a routine for a typical day. Then you can set reminders according to your routine, or you can refer to it whenever you forget what to do... We need to know how old you are to automate some tasks.  Can we know your age.
+[USER_INPUT] productivity timer
+[SKILL_OUTPUT] The day plan feature is better with the premium version.... You are allowed to create multiple accounts and set up separate day plans... Would you like to try the premium version.
+[USER_INPUT] help
+[SKILL_OUTPUT] You said help. Do you want to get help.
+[USER_INPUT] day planner
+[SKILL_OUTPUT] Welcome to the Day Planner... With this feature you can set up a routine for a typical day. Then you can set reminders according to your routine, or you can refer to it whenever you forget what to do... We need to know how old you are to automate some tasks.  Can we know your age.

@@ -1,0 +1,12 @@
+[USER_INPUT] Alexa, open our farm
+[SKILL_OUTPUT] Ok, Here's Our Farm.<Short audio>.Welcome to Our Farm. Help me increase the level of Our Farm. Higher the level, higher the challenges and so the rewards. What would you like to do: Help or Sow.
+[USER_INPUT] help
+[SKILL_OUTPUT] You start with 50 coins and 0 points of experience. The goal is to improve Our Farm that starts at level 1. Every day you will receive 100 coins for coming back. But you have to start in the Welcome area to get the reward. As a Pro Farmer you will double your rewards. To know about it say: Pro Farmer. If you have 1000 coins to spare you can fertilize before sowing, just say: Fertilize.  I have some premium products to help you improve your farm, they are: Fertilizer Pack, Irrigator Pack, Refill Pack and Repair Kit. To hear something again, say: Repeat. What would you like to do.
+[USER_INPUT] repeat
+[SKILL_OUTPUT] What would you like to do: Help or Sow.
+[USER_INPUT] help
+[SKILL_OUTPUT] You start with 50 coins and 0 points of experience. The goal is to improve Our Farm that starts at level 1. Every day you will receive 100 coins for coming back. But you have to start in the Welcome area to get the reward. As a Pro Farmer you will double your rewards. To know about it say: Pro Farmer. If you have 1000 coins to spare you can fertilize before sowing, just say: Fertilize.  I have some premium products to help you improve your farm, they are: Fertilizer Pack, Irrigator Pack, Refill Pack and Repair Kit. To hear something again, say: Repeat. What would you like to do.
+[USER_INPUT] what can i do with coins?
+[SKILL_OUTPUT] There are no products to offer to you right now. Sorry about that. To sow just say: Sow.
+[USER_INPUT] sow
+[SKILL_OUTPUT] On the current farm level we can sow:  Cucumber. Say: Sow Cucumber. Or Help if you need me.

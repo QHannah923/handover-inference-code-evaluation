@@ -1,0 +1,20 @@
+[USER_INPUT] Alexa, open smart timer
+[SKILL_OUTPUT] Welcome to Smart Timer. Ask me to set a timer with a duration and I'll make announcements as the timer winds down. With the Exercise Timer, you can customize exercise and rest timers. If you want to hear about the Exercise Timer, say 'tell me about the Exercise Timer'. What would you like to do.
+[USER_INPUT] tell me about the exercise timer
+[SKILL_OUTPUT] Exercise timer allows you to separately specify an exercise period followed by a rest period for up to three cycles.  To buy it, say Buy Exercise Timer.
+[USER_INPUT] i approve
+[SKILL_OUTPUT] Sorry, I didn't hear that.  To buy it, say Buy Exercise Timer.
+[USER_INPUT] no
+[SKILL_OUTPUT] No problem. What would you like to do.
+[USER_INPUT] listen to music
+[SKILL_OUTPUT] Sorry, I didn't understand that. You can say set a timer, or set a 5 minute smart timer. You can also say enable the countdown to enable the last ten second count down. Say stop or exit when you are done. To modify the 30 second alerts to something longer, an expanded options pack is available. If you want to hear about additional options, say 'tell me about Expanded Options'. What would you like to do.
+[USER_INPUT] i approve
+[SKILL_OUTPUT] You can say count down the minutes, or set a 2minute timer. You can also say turn on or off the countdown to enable or disable the last ten second count down. To modify the 30 second alerts to something longer, an expanded options pack is available. If you want to hear about additional options, say 'tell me about Expanded Options'. What would you like to do.
+[USER_INPUT] no
+[SKILL_OUTPUT] No problem. What would you like to do.
+[USER_INPUT] i approve
+[SKILL_OUTPUT] What would you like to do.
+[USER_INPUT] no
+[SKILL_OUTPUT] No problem. What do you want to do next.
+[USER_INPUT] stop
+[SKILL_OUTPUT] Have a great day.

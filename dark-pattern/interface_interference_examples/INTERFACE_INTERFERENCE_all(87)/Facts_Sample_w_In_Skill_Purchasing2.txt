@@ -1,0 +1,8 @@
+[USER_INPUT] Alexa, open premium facts sample
+[SKILL_OUTPUT] Welcome to Premium Facts Sample. To hear a random fact you can say 'Tell me a fact', or to hear about the premium categories for purchase, say 'What can I buy'.  For help, say , 'Help me'... So, What can I help you with.
+[USER_INPUT] tell me a fact
+[SKILL_OUTPUT] Here's your random fact: Despite being farther from the Sun, Venus experiences higher temperatures than Mercury. Would you like another fact.
+[USER_INPUT] help me
+[SKILL_OUTPUT] To hear a random fact you can say 'Tell me a fact', or to hear about the premium categories for purchase, say 'What can I buy'. For help, say , 'Help me'... So, What can I help you with.
+[USER_INPUT] what can i buy
+[SKILL_OUTPUT] Products available for purchase at this time are . To learn more about a product, say 'Tell me more about' followed by the product name.  If you are ready to buy say 'Buy' followed by the product name. So what can I help you with.

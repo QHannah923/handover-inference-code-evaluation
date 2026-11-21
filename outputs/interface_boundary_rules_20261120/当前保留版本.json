@@ -1,0 +1,41 @@
+{
+  "status": "complete",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "high",
+  "new_api_calls": 0,
+  "source_model_outputs": "/Users/calmdown/Downloads/handover-inference-code-evaluation/outputs/interface_semantic_freemium_20261120/confirmation_run/predictions.json",
+  "active_rule_sha256": "08cf62290f20e1179181075ea1a54a8f0badfc59bd7766e113675032f3cfbdb7",
+  "source_snapshot_sha256": "08cf62290f20e1179181075ea1a54a8f0badfc59bd7766e113675032f3cfbdb7",
+  "reference_unchanged": true,
+  "results": {
+    "beforeTypeHits": 80,
+    "beforeTypeAccuracy": 0.9195,
+    "beforePathHits": 75,
+    "beforePathAccuracy": 0.8621,
+    "afterTypeHits": 84,
+    "afterTypeAccuracy": 0.9655,
+    "afterPathHits": 79,
+    "afterPathAccuracy": 0.908,
+    "gain": "两级各净增4条，提高4.60个百分点",
+    "changedCorrectedIds": [
+      5,
+      7,
+      14,
+      32
+    ],
+    "newPrimaryPathErrors": [],
+    "remainingTypeErrorIds": [
+      50,
+      82,
+      83
+    ],
+    "remainingChildOnlyErrorIds": [
+      40,
+      53,
+      64,
+      81,
+      87
+    ]
+  },
+  "report": "/Users/calmdown/Downloads/handover-inference-code-evaluation/outputs/interface_boundary_rules_20261120/七条复读与规则升级结果.md"
+}

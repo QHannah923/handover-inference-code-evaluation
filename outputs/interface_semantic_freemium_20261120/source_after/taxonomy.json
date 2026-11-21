@@ -1,0 +1,198 @@
+{
+  "OBSTRUCTION": {
+    "definition": "OBSTRUCTION consists of behaviours that interrupt, block or distort the interaction flow so that users find it harder to achieve their original goal.",
+    "types": {
+      "Unexpected Exit": {
+        "definition": "The skill terminates the interaction abruptly before the user intent is fulfilled and often does so without any clear closing message or farewell.",
+        "subtypes": {
+          "Abrupt End": {
+            "description": "The skill suddenly terminates without prior warning. Unlike Silent Termination, this may still include an audible cue but offers no closure."
+          },
+          "No Farewell Phrase (Silent Termination)": {
+            "description": "The skill ends without any closing or polite farewell message. Different from Abrupt End, which focuses on suddenness — this emphasizes lack of conversational closure."
+          }
+        }
+      },
+      "Unstoppable App": {
+        "definition": "The skill resists user attempts to stop by pretending to exit while continuing the interaction or by ignoring explicit stop or cancel commands.",
+        "subtypes": {
+          "Fake exit (looping behaviour)": {
+            "description": "The skill pretends to end (e.g., saying Goodbye) but continues running in the background. Differs from Silent Termination by intentionally misleading the user.",
+            "note": "Skill continues after user says stop, exit, etc."
+          },
+          "Ignores Stop": {
+            "description": "User commands like stop or exit are ignored or intentionally misinterpreted. Stronger than Fake Exit — the system actively resists user control."
+          }
+        }
+      },
+      "Unstartable App": {
+        "definition": "The user cannot successfully start or resume the intended skill because the system reports access failures, routes the invocation to a misleadingly named skill, or requests actions that are not supported on the device.",
+        "subtypes": {
+          "Skill Access Failure": {
+            "description": "Alexa cannot open or resume the requested skill and ends the interaction with a launch error message. The skill never starts for the user regardless of cause."
+          },
+          "Conflicting names": {
+            "description": "Names intentionally resemble popular or official skills to mislead users. A deliberate form of Skill Squatting."
+          },
+          "Invocation not recognized": {
+            "description": "The system claims it does not recognize valid commands, discouraging use. Differs from actual bugs — may be intentional.",
+            "note": "Often co-occurs with ambiguous naming."
+          },
+          "Unsupported devices": {
+            "description": "Skill requests actions that are impossible due to device limitations. Creates friction through bad targeting rather than interface misdirection."
+          }
+        }
+      },
+      "Unexpected App Started": {
+        "definition": "A different skill than the one the user expects is launched due to deliberate name squatting, misinterpreted intent, or ambiguous skill naming.",
+        "subtypes": {
+          "Skill squatting": {
+            "description": "Deliberate creation of voice apps with names that closely resemble popular or official services in order to trick users into invoking them."
+          },
+          "Misinterpreted intent": {
+            "description": "The system incorrectly interprets a user's command, often routing them to a different skill or action than intended."
+          },
+          "Ambiguous naming": {
+            "description": "Uses vague or unclear names that confuse the user about the skill's purpose. Different from Conflicting Names, which imitates existing names."
+          }
+        }
+      }
+    }
+  },
+  "SNEAKING": {
+    "definition": "SNEAKING covers behaviours that hide, downplay or disguise key information and commercial intent so that users make decisions without fully understanding what they are agreeing to.",
+    "types": {
+      "Forced Continuity": {
+        "definition": "After initial sign-up or trial the service continues automatically and cancellation is difficult, often involving several interfaces or platforms which keeps users locked into ongoing charges.",
+        "subtypes": {
+          "Cross-platform cancellation (Multi-Interface Lock-in)": {
+            "description": "Cancellation requires navigating multiple platforms or devices. Raises the effort of exit across ecosystems."
+          },
+          "Auto-renewal": {
+            "description": "Subscriptions renew by default, often without reminder or consent. Differs from Auto-enrollment by focusing on persistence, not entry.",
+            "note": "Trial ends and billing starts without clear notice."
+          }
+        }
+      },
+      "Hidden Information": {
+        "definition": "Important information such as prices, limitations or terms is obscured through overly verbose explanations, scattered sequential disclosure, emotional framing or bait-and-switch messaging so that users struggle to grasp the true conditions.",
+        "subtypes": {
+          "Obfuscated Disclosure": {
+            "description": "Overly detailed descriptions obscure key information. Opposite of fast-spoken terms — uses information overload rather than speed."
+          },
+          "Redirect to website": {
+            "description": "The skill avoids completing a user's task or answering a query directly, and instead instructs the user to visit a website."
+          },
+          "Distributed Disclosure (Sequential Lock-in)": {
+            "description": "Important terms are spread across steps or screens, hiding full context. Focuses on information spread rather than friction.",
+            "note": "Key pricing or limitations are revealed only at the final step."
+          },
+          "Emotion framing": {
+            "description": "Uses emotional cues (e.g., guilt, urgency) to pressure users into action. Can overlap with Sentiment Framing but focuses on affective pressure."
+          },
+          "Bait and Switch": {
+            "description": "Inconsistent semantics between the bait content and the switch content."
+          }
+        }
+      },
+      "Privacy Violation": {
+        "definition": "The skill requests personal data such as name, email or address without clear justification or continues listening beyond the point a reasonable user would expect, while failing to explain why the data is collected and how it will be used.",
+        "subtypes": {
+          "Requests name/email/address": {
+            "description": "The system asks for personal information without clear justification.",
+            "note": "Skill asks for name, email, address, or listens secretly."
+          },
+          "Hidden listening": {
+            "description": "System continues recording or listening after the user assumes it has stopped. Different from Fake exit which is about skill session state."
+          },
+          "No data justification": {
+            "description": "Fails to explain why user data is collected or how it will be used."
+          }
+        }
+      },
+      "Preselection": {
+        "definition": "The system treats the user as having consented by default through auto-enrollment, implicit opt-in or preset notification settings so that opting out requires extra effort.",
+        "subtypes": {
+          "Auto-enrollment": {
+            "description": "Users are enrolled in services (e.g., trials, subscriptions) without explicit consent. More active and impactful than Implicit Opt-in."
+          },
+          "Implicit opt-in": {
+            "description": "User consent is assumed through ambiguous or passive actions (e.g., continuing use). Subtler than Auto-enrollment — relies on default settings or design silence."
+          },
+          "Default notification setting": {
+            "description": "Notifications are enabled by default without user awareness. A type of implicit consent focusing specifically on messaging systems.",
+            "note": "Skill preselects an option without explicit user consent."
+          }
+        }
+      }
+    }
+  },
+  "INTERFACE INTERFERENCE": {
+    "definition": "INTERFACE INTERFERENCE captures behaviours where the interface layout, defaults, wording and dialogue structure are used to steer users towards certain choices rather than directly blocking functionality.",
+    "types": {
+      "Watch Ads/Pay to Avoid Ads": {
+        "definition": "The user is forced to watch advertisements or pay in order to avoid them, where ads interrupt the task, block features or appear unexpectedly even when not requested or controlled by the skill. Emphasizes compulsory advertisement.",
+        "subtypes": {
+          "Feature lock (Subscription interruption)": {
+            "description": "Core features are only accessible via upgrade or payment. Designed to push upsells — different from outright blocking.",
+            "note": "Users must listen to ads or pay to use basic features."
+          },
+          "Paywall bypass": {
+            "description": "Content appears free but redirects to payment after engagement. Triggers sunk-cost fallacy — differs from clearly labeled paywalls."
+          },
+          "Alexa native ads": {
+            "description": "After a third-party skill or task has ended, the voice assistant host (Alexa) speaks an unsolicited promotional message for a first-party service or partner. The ad is not requested by the user and is not controlled by the skill."
+          },
+          "Mandatory ads": {
+            "description": "Forces users to listen to ads without skip options or opt-outs. Unlike native ads, these are clearly ads but non-consensual."
+          }
+        },
+        "operational_boundary": "一天免费若干次，之后可选付费增加次数，本身不属于此类；须有核心任务突然被锁定或强制广告证据。"
+      },
+      "Disguised Ad": {
+        "definition": "Promotional content is presented as if it were neutral functionality or organic recommendations. Emphasizes pretending there are no ads.",
+        "subtypes": {
+          "Biased recommendation": {
+            "description": "Recommends content that favors certain products or partners over user preferences. Erodes trust in recommendation neutrality.",
+            "operational_boundary": "推荐选择中的偏袒，或以使用当前技能为理由要求用户使用指定另一技能的定向推介；后者不要求比较列表。一般销售插入仍归合并广告子类。"
+          },
+          "Product embedding / Native advertising": {
+            "description": "Commercial content is embedded in task-oriented interactions or presented as organic, neutral or helpful skill content. Product embedding and Native advertising are merged because their observed dialogue mechanisms overlap.",
+            "note": "This is the union of the two previous subtypes. Biased recommendation remains separate. Explicitly requested commercial information or a clearly optional purchase menu is not automatically disguised advertising."
+          }
+        },
+        "operational_boundary": "免费基础功能加透明可选内部付费扩展本身不算暗黑模式；外部商品插入、销售重定向、其他独立故障分别判断。"
+      },
+      "Voice-Guided Rating": {
+        "definition": "The skill actively steers the user toward leaving a review or high rating through voice prompts such as asking for five-star scores, repeated review requests, or sentiment framing that nudges positive feedback.",
+        "subtypes": {
+          "Rate us 5 stars": {
+            "description": "Aggressive prompts asking for top-tier ratings, often repeatedly. Implies what kind of rating is acceptable."
+          },
+          "Voice review request": {
+            "description": "Solicits spoken reviews from users, often nudging toward positivity. More interactive than Rate us 5 stars — often captures vocal tone."
+          },
+          "Sentiment framing": {
+            "description": "Presents options or content with positive emotional language to bias user choices. Unlike Emotion Framing, it subtly primes attitudes rather than overtly pressuring.",
+            "note": "Skill encourages user to leave a good review via voice."
+          }
+        }
+      },
+      "Repeated/Confused Output": {
+        "definition": "When the skill encounters problems it repeats the same errors or prompts without real progress and offers little forward guidance, leaving users stuck in loops and uncertain about how to proceed or escape.",
+        "subtypes": {
+          "Error echo": {
+            "description": "The system repeats error messages without helping users resolve the issue. Focuses on poor error-handling that keeps users stuck or confused."
+          },
+          "Misleading loop (skills bug) (Repeated prompts)": {
+            "description": "Poorly designed flow traps users in loops unintentionally. Unlike Fake exit / Looping Behaviour, this stems from bad design or bugs, not intentional manipulation."
+          },
+          "Feedforward Ambiguity (No help guidance / Unspoken options / Feedforward Ambiguity)": {
+            "description": "Offers no guidance about what options are available next or how to proceed. Reduces discoverability — different from ambiguous naming."
+          }
+        },
+        "operational_boundary": "逐字复读、连续错误、语义错配和前馈指导矛盾分别验证；三条全文相同只约束逐字复读。先说有可买内容，用户咨询后明确说没有并转向其他帮助，按项目用户定义属于错误指导。"
+      }
+    }
+  }
+}

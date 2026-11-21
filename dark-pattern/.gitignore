@@ -1,0 +1,15 @@
+# API keys
+openai.txt
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Data folders
+5924organized_files/
+5924dataset*/
+
+# macOS
+.DS_Store
+*.numbers

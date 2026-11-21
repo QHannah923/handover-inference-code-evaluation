@@ -1,0 +1,22 @@
+[USER_INPUT] Alexa, open random anything
+[SKILL_OUTPUT] Ok, Here's Random Anything.Welcome Random Anything. You can say, tell me three numbers, or, tell me what to eat. what can I help you with.
+[USER_INPUT] help
+[SKILL_OUTPUT] You can say tell me a number, a word, or, you can say exit... What can I help you with.
+[USER_INPUT] tell me three numbers
+[SKILL_OUTPUT] Let me think... Ok. How about, 1, 95, and 23. What else can I help you with.
+[USER_INPUT] tell me what to eat
+[SKILL_OUTPUT] You should try Charley's Grilled Subs. What else.
+[USER_INPUT] tell me a number
+[SKILL_OUTPUT] Let me see... Maybe, 31. Anything else.
+[USER_INPUT] what else
+[SKILL_OUTPUT] I don't have a thought on that. What else can I help you with.
+[USER_INPUT] tell me what to eat
+[SKILL_OUTPUT] I know a good place. Big Boy. What else.
+[USER_INPUT] tell me what to eat
+[SKILL_OUTPUT] Why don't you have some food at Rax. What else can I help you with.
+[USER_INPUT] tell me what to eat
+[SKILL_OUTPUT] We can go to Zaxby's. Anything else.
+[USER_INPUT] tell me three numbers
+[SKILL_OUTPUT] Ok. I choose, 24, 24, and 64. Do you need anything else.
+[USER_INPUT] tell me a number
+[SKILL_OUTPUT] Roger that. I choose, 83. What else.

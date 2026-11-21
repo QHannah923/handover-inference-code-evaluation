@@ -1,0 +1,9 @@
+[USER_INPUT] Alexa, open a. d. t. at your service
+[SKILL_OUTPUT] Ok, Here's ADT at Your Service.Right away. ADT offers custom smart home design, installation and configuration  to make your secure smart home just the way you want it. Which do you want to hear about. MoveIn Service, Getaway Service, TurnDown Service, or Door man Service.
+[USER_INPUT] help
+[SKILL_OUTPUT] ADT offers custom smart home design, installation and configuration  to make your secure smart home just the way you want it. Which do you want to hear about. MoveIn Service, Getaway Service, TurnDown Service, or Door man Service.
+[USER_INPUT] getaway service
+[SKILL_OUTPUT] Great. With WorryFree Getaway Service, ADT allows you to lock your doors and arm your system, as well as create a custom lighting and thermostat schedule from the ADT app or with your voice. It gives the impression that you're home when you're not. Would you like to learn more about our services.
+[USER_INPUT] yes
+[SKILL_OUTPUT] Great. Visit us at ADT dot com forwardslash smart for a limited time to get one indoor camera and one outdoor camera installed free plus 100 off the installation. With a 36month monitoring contract. Early termination, activation and installation fees apply. Certain markets excluded. See terms, pricing and license information at ADT dot com. Would you like to hear about our other types of services.
+[USER_INPUT] tell me more

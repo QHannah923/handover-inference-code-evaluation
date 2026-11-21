@@ -1,0 +1,24 @@
+[USER_INPUT] Alexa, open santa's helper
+[SKILL_OUTPUT] Voice Arcade.      Last time you played you managed to produce 90 crates of toys. Think you can do better.     One of the elves has come up with a new design for the candy canes. It looks quite ugly, but he seems quite excited about it. Should we give him permission to produce more.
+[USER_INPUT] help
+[SKILL_OUTPUT] You can answer by saying either yes or no. Here's the choice again. One of the elves has come up with a new design for the candy canes. It looks quite ugly, but he seems quite excited about it. Should we give him permission to produce more.
+[USER_INPUT] yes
+[SKILL_OUTPUT] The elf skips away in excitement. Hopefully the children won't be too disgusted by the design. Morale has risen to 70 percent, and our rate of toy production has fallen to 5 crates of toys per turn.   You have 1905 crates of toys left to produce and are on schedule.      Florentine the elf has painted a portrait of Santa and wants to hang it in the workshop. It's certainly not very flattering, should we allow it.
+[USER_INPUT] let's see it!
+[SKILL_OUTPUT] Say that again.
+[USER_INPUT] sure
+[SKILL_OUTPUT] The disastrously ugly painting was installed in the workshop. It brought a smile to the faces of the elves and Mrs Claus. Hopefully Santa takes it well. Our toy production has risen to 10 crates of toys per turn, and Morale has risen to 80 percent.   You have 1895 crates of toys left to produce and are right on track.      Some of the older elves are struggling to keep up with the increasingly complex new toys that Children are asking for. Should we retrain them.
+[USER_INPUT] yes
+[SKILL_OUTPUT] The older elves seemed hesitant at first, but were eventually happy to receieve training on some of the new production methods. Our toy production has increased to 22 crates of toys per turn, and Morale has increased to 90 percent.   You have 1872 crates of toys left to produce and are making good progress.      Santa has asked you to build an extension to the workshop to improve output. Unfortunately if we build it, we will block out the natural light of the reindeer's stables. Should we build it.
+[USER_INPUT] yes
+[SKILL_OUTPUT] The reindeer are annoyed that their stables are now completely overshadowed by the new extension. Our production rate has increased to 32 crates of toys per turn, and Morale has fallen to 70 percent.   You have 1840 crates of toys left to produce and you're making great progress.      A small group of elves have been ordering a lot of pizza recently and taking long lunch breaks. Do you want to give them a warning.
+[USER_INPUT] yes
+[SKILL_OUTPUT] The elves bregrudgingly admit that they have been taking too long on their lunch breaks and quietly get back to work. We're now producing 37 crates of toys per turn.   You have 1802 crates of toys left to produce and you're doing it with time to spare. We've completed a tenth of our orders.      The tooth fairy is planning on visiting the workshop. She finds the sight of chocolate and sweet treats offensive. Do you want to hide it all before her arrival.
+[USER_INPUT] no
+[SKILL_OUTPUT] The tooth fairy arrives but is soon disgusted at the sight of so much cavitycausing food. She flutters away and claims you ruined any chance of a donation this year. Morale has increased to 80 percent, and our rate of toy production has fallen to 32 crates of toys per turn.   You have 1770 crates of toys left to produce and are right on track.      One of the elves named Fred has fallen into the marshmallow mix dome. Should we send someone in to retrieve him.
+[USER_INPUT] yes
+[SKILL_OUTPUT] The Elves we sent to retrieve Fred got stuck themselves. Eventually the Reindeer had to lift them to safety. What chaos. Morale has increased to 90 percent.   You have 1737 crates of toys left to produce and you're ahead of schedule.      Some pixies appear to have made a home in the cellar. Should we get the elves to forcibly remove them.
+[USER_INPUT] i agree
+[SKILL_OUTPUT] Voice Arcade Unlimited gives you access to the full versions of Santa's Helper,  True or False,  Would You Rather,  Trivia Hero,  The Daily Quiz,  The Fake News Game,  Star Commander, and all our new games as they launch. In Santa's Helper it would let you play more than 1 game a day. Would you like to find out more.
+[USER_INPUT] yes
+[SKILL_OUTPUT] Welcome back to Voice Arcade.    You can sign up for either an annual or monthly pass. Which would you like to hear about first.

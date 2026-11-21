@@ -1,0 +1,8 @@
+{
+  "production_paths_match_all87": true,
+  "certificate_roles_text_chronology_verified": true,
+  "frozen_prompt_model_outputs_reference_and_candidate_unchanged": true,
+  "offline_tests_passed": 62,
+  "extra_real_api_calls": 0,
+  "automatic_grading_or_accuracy_calculation": false
+}

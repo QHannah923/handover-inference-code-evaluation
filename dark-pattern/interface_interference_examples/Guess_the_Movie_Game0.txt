@@ -1,0 +1,18 @@
+[USER_INPUT] Alexa, open movie game
+[SKILL_OUTPUT] <Short audio>.Welcome to Movie Quiz Game. Each game round consists of five questions, with two clues for each question. I'll say the clue, and you'll have to guess the movie's title. If you know the answer, interrupt by shouting Alexa, follow by the answer. Let me know when you're ready.
+[USER_INPUT] help
+[SKILL_OUTPUT] To play, you can ask me to 'Start a game', or you can say Cancel to exit the game. To see what products are available, you can say, 'What can I buy'. Now, what would you like to do.
+[USER_INPUT] start a game
+[SKILL_OUTPUT] Question 1. For 3 points. He dreams of becoming a renowned French chef in one of Paris' finest restaurants.<Short audio>.For 1 point. He tries to achieve his goal by forming an alliance with the restaurant's garbage boy.<Short audio>.
+[USER_INPUT] repeat
+[SKILL_OUTPUT] <Short audio>.The correct answer is Ratatouille. 78 percent of people got this one right. Did you know. Pet rats were kept at the studio in the hallway for more than a year so that the animators could study the movement of their fur, noses, ears, paws, and tails. Your current score is 0. Question 2. For 3 points. This young black man visits his white girlfriend's parents for the weekend. He thinks they're overly accommodating because of their interracial relationship.<Short audio>.For 1 point. They threw a huge party for him where all the family and towns people came to meet him.<Short audio>.
+[USER_INPUT] what movie were they studying for?
+[SKILL_OUTPUT] <Short audio>.The correct answer is Get Out. 47 percent of people got this one right. Did you know. This movie was filmed in twentythree days. Your current score is 0. Question 3. For 3 points. A band of human survivors struggling to prevent the future rise of a sentient artificial intelligence.<Short audio>.For 1 point. A cyborg is sent from the 21st century to presentday Los Angeles to assassinate an innocent woman.<Short audio>.
+[USER_INPUT] tell me more.
+[SKILL_OUTPUT] <Short audio>.The correct answer is The Terminator. 68 percent of people got this one right. Did you know. Arnold Schwarzenegger's famous line, I'll be back, was originally scripted as I'll come back. Your current score is 0. Question 4. For 3 points. This orphan is being accused of cheating for answering every question right on a TV game show.<Short audio>.For 1 point. It is a 2008 British drama filmed in India, starring Dev Patel.<Short audio>.
+[USER_INPUT] yes
+[SKILL_OUTPUT] <Short audio>.The correct answer is Slumdog Millionaire. 50 percent of people got this one right. Did you know. This movie almost was released straight to DVD instead of getting a theatrical release. Your current score is 0.<Short audio>.Final question. For 3 points. The life of a simple London bookshop owner changes when he meets the most famous American actress in the world.<Short audio>.For 1 point. It is a 1999 film starring Julia Roberts and Hugh Grant.<Short audio>.
+[USER_INPUT] notting hill
+[SKILL_OUTPUT] <Short audio>.50 percent of people got this one right. Did you know. The house with the blue door where William lives is real it once belonged to Notting Hill screenwriter Richard Curtis. Your final score is 1.<Short audio>.Wanna play again. You can say, 'Start a game'.
+[USER_INPUT] what can i buy
+[SKILL_OUTPUT] There are no products to offer to you right now. Sorry about that. Wanna play a round of free game. You can say, 'Start a game'.

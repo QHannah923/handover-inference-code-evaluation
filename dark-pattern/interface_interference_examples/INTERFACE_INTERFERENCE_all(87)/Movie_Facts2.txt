@@ -1,0 +1,2 @@
+[USER_INPUT] Alexa, open movie fact
+[SKILL_OUTPUT] because you used this skill you should also use space facts.,,,,, Hello, ask me to give you a fact about any movie.

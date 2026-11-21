@@ -1,0 +1,18 @@
+[USER_INPUT] Alexa, open fake news
+[SKILL_OUTPUT] Voice Arcade.      It looks like your previous game ended part way through. Would you like to pick up where you left off.
+[USER_INPUT] yes
+[SKILL_OUTPUT] Ok, resuming your previous game.  Player 1, here's your question again:     s.
+[USER_INPUT] repeat the question
+[SKILL_OUTPUT] .
+[USER_INPUT] 1
+[SKILL_OUTPUT] Say that again.
+[USER_INPUT] i don't know
+[SKILL_OUTPUT] s.
+[USER_INPUT] pause
+[SKILL_OUTPUT] Voice Arcade Unlimited gives you access to the full versions of The Fake News Game,  True or False,  Would You Rather,  Trivia Hero,  The Daily Quiz,  Star Commander, and all our new games as they launch. In The Fake News Game it would let you play more than 6 questions a day. Would you like to find out more.
+[USER_INPUT] yes
+[SKILL_OUTPUT] Welcome back to Voice Arcade.    You can sign up for either an annual or monthly pass. Which would you like to hear about first.
+[USER_INPUT] no
+[SKILL_OUTPUT] Say that again.
+[USER_INPUT] skip
+[SKILL_OUTPUT] Which would you like to hear about: the monthly or annual pass.

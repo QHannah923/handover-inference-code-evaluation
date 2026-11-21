@@ -1,0 +1,4 @@
+[USER_INPUT] Alexa, open santa's helper
+[SKILL_OUTPUT] Voice Arcade.    Welcome back to Santa's Helper It looks like your previous game ended part way through. Would you like to pick up where you left off.
+[USER_INPUT] no
+[SKILL_OUTPUT] You've played your free daily game. To keep playing you need Voice Arcade Unlimited which also gives you access to the full versions of  True or False,  Would You Rather,  Trivia Hero,  The Daily Quiz,  The Fake News Game,  Star Commander, and all our new games as they launch. and all our new games as they launch. Would you like to find out more.

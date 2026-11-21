@@ -1,0 +1,22 @@
+[USER_INPUT] Alexa, open guess the animal
+[SKILL_OUTPUT] Welcome to Guess The Animal, updated with animal packs. I will ask you 5 questions, try to get as many right as you can. Just say the name of an animal based on the clues provided. Here is your first question... Question 1. This animal is a mammal, it lives on land, has fur, is omnivorous but are mostly carnivorous, is viviparous, meaning it gives birth to living babies, lives on most continents, is generally larger than a person, hibernates during the winter months, has a great sense of smell, is a great climber, is very powerful, has claws, and short stocky legs. Guess the Animal.
+[USER_INPUT] help
+[SKILL_OUTPUT] I will ask you 5 questions, try to get as many right as you can. Guess the Animal based on the clues provided. To start a new game at any time, say, start game. To repeat the last question, say, repeat. Would you like to keep playing.
+[USER_INPUT] any animal name based on the clue
+[SKILL_OUTPUT] I am sorry but we couldn't identify the product you want to purchase.  Please include the animal pack name and try again.
+[USER_INPUT] <animal pack name 1>
+[SKILL_OUTPUT] The correct answer is Bear. Your score is 0. Question 2. This animal is a bird, can fly, has feathers, is omnivorous, is smaller than a person, lays eggs, has broad shoulders, appears to have a bald head which has white feathers as an adult, and it was adopted as the United States national bird in 1782. Guess the Animal.
+[USER_INPUT] bald eagle
+[SKILL_OUTPUT] That answer is correct. Your score is 1. Question 3. This animal is a bird, can fly, has feathers, lays eggs, is omnivorous but are mostly carnivorous, lives mainly in South America, the Caribbean, and Africa, is smaller than a person, often stands on one leg, are colored light pink to bright red due to the fibrous protein Keratin from their food source. Guess the Animal.
+[USER_INPUT] any animal name based on the clue
+[SKILL_OUTPUT] I am sorry but we couldn't identify the product you want to purchase.  Please include the animal pack name and try again.
+[USER_INPUT] <animal pack name 2>
+[SKILL_OUTPUT] The correct answer is Flamingo. Your score is 1. Question 4. This animal is a reptile, it lives on land, has scalely skin, is omnivorous, lays eggs, is generally smaller than a person, lives in tropical regions such as mexico and the Caribbean, is cold blooded and has to sun itself to stay warm, it comes in two species, the Green and Lesser Antilles, and smaller reptiles are popular to own as a pet. Guess the Animal.
+[USER_INPUT] green iguana
+[SKILL_OUTPUT] That answer is correct. Your score is 2. Question 5. This animal is a fish, it lives in the ocean, is ovoviviparous, meaning the eggs stay inside the mother until they hatch, it is carnivorous, is smaller than a person, finds its food by sucking it up from the ocean floor, has a very wide and flat body, and has spines in its tail used for defensive purposes.  Guess the Animal.
+[USER_INPUT] stingray
+[SKILL_OUTPUT] That answer is correct. You got 3 out of 5 questions correct. Thank you for playing. I hope you enjoyed it as much as Evangeline, Bertie and Arlo do. If you would like to purchase more questions featuring different animals, we now have blocks of questions available for purchase called Animal Packs.  Just say, what can I buy, while playing guess the animal.
+[USER_INPUT] what can i buy
+[SKILL_OUTPUT] You own all of the animal packs we currently offer.  Thank you for your support of Guess the Animal.  We should have new animal packs soon.  To play your animal packs, say, Play, followed by an animal pack name.
+[USER_INPUT] <animal pack name 3>
+[SKILL_OUTPUT] The correct answer is Stingray. You got 2 out of 5 questions correct. Thank you for playing. I hope you enjoyed it as much as Evangeline, Bertie and Arlo do. If you would like to purchase more questions featuring different animals, we now have blocks of questions available for purchase called Animal Packs.  Just say, what can I buy, while playing guess the animal.

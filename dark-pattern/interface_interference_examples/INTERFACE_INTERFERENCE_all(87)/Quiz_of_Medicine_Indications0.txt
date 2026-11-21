@@ -1,0 +1,16 @@
+[USER_INPUT] Alexa, open medicine indications quiz
+[SKILL_OUTPUT] Ok, Here's Quiz of Medicine Indications.Welcome to Quiz of Medicine Indications. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Its quiz time. Let's begin. Question 1. Which of the following is used to treat prevent ovulation. 1. vardenafil. 2. levothyroxine. 3. ethinyl estradiol norethindrone acetate. 4. conjugated estrogen.
+[USER_INPUT] help
+[SKILL_OUTPUT] I will ask you 5 multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question, say, repeat. Would you like to keep playing.
+[USER_INPUT] start game
+[SKILL_OUTPUT] Welcome to Quiz of Medicine Indications. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Its quiz time. Let's begin. Question 1. Which of the following is used to treat depression, obsessive compulsive disorder, or social anxiety disorder. 1. nadolol. 2. clotrimazole. 3. paroxetine. 4. butorphanol.
+[USER_INPUT] 1
+[SKILL_OUTPUT] That answer is incorrect. The correct answer is 3: paroxetine. Your score is 0. Question 2. Which of the following is used to treat different types of infections caused by bacteria. 1. hydrocodone acetaminophen. 2. amoxicillin and clavulanate potassium. 3. febuxostat. 4. enoxaparin.
+[USER_INPUT] 2
+[SKILL_OUTPUT] That answer is correct. Your score is 1. Question 3. Which of the following is used to treat nerve and muscle pain or seizures. 1. ipratropium bromide. 2. dutasteride tamsulosin. 3. norethindrone ethinyl estradiol . 4. pregabalin.
+[USER_INPUT] anticonvulsants
+[SKILL_OUTPUT] The correct answer is 4: pregabalin. Your score is 1. Question 4. Which of the following is used to treat depression. 1. warfarin sodium. 2. tadalafil. 3. citalopram. 4. azithromycin.
+[USER_INPUT] 3
+[SKILL_OUTPUT] That answer is correct. Your score is 2. Question 5. Which of the following is used to treat chronic bronchitis or chronic obstructive pulmonary disease . 1. paliperidone. 2. aripiprazole. 3. metoclopramide. 4. tiotropium.
+[USER_INPUT] pain relievers
+[SKILL_OUTPUT] The correct answer is 4: tiotropium. You got 2 out of 5 questions correct. Thank you for playing. For more questions and categories check out the R X Quiz of Pharmacy app. Take care.

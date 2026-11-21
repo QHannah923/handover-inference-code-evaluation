@@ -1,0 +1,10 @@
+[USER_INPUT] Alexa, open christmas spectacular
+[SKILL_OUTPUT] Alexa, open christmas spectacular
+[USER_INPUT] The Christmas Spectacular has been seen by more than 75 million people since it first opened in 1933.  Do you want another fact.
+[SKILL_OUTPUT] help
+[USER_INPUT] Would you like to get facts about rockettes.
+[SKILL_OUTPUT] yes
+[USER_INPUT] The Parade of the Wooden Soldiers and the Living Nativity scene have been a part of the Christmas Spectacular since 1933.  Do you want another fact.
+[SKILL_OUTPUT] no
+[USER_INPUT] Thank you for showing your interest in Christmas Spectacular. You can always visit rockettes.com for more details.
+[SKILL_OUTPUT] visit rockettes.com

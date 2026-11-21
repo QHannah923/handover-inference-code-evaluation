@@ -1,0 +1,20 @@
+[USER_INPUT] Alexa, open successful farming live
+[SKILL_OUTPUT] Ok, Here's Successful Farming Live.<Short audio>.
+[USER_INPUT] help
+[SKILL_OUTPUT] <Short audio>.
+[USER_INPUT] pause
+[SKILL_OUTPUT] Sorry, I don't have that commodity yet. Please try another commodity.
+[USER_INPUT] another commodity
+[SKILL_OUTPUT] Sorry, I don't have that commodity yet. Please try another commodity.
+[USER_INPUT] commodity_name
+[SKILL_OUTPUT] Sorry, I don't have that commodity yet. Please try another commodity.
+[USER_INPUT] gold
+[SKILL_OUTPUT] Sorry, I don't have that commodity yet. Please try another commodity.
+[USER_INPUT] wheat
+[SKILL_OUTPUT] The March 2024 WHEAT futures contract is up 4 and a 34 cents at 6.03.  For more helpful info,  you can subscribe to Successful Farming's free email newsletter for the latest ag news, markets, weather, and more. Want me to email you a link to subscribe.
+[USER_INPUT] subscribe
+[SKILL_OUTPUT] <Short audio>.
+[USER_INPUT] resume
+[SKILL_OUTPUT] <Short audio>.
+[USER_INPUT] stop
+[SKILL_OUTPUT] <Short audio>.

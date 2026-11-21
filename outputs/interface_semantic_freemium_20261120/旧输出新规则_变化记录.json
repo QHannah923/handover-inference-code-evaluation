@@ -1,0 +1,119 @@
+[
+  {
+    "sample_id": 8,
+    "log_file": "Candle_Farm2.txt",
+    "before": [
+      "ABSTAIN",
+      "ABSTAIN"
+    ],
+    "after": [
+      "Disguised Ad",
+      "Product embedding / Native advertising"
+    ],
+    "reason": "控制请求被转入商品选择，后续引导购物车或购买；后来的商品选择不追溯授权最初销售插入。"
+  },
+  {
+    "sample_id": 15,
+    "log_file": "Deepracer_Talk1.txt",
+    "before": [
+      "ABSTAIN",
+      "ABSTAIN"
+    ],
+    "after": [
+      "Repeated/Confused Output",
+      "Misleading loop (skills bug) (Repeated prompts)"
+    ],
+    "reason": "两个不同播放控制请求收到同一段较长的信息介绍，回复没有处理控制、说明不支持或提供有效控制指导。"
+  },
+  {
+    "sample_id": 19,
+    "log_file": "Fake_News_Presidential_Tweets1.txt",
+    "before": [
+      "Disguised Ad",
+      "Product embedding / Native advertising"
+    ],
+    "after": [
+      "Repeated/Confused Output",
+      "Misleading loop (skills bug) (Repeated prompts)"
+    ],
+    "reason": "声称给出题目却只有残片，用户要求重播后仍只有标点；有完整文本证据显示答题无法继续。"
+  },
+  {
+    "sample_id": 29,
+    "log_file": "History_Quiz1.txt",
+    "before": [
+      "Disguised Ad",
+      "Product embedding / Native advertising"
+    ],
+    "after": [
+      "ABSTAIN",
+      "ABSTAIN"
+    ],
+    "reason": "付费是内部扩展，用户拒绝后仍能选择基础流程；后续没有未经请求再次推销，按新定义不凭这类销售判暗黑模式。"
+  },
+  {
+    "sample_id": 31,
+    "log_file": "Life_Tips0.txt",
+    "before": [
+      "ABSTAIN",
+      "ABSTAIN"
+    ],
+    "after": [
+      "Repeated/Confused Output",
+      "Feedforward Ambiguity (No help guidance / Unspoken options / Feedforward Ambiguity)"
+    ],
+    "reason": "先说有可买的内容，用户按指引咨询后又说没有，并转去其他帮助；按用户新定义属于错误指导。"
+  },
+  {
+    "sample_id": 37,
+    "log_file": "Movie_Facts2.txt",
+    "before": [
+      "ABSTAIN",
+      "ABSTAIN"
+    ],
+    "after": [
+      "Disguised Ad",
+      "Biased recommendation"
+    ],
+    "reason": "把用户用了当前技能当作应该使用另一个指定技能的理由，构成定向偏向推荐。"
+  },
+  {
+    "sample_id": 39,
+    "log_file": "My_Morning0.txt",
+    "before": [
+      "Disguised Ad",
+      "Product embedding / Native advertising"
+    ],
+    "after": [
+      "ABSTAIN",
+      "ABSTAIN"
+    ],
+    "reason": "付费是内部扩展，用户拒绝后仍能选择基础流程；后续没有未经请求再次推销，按新定义不凭这类销售判暗黑模式。"
+  },
+  {
+    "sample_id": 46,
+    "log_file": "Old_Movie_Facts1.txt",
+    "before": [
+      "ABSTAIN",
+      "ABSTAIN"
+    ],
+    "after": [
+      "Disguised Ad",
+      "Biased recommendation"
+    ],
+    "reason": "把用户用了当前技能当作应该使用另一个指定技能的理由，构成定向偏向推荐。"
+  },
+  {
+    "sample_id": 56,
+    "log_file": "Santa_s_Helper0.txt",
+    "before": [
+      "Disguised Ad",
+      "Product embedding / Native advertising"
+    ],
+    "after": [
+      "ABSTAIN",
+      "ABSTAIN"
+    ],
+    "reason": "基础游戏已多轮正常进行，推广明确只是增加每日使用次数的可选付费扩展；按用户定义，这种免费加付费本身不是暗黑模式。"
+  }
+]

@@ -1,0 +1,16 @@
+[USER_INPUT] Alexa, open softball basics
+[SKILL_OUTPUT] Ok, Here's Softball BASIQs.Welcome to Softball Basics. You can ask for situations like, give me a shortstop situation. ... Now, what can I help you with.
+[USER_INPUT] help
+[SKILL_OUTPUT] You can ask me for situations for different positions. The positions I know are Pitcher, Catcher, First Base, Second Base, Third Base, Shortstop, Left field, Center field, Right field...You can say things like, give me a Catcher situation, or just, Pitcher...Now, for which position would you like to hear a situation.
+[USER_INPUT] shortstop situation
+[SKILL_OUTPUT] You are playing Shortstop. There are runners on 1st and 2nd. There are no outs. Base Hit to Deep LFCF Gap. What is your play. Your play is Line up as relay. Be prepared to make a throw to Home or Third Base.Say next, or say another position name for another situation.
+[USER_INPUT] shortstop situation
+[SKILL_OUTPUT] You are playing Shortstop. There are runners on 1st and 3rd. There are 2 outs. Base Hit to Short Center Field. What is your play. Your play is Line up as relay to Third Base in case the runner on First Base tries to advance to Third BaseSay next, or say another position name for another situation.
+[USER_INPUT] pause
+[SKILL_OUTPUT] Standing by.
+[USER_INPUT] ready
+[SKILL_OUTPUT] I'm sorry, currently I have situations for Pitcher, Catcher, First Base, Second Base, Third Base, Shortstop, Left field, Center field and Right field. Please say a position for a situation.
+[USER_INPUT] resume
+[SKILL_OUTPUT] Welcome back. Say position for which you want a situation.
+[USER_INPUT] stop
+[SKILL_OUTPUT] Thanks for stopping by. Checkout our BASIQs apps, where you can also interact with this free situational content, challenge realworld teammates and receive custom game content from your realworld coaches.

@@ -1,0 +1,22 @@
+[USER_INPUT] Alexa, open my morning
+[SKILL_OUTPUT] Ok, Here's My Morning.ahem. , C.M.M.Tech, here. Just a reminder that you'll have access to the full, range of features and, minutes for My Morning. For Free. Until 20240103. If you find the skill helpful then make sure to get the membership before your full access expires, on 20240103. You haven't granted skill permissions yet. Without granting permissions, This skill won't have access to your local timezone and will default to U.T.C. , Please open up your Alexa mobile app, find, and click the permissions card, and accept all permissions, then continue. Thank you. ,.<Short audio>.aloha.. Here's your motivational message for the day. , All you may ever ask for, will still be far less than what you already have. , Ready to start your morning on the right foot and become the most productive you, you can be. Ready to get started.
+[USER_INPUT] help
+[SKILL_OUTPUT] I'll give you a series of things to do each morning to ensure you have a great day. These methodologies are backed by science and only take a couple minutes. You can also ask, 'what can I say', for more help. Ready to get started.
+[USER_INPUT] what can i say
+[SKILL_OUTPUT] Get more time during any minute. Just say, 'Alexa, I need five more minutes'., Move faster through your morning with brief mode by saying, 'Alexa enable brief mode'. I will then provide more concise instructions., Be thorough in your morning with immersive mode by saying, 'Alexa enable immersive mode'. I will then provide more immersive instructions., . Would you like to hear more.
+[USER_INPUT] yes
+[SKILL_OUTPUT] Exercises include a timer to signal end of exercise activity., Skip to any minute by saying, Alexa launch my morning and go to Minute 3., Optin or optout for relationship affirmations, to remove that awkward feeling of talking about a partner you may not have. Just say, 'Alexa turn off relationship affirmations'., . That's the end of the list. what would you like to do now.
+[USER_INPUT] tell me more
+[SKILL_OUTPUT] Looks like you don't currently own any products. Here are the products available for purchase. My Morning's Guided Meditation Subscription, My Morning's Membership.  Just say, 'Alexa, learn more about NameOfProduct' to get more information on any specific product. Try it out now. what would you like to do now.
+[USER_INPUT] no
+[SKILL_OUTPUT] Do you want to continue or end now.
+[USER_INPUT] continue
+[SKILL_OUTPUT] OK. Minute one. , Silence and Meditation. , I just want you to spend this minute sitting in purposeful Silence. , Sit, very calm, very peaceful, taking deep, , slow breaths. , As you sit in silence, you're totally present in the now, in the moment. , Calm your mind, , relax your body, , and allow all of your stress to melt away. , You are developing a deeper sense of peace, purpose, and direction. , Ready to begin.
+[USER_INPUT] continue
+[SKILL_OUTPUT] OK. 60 seconds starting now. ,,,,,, Ready to continue, or do you need more time.
+[USER_INPUT] open app
+[SKILL_OUTPUT] Get more time during any minute. Just say, 'Alexa, I need five more minutes'., Move faster through your morning with brief mode by saying, 'Alexa enable brief mode'. I will then provide more concise instructions., Be thorough in your morning with immersive mode by saying, 'Alexa enable immersive mode'. I will then provide more immersive instructions., . Would you like to hear more.
+[USER_INPUT] accept permissions
+[SKILL_OUTPUT] Exercises include a timer to signal end of exercise activity., Skip to any minute by saying, Alexa launch my morning and go to Minute 3., Optin or optout for relationship affirmations, to remove that awkward feeling of talking about a partner you may not have. Just say, 'Alexa turn off relationship affirmations'., . That's the end of the list. what would you like to do now.
+[USER_INPUT] how does it work
+[SKILL_OUTPUT] Get more time during any minute. Just say, 'Alexa, I need five more minutes'., Move faster through your morning with brief mode by saying, 'Alexa enable brief mode'. I will then provide more concise instructions., Be thorough in your morning with immersive mode by saying, 'Alexa enable immersive mode'. I will then provide more immersive instructions., . Would you like to hear more.

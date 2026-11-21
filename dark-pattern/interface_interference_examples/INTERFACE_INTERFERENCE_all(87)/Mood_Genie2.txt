@@ -1,0 +1,16 @@
+[USER_INPUT] Alexa, open mood genie
+[SKILL_OUTPUT] Welcome back to Mood Genie. How are you feeling today.
+[USER_INPUT] i'm feeling happy
+[SKILL_OUTPUT] You already asked me to remember your mood for today. Say  update to update your mood. I can remember your mood every hour if you have Mood Genie Premium. Say  Upgrade details to find out more.
+[USER_INPUT] help
+[SKILL_OUTPUT] You can tell me your current mood and I'll remember it. You can also say  My mood is  followed by your mood and I will guide you. Which one would you like to try.
+[USER_INPUT] i'm feeling sad
+[SKILL_OUTPUT] You already asked me to remember your mood for today. Say  update to update your mood. I can remember your mood every hour if you have Mood Genie Premium. Say  Upgrade details to find out more.
+[USER_INPUT] don't remind me
+[SKILL_OUTPUT] Say  My words are  followed by your words or say  'No'.
+[USER_INPUT] no
+[SKILL_OUTPUT] I will remember that today your mood was sad. I can remind you everyday to tell me how you're feeling. To set a reminder say: remind me at, followed by the time.
+[USER_INPUT] remind me at 7 am
+[SKILL_OUTPUT] To set reminders, you need to allow Mood Genie to create and edit reminders for this skill. Would you like to do that.
+[USER_INPUT] yes
+[SKILL_OUTPUT] Ok, you can change this permission at any time by going to Mood Genie in Your Skills in the Alexa app.Now that you've provided permission  you can say: remind me at, followed by the time.

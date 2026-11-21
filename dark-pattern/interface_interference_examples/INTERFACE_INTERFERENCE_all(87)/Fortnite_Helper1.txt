@@ -1,0 +1,8 @@
+[USER_INPUT] Alexa, open fortnite helper
+[SKILL_OUTPUT] Welcome back to Fortnite Helper.So glad you returned.Please say, Tips, to hear the current 3 free. Helpers.and remeber,we update our, contenteach Sunday.or, you can say, The Vault, if you are an exclusive member.Let me know, what you would like to do.
+[USER_INPUT] i want to play music
+[SKILL_OUTPUT] While you are here, at Fortnite Helper you can purchase access to The Vault....Which contains a ton of super pro: tips, tricks and, strategies,Along with V Bucks and, other loot opportunitiesthat are all updated each week.Do you want to learn more.
+[USER_INPUT] tell me the news
+[SKILL_OUTPUT] While you are here, at Fortnite Helper you can purchase access to The Vault....Which contains a ton of super pro: tips, tricks and, strategies,Along with V Bucks and, other loot opportunitiesthat are all updated each week.Do you want to learn more.
+[USER_INPUT] set an alarm
+[SKILL_OUTPUT] While you are here, at Fortnite Helper you can purchase access to The Vault....Which contains a ton of super pro: tips, tricks and, strategies,Along with V Bucks and, other loot opportunitiesthat are all updated each week.Do you want to learn more.

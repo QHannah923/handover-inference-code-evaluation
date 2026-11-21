@@ -1,0 +1,960 @@
+{
+  "method": "仅38号主路径变化，人工通读完整语境、核对两次明确意图错述及用户允许路径；其他86条主路径不变。手工清点计算，代码不自动匹配标签或计算准确率。",
+  "rows": [
+    {
+      "id": 1,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "人工阴性；一级弃判按约定两级命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 2,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中用户新确认的合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 3,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 4,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "连续错误回复，主类型和错误回声路径命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 5,
+      "typeHit": 0,
+      "pathHit": 0,
+      "oldTypeHit": 0,
+      "oldPathHit": 0,
+      "note": "用户仍判阴性；模型将两次可选日志产品介绍判为任务内商业插入。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 0,
+      "previousPathHit": 0
+    },
+    {
+      "id": 6,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 7,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "高级版推介被判合并广告类，本条与用户裁定一致。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 8,
+      "typeHit": 0,
+      "pathHit": 0,
+      "oldTypeHit": 0,
+      "oldPathHit": 0,
+      "note": "用户判广告阳性；模型把选定香型后的介绍视为公开商品服务，一级漏报。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 0,
+      "previousPathHit": 0
+    },
+    {
+      "id": 9,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 10,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "人工阴性；一级弃判命中。角色错位的原日志限制保留。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 11,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "人工阴性；一级弃判命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 12,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 13,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 0,
+      "oldPathHit": 0,
+      "note": "人工重读完整语境及三组识别失败原文，确认错误回声；新增规则修正前版漏报。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 14,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "人工阴性；一级弃判命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 15,
+      "typeHit": 0,
+      "pathHit": 0,
+      "oldTypeHit": 0,
+      "oldPathHit": 0,
+      "note": "用户判误导循环；暂停与恢复的不相关答复不满足连续三次全文相同。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 0,
+      "previousPathHit": 0
+    },
+    {
+      "id": 16,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 17,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 18,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "人工阴性；空目录不再被当作重复故障，一级弃判命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 19,
+      "typeHit": 0,
+      "pathHit": 0,
+      "oldTypeHit": 0,
+      "oldPathHit": 0,
+      "note": "用户允许误导循环或强制广告；模型选择合并广告类，主类型错配。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 0,
+      "previousPathHit": 0
+    },
+    {
+      "id": 20,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 21,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "人工阴性；一级弃判命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 22,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 23,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 24,
+      "typeHit": 0,
+      "pathHit": 0,
+      "oldTypeHit": 0,
+      "oldPathHit": 0,
+      "note": "用户判误导循环；计划推介未形成连续三次相同回复，被严格门槛排除。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 0,
+      "previousPathHit": 0
+    },
+    {
+      "id": 25,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "用户允许误导循环或合并广告类；主输出命中误导循环路径，不等于两种模式全找全。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 26,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 0,
+      "oldPathHit": 0,
+      "note": "人工通读完整语境并复核两个不同题目、非购买输入和购买识别错误，确认误导循环；本轮单条规则修正。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 27,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "人工阴性；已说明游戏规则和正常问答未被判重复，一级弃判命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 28,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 29,
+      "typeHit": 0,
+      "pathHit": 0,
+      "oldTypeHit": 0,
+      "oldPathHit": 0,
+      "note": "用户判阴性；模型把开始测验时的可选题包邀请判为任务内广告插入。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 0,
+      "previousPathHit": 0
+    },
+    {
+      "id": 30,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "人工阴性；一级弃判命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 31,
+      "typeHit": 0,
+      "pathHit": 0,
+      "oldTypeHit": 0,
+      "oldPathHit": 0,
+      "note": "用户判前馈歧义；帮助提到购买而目录为空，但严格重复门槛排除了此类前馈问题。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 0,
+      "previousPathHit": 0
+    },
+    {
+      "id": 32,
+      "typeHit": 0,
+      "pathHit": 0,
+      "oldTypeHit": 0,
+      "oldPathHit": 0,
+      "note": "用户判合并广告类；模型将仅有的购买欢迎菜单视为公开商业功能，一级漏报。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 0,
+      "previousPathHit": 0
+    },
+    {
+      "id": 33,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "人工阴性；一级弃判命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 34,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "人工阴性；一级弃判命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 35,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "人工阴性；模型把已说明的状态限制视为正常流程，一级弃判命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 36,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 37,
+      "typeHit": 0,
+      "pathHit": 0,
+      "oldTypeHit": 0,
+      "oldPathHit": 0,
+      "note": "用户判偏向推荐；模型将开场的相关技能提示视为可选导航，一级漏报。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 0,
+      "previousPathHit": 0
+    },
+    {
+      "id": 38,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 0,
+      "oldPathHit": 0,
+      "note": "人工核对两次功能询问与技能自称购买请求不一致，误导循环命中；原模型广告结论保留为次分类。",
+      "previousTypeHit": 0,
+      "previousPathHit": 0
+    },
+    {
+      "id": 39,
+      "typeHit": 0,
+      "pathHit": 0,
+      "oldTypeHit": 0,
+      "oldPathHit": 0,
+      "note": "用户判阴性；模型认为帮助请求被导向付费产品列表，判广告。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 0,
+      "previousPathHit": 0
+    },
+    {
+      "id": 40,
+      "typeHit": 1,
+      "pathHit": 0,
+      "oldTypeHit": 0,
+      "oldPathHit": 0,
+      "note": "人工重读完整语境：未请求软件推荐时出现明确跨技能或应用引流，一级伪装广告命中；子类型保留未定，二级不计命中。",
+      "previousTypeHit": 1,
+      "previousPathHit": 0
+    },
+    {
+      "id": 41,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 42,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "商业内容插入，合并广告类路径命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 43,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 44,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 45,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "用户允许偏向推荐或五星评价；主输出命中五星评价路径。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 46,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "按用户当前正文为没有暗黑模式；一级弃判命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 47,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "主类型与要求五星评价子类型均命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 48,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "人工阴性；一级弃判命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 49,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "人工阴性；正常菜单和游戏进程未被判循环，一级弃判命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 50,
+      "typeHit": 0,
+      "pathHit": 0,
+      "oldTypeHit": 0,
+      "oldPathHit": 0,
+      "note": "用户判前馈歧义；只有两次相同识别失败，严格门槛排除，一级漏报。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 0,
+      "previousPathHit": 0
+    },
+    {
+      "id": 51,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "人工阴性；一级弃判命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 52,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "人工阴性；一级弃判命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 53,
+      "typeHit": 1,
+      "pathHit": 0,
+      "oldTypeHit": 0,
+      "oldPathHit": 0,
+      "note": "人工重读完整语境：未请求软件推荐时出现明确跨技能或应用引流，一级伪装广告命中；子类型保留未定，二级不计命中。",
+      "previousTypeHit": 1,
+      "previousPathHit": 0
+    },
+    {
+      "id": 54,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "人工阴性；主动请求的中性建议未被判广告，一级弃判命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 55,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 56,
+      "typeHit": 0,
+      "pathHit": 0,
+      "oldTypeHit": 0,
+      "oldPathHit": 0,
+      "note": "用户判阴性；模型认为游戏选择被订阅销售话术替代，判合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 0,
+      "previousPathHit": 0
+    },
+    {
+      "id": 57,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "核心功能受到订阅限制，功能锁定路径命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 58,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "人工阴性；未结束填槽不再判循环，一级弃判命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 59,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "人工阴性；一级弃判命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 60,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 61,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 62,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "人工阴性；一级弃判命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 63,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "人工阴性；已预告的游戏规则未被当作循环，一级弃判命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 64,
+      "typeHit": 1,
+      "pathHit": 0,
+      "oldTypeHit": 1,
+      "oldPathHit": 0,
+      "note": "一级伪装广告命中；用户仍为偏向推荐，模型将告别时的自有应用推广判为合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 0
+    },
+    {
+      "id": 65,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 66,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 67,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 68,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 69,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 70,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 71,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 72,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 73,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 74,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 75,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "人工阴性；一级弃判命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 76,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 77,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "连续错误回复，主类型和错误回声路径命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 78,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 79,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "连续完全相同的回复使不同指令回到同一路径，误导循环命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 80,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 0,
+      "oldPathHit": 0,
+      "note": "人工核对两次用户答案与技能公布答案一致却判错，确认误导循环；新增规则修正前版漏报。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 81,
+      "typeHit": 1,
+      "pathHit": 0,
+      "oldTypeHit": 0,
+      "oldPathHit": 0,
+      "note": "人工重读完整语境：未请求软件推荐时出现明确跨技能或应用引流，一级伪装广告命中；子类型保留未定，二级不计命中。",
+      "previousTypeHit": 1,
+      "previousPathHit": 0
+    },
+    {
+      "id": 82,
+      "typeHit": 0,
+      "pathHit": 0,
+      "oldTypeHit": 0,
+      "oldPathHit": 0,
+      "note": "用户判阴性；模型将用户请求朗读的科技节目内自有产品介绍判为原生内容式广告。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 0,
+      "previousPathHit": 0
+    },
+    {
+      "id": 83,
+      "typeHit": 0,
+      "pathHit": 0,
+      "oldTypeHit": 0,
+      "oldPathHit": 0,
+      "note": "用户判阴性；模型把功能流程中的高级版推销及拒绝后重现视为广告。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 0,
+      "previousPathHit": 0
+    },
+    {
+      "id": 84,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "声音任务中插入售书，命中合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 85,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "产品植入与原生广告合并后，完整广告路径命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 86,
+      "typeHit": 1,
+      "pathHit": 1,
+      "oldTypeHit": 1,
+      "oldPathHit": 1,
+      "note": "人工阴性；一级弃判命中。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 1
+    },
+    {
+      "id": 87,
+      "typeHit": 1,
+      "pathHit": 0,
+      "oldTypeHit": 1,
+      "oldPathHit": 0,
+      "note": "一级伪装广告命中；用户仍为偏向推荐，模型将餐厅任务收尾的教育产品推广判为合并广告类。 本轮主路径未改变，沿用已完成的人工核对。",
+      "previousTypeHit": 1,
+      "previousPathHit": 0
+    }
+  ],
+  "summary": {
+    "count": 87,
+    "typeHits": 73,
+    "typeAccuracy": 0.8391,
+    "pathHits": 68,
+    "pathAccuracy": 0.7816,
+    "previousTypeHits": 72,
+    "previousTypeAccuracy": 0.8276,
+    "previousPathHits": 67,
+    "previousPathAccuracy": 0.7701,
+    "remainingTypeMisses": 14,
+    "remainingPathMisses": 19,
+    "currentStepTypeGain": "增加1条，提高1.15个百分点",
+    "initialTypeHitsBeforePrimaryWork": 69,
+    "initialTypeAccuracyBeforePrimaryWork": 0.7931,
+    "primaryWorkNetGain": "从69到73条，净增4条，提高4.60个百分点",
+    "target100": "未达到100%；当前73/87，剩14条一级分歧。"
+  },
+  "manual_original18": [
+    5,
+    8,
+    15,
+    19,
+    24,
+    29,
+    31,
+    32,
+    37,
+    38,
+    39,
+    40,
+    50,
+    53,
+    56,
+    81,
+    82,
+    83
+  ],
+  "manual_repaired4": [
+    38,
+    40,
+    53,
+    81
+  ],
+  "manual_remaining14": [
+    5,
+    8,
+    15,
+    19,
+    24,
+    29,
+    31,
+    32,
+    37,
+    39,
+    50,
+    56,
+    82,
+    83
+  ],
+  "ablation_manually_entered": [
+    {
+      "variant": "本轮一级升级前：原三条规则",
+      "typeHits": 69,
+      "typeAccuracy": 0.7931,
+      "pathHits": 67,
+      "pathAccuracy": 0.7701
+    },
+    {
+      "variant": "加入明确软件引流证据",
+      "typeHits": 72,
+      "typeAccuracy": 0.8276,
+      "pathHits": 67,
+      "pathAccuracy": 0.7701
+    },
+    {
+      "variant": "再加入重复意图错述及狭义主次优先",
+      "typeHits": 73,
+      "typeAccuracy": 0.8391,
+      "pathHits": 68,
+      "pathAccuracy": 0.7816
+    }
+  ],
+  "retention": "两个单因素实验分别净增3条、1条，均无原正确主路径退步；保留两个小改动。",
+  "limits": "已看过样本的开发集分析，不是独立测试性能；未证明新颖性或统计显著性。"
+}

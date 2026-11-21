@@ -1,0 +1,12 @@
+{
+  "scope": "仅验证两项窄范围阴性规则，不改模型、提示词或人工参照；不调用API。",
+  "fixed_model_outputs": "/Users/calmdown/Downloads/handover-inference-code-evaluation/outputs/interface_semantic_freemium_20261120/confirmation_run/predictions.json",
+  "reference": "/Users/calmdown/Downloads/handover-inference-code-evaluation/outputs/interface_semantic_freemium_20261120/用户新版参照_87条_20261120.json",
+  "reference_sha256": "7374b000a23815491d2764266bce18a29a2394814d5fe7ddd748571d413c60a5",
+  "criteria": "验证四项有明确操作依据的规则；50、82、83不增加无证据例外。先导出，再人工核对；不自动匹配人工标签。",
+  "scoring": "不自动读取人工标签匹配计分；程序只重放规则、比较预测变化并导出。",
+  "user_clarifications": [
+    "7号：反复推销仍算广告；单次可选升级不算。",
+    "32号：开场直接推具体付费产品就算广告。"
+  ]
+}

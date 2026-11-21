@@ -1,0 +1,6 @@
+[USER_INPUT] Alexa, open knowledge trivia
+[SKILL_OUTPUT] <Short audio>.Welcome to knowledge trivia. To hear a question you can say 'ask me a question', or to hear about the premium categories for purchase, say 'What can I buy'.  For help, say , 'Help me'... So, what do you want to say.
+[USER_INPUT] ask me a question
+[SKILL_OUTPUT] Here is your question. The word Tomato originated from which language. Is it Chinese, Italian, or Nahuati.<Short audio>.Say hint to get a hint or say repeat or say next to skip.
+[USER_INPUT] tell me more about computers pack
+[SKILL_OUTPUT] The computers pack is a premium pack purchase. This category has 30 questions and also states a fun or a nice to know fact from the computers and the net. . To buy it, say Buy computers.

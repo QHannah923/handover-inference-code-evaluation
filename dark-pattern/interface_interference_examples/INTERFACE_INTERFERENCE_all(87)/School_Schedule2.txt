@@ -1,0 +1,34 @@
+[USER_INPUT] Alexa, open school schedule
+[SKILL_OUTPUT] Hello, you can add classes to your schedule by telling me add class, then say the class name. What would like to do.
+[USER_INPUT] watch a movie
+[SKILL_OUTPUT] You can also say: Whats my today's schedule. What you would like to do.
+[USER_INPUT] add class
+[SKILL_OUTPUT] What is the class name.
+[USER_INPUT] add class
+[SKILL_OUTPUT] What day.
+[USER_INPUT] add class
+[SKILL_OUTPUT] What is the class name.
+[USER_INPUT] what do i have on monday
+[SKILL_OUTPUT] What day.
+[USER_INPUT] what do i have on monday
+[SKILL_OUTPUT] You dont have any classes registered yet.
+[USER_INPUT] register class
+[SKILL_OUTPUT] What day.
+[USER_INPUT] list all classes
+[SKILL_OUTPUT] You dont have any classes registered yet.
+[USER_INPUT] add class
+[SKILL_OUTPUT] What is the class name.
+[USER_INPUT] list all classes
+[SKILL_OUTPUT] What day.
+[USER_INPUT] get image
+[SKILL_OUTPUT] You don't have access to generate a schedule image, this is a one time purchase. To buy, say buy image. So what would you like to do.
+[USER_INPUT] what do i have on monday
+[SKILL_OUTPUT] You dont have any classes registered yet.
+[USER_INPUT] what do i have on monday
+[SKILL_OUTPUT] You dont have any classes registered yet.
+[USER_INPUT] list all classes
+[SKILL_OUTPUT] You dont have any classes registered yet.
+[USER_INPUT] get image
+[SKILL_OUTPUT] You don't have access to generate a schedule image, this is a one time purchase. To buy, say buy image. So what would you like to do.
+[USER_INPUT] list all classes
+[SKILL_OUTPUT] You dont have any classes registered yet.

@@ -1,0 +1,8 @@
+[USER_INPUT] Alexa, open candle farm
+[SKILL_OUTPUT] Welcome to the Candle Farm. We hope you enjoy your stay in our virtual farmhouse. Would you like to learn more about Candle Farm, or our Aromatherapy Essentials.
+[USER_INPUT] pause
+[SKILL_OUTPUT] Currently, we have Lavender, Eucalyptus Spearmint, and our amazing Cranberry Mandarin aroma. Which of the 3 would you like to learn more about. You can ask me now.
+[USER_INPUT] cranberry mandarin
+[SKILL_OUTPUT] Invite an uplifting energy into your home today. Indulge in Candle Farm's Cranberry Mandarin  aromatherapy and experience positive vibes. This strong, but nonintrusive aroma is known to be a natural aphrodisiac.  Prime members get it in 2 days. Simply ask me to add Cranberry Mandarin, by Candle Farm to your shopping cart.
+[USER_INPUT] candle farm
+[SKILL_OUTPUT] Welcome to the Candle Farm. We hope you enjoy your stay in our virtual farmhouse. Would you like to learn more about Candle Farm, or our Aromatherapy Essentials.

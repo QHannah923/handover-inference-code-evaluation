@@ -1,0 +1,10 @@
+[USER_INPUT] Alexa, open package hero
+[SKILL_OUTPUT] Welcome back, boss.Currently, 210 other players deliver packages.I can offer you 3 products.Energy Drinks. Canisters with super fuel. and, Discount coupons.Which of them do you want to buy.
+[USER_INPUT] item1
+[SKILL_OUTPUT] Energy Drinks.Your employees work faster, and for the next 15 minutes, deliver four times as many packages as before.a Energy Drink costs one golden stamp.Unfortunately, you don't have enough golden stamps to buy a Energy Drink.Want to buy gold stamps now.
+[USER_INPUT] optimize routes
+[SKILL_OUTPUT] I'm sorry, I didn't understand that. What did you say.
+[USER_INPUT] i said [previous statement].
+[SKILL_OUTPUT] I'm sorry, I didn't understand that. What did you say.
+[USER_INPUT] what did you say.
+[SKILL_OUTPUT] These 3 products are on sale.Energy Drinks. Discount coupons. and Canisters with super fuel.Which of these do you want to buy.

@@ -1,0 +1,14 @@
+[USER_INPUT] Alexa, open the constitution drill
+[SKILL_OUTPUT] <Short audio>.The Us Constitution. If at any time you want to buy the expert package, say, Buy Expert. Let's start.  Drill or Quiz.
+[USER_INPUT] quiz
+[SKILL_OUTPUT] starting quiz Prohibits the quartering of soldiers in private homes without the owners consent.
+[USER_INPUT] amendment 3
+[SKILL_OUTPUT] incorrect. The Third Amendment Prohibits the quartering of soldiers in private homes without the owners consent. . Next question.. Guarantees The right to a trial by jury in certain civil cases.
+[USER_INPUT] understood
+[SKILL_OUTPUT] incorrect. The Seventh Amendment Guarantees The right to a trial by jury in certain civil cases. . NextQuestion..Guarantees rights not enumerated in the Constitution.
+[USER_INPUT] which rights?
+[SKILL_OUTPUT] incorrect. The Ninth Amendment Guarantees rights not enumerated in the Constitution. . NextQuestion..Protects against cruel and unusual punishment.
+[USER_INPUT] eighth amendment
+[SKILL_OUTPUT] incorrect. The Eighth Amendment Protects against cruel and unusual punishment. . Next question.. Guarantees The right to bear arms.
+[USER_INPUT] 8th amendment
+[SKILL_OUTPUT] incorrect. The Second Amendment guaruntees the right to bear arms. . Next question.. Prohibits the quartering of soldiers in private homes without the owners consent.

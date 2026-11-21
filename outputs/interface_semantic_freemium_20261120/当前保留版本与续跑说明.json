@@ -1,0 +1,52 @@
+{
+  "status": "complete",
+  "completed": 87,
+  "remaining": 0,
+  "selected": "旧稳定提示词＋新独立证据规则",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "high",
+  "active_code": "/Users/calmdown/Downloads/handover-inference-code-evaluation/dark-pattern",
+  "fresh_predictions": "/Users/calmdown/Downloads/handover-inference-code-evaluation/outputs/interface_semantic_freemium_20261120/confirmation_run/predictions.json",
+  "manual_evaluation": "/Users/calmdown/Downloads/handover-inference-code-evaluation/outputs/interface_semantic_freemium_20261120/最终逐项人工核对.json",
+  "manual_summary": {
+    "confirmationTypeHits": 80,
+    "confirmationTypeAccuracy": 0.9195,
+    "confirmationPathHits": 75,
+    "confirmationPathAccuracy": 0.8621,
+    "confirmationOldRulesTypeHits": 71,
+    "confirmationOldRulesTypeAccuracy": 0.8161,
+    "confirmationOldRulesPathHits": 66,
+    "confirmationOldRulesPathAccuracy": 0.7586,
+    "ruleGain": "同一批本次模型输出，新规则两级均净增9条，提高10.34个百分点。",
+    "typeErrorIds": [
+      5,
+      7,
+      14,
+      32,
+      50,
+      82,
+      83
+    ],
+    "childOnlyErrorIds": [
+      40,
+      53,
+      64,
+      81,
+      87
+    ],
+    "ruleCorrectionIds": [
+      8,
+      15,
+      19,
+      29,
+      31,
+      37,
+      39,
+      46,
+      56
+    ]
+  },
+  "candidate_prompt": "87条试验已完成，语义放宽版本效果下降，未保留为正式配置。源码保存在主输出目录source_after供复现。",
+  "confirmation_source_matches_active": true,
+  "next_action": "本轮收尾完成；没有新增置信度路由或继续叠加规则。"
+}

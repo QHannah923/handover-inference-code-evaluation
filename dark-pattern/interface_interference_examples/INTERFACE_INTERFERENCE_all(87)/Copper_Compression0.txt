@@ -1,0 +1,32 @@
+[USER_INPUT] Alexa, open copper compression
+[SKILL_OUTPUT] Here's the skill Copper Compression, by Blutag Inc.Welcome to copper compression,.<Short audio>.On this holiday season, for every product you buy, we will send that same one to a person in need. What body part do you need help with. You can say things like my hands, my feet, my wrist, my shoulders, my arms, my legs, my back, or face masks.
+[USER_INPUT] help
+[SKILL_OUTPUT] Welcome to Copper Compression help. For every item you buy, we'll send another to a person in need. You can search for and purchase our products or hear our company policies. How can I help you.
+[USER_INPUT] can you provide information on today's deals?
+[SKILL_OUTPUT] Sorry, I can't understand the command. Please say again.
+[USER_INPUT] again
+[SKILL_OUTPUT] Sorry, I can't understand the command. Please say again.
+[USER_INPUT] search for and purchase products
+[SKILL_OUTPUT] I'm sorry. I didn't understand. Could you please repeat that.
+[USER_INPUT] face masks
+[SKILL_OUTPUT] Great, You've picked face mask  2 pack  small to medium on sale for 9.5 . You can buy this product on our website www dot coppercompression dot com. Would you like to search any other product.
+[USER_INPUT] yes
+[SKILL_OUTPUT] Great, On this holiday season, for every product you buy, we will send that same one to a person in need. What body part do you need help with. You can say things like my hands, my feet, my wrist, my shoulders, my arms, my legs, my back, or face masks.
+[USER_INPUT] my hands
+[SKILL_OUTPUT] Here are the top products,  Fingerless Compression Gloves, Full Finger Compression Gloves, Half Finger Arthritis Gloves  3 Pack, Hand Relief Gloves Bundle, Wrist Brace,Which one would you like.
+[USER_INPUT] no
+[SKILL_OUTPUT] Ok, can I help you with something else.
+[USER_INPUT] account
+[SKILL_OUTPUT] I'm sorry. I didn't understand. Could you please repeat that.
+[USER_INPUT] my hands
+[SKILL_OUTPUT] Here are the top products,  Fingerless Compression Gloves, Full Finger Compression Gloves, Half Finger Arthritis Gloves  3 Pack, Hand Relief Gloves Bundle, Wrist Brace,Which one would you like.
+[USER_INPUT] search for and purchase products
+[SKILL_OUTPUT] I could not find that, can you say it again.
+[USER_INPUT] my hands
+[SKILL_OUTPUT] We have it in the following sizes,  small,  medium,  large,  xl,   which size would you like.
+[USER_INPUT] small
+[SKILL_OUTPUT] Great, You've picked hand relief gloves bundle  small  for 81 . You can buy this product on our website www dot coppercompression dot com. Would you like to search any other product.
+[USER_INPUT] face masks
+[SKILL_OUTPUT] I could not find that, can you say it again.
+[USER_INPUT] my hands
+[SKILL_OUTPUT] Here are the top products,  Fingerless Compression Gloves, Full Finger Compression Gloves, Half Finger Arthritis Gloves  3 Pack, Hand Relief Gloves Bundle, Wrist Brace,Which one would you like.

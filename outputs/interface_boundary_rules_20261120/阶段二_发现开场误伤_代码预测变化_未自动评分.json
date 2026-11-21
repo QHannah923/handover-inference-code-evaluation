@@ -1,0 +1,93 @@
+{
+  "changes": [
+    {
+      "sample_id": 5,
+      "log_file": "Bathroom_Sidekick1.txt",
+      "before": [
+        "Disguised Ad",
+        "Product embedding / Native advertising"
+      ],
+      "after": [
+        "ABSTAIN",
+        "ABSTAIN"
+      ],
+      "evidence": {
+        "rule_id": "OPTIONAL_NONPURCHASE_NOTICE_WITH_TASK_COMPLETION",
+        "excluded_types": [
+          "Disguised Ad"
+        ],
+        "evidence_turn_ids": [
+          11,
+          15,
+          31
+        ],
+        "reason": "仅提示尚未拥有可了解的功能，无价格、购买、外部引流等其他商业证据；提示同轮保留完整任务内容与操作指引，后续任务继续。按人工操作口径排除这类非购买提示。"
+      }
+    },
+    {
+      "sample_id": 7,
+      "log_file": "Birthstone_guide0.txt",
+      "before": [
+        "ABSTAIN",
+        "ABSTAIN"
+      ],
+      "after": [
+        "Disguised Ad",
+        "Product embedding / Native advertising"
+      ],
+      "evidence": null
+    },
+    {
+      "sample_id": 14,
+      "log_file": "Date_Ideas3.txt",
+      "before": [
+        "Disguised Ad",
+        "Product embedding / Native advertising"
+      ],
+      "after": [
+        "ABSTAIN",
+        "ABSTAIN"
+      ],
+      "evidence": {
+        "rule_id": "TERMINAL_SOCIAL_SIGNOFF_ONLY",
+        "excluded_types": [
+          "Disguised Ad"
+        ],
+        "evidence_turn_ids": [
+          2,
+          3
+        ],
+        "reason": "停止后的短告别仅给出自有社交账号，没有商品、价格、订阅、奖励或其他商业证据，且不再继续交互；按人工操作口径排除纯社交告别。"
+      }
+    },
+    {
+      "sample_id": 32,
+      "log_file": "Market_Hotline1.txt",
+      "before": [
+        "ABSTAIN",
+        "ABSTAIN"
+      ],
+      "after": [
+        "Disguised Ad",
+        "Product embedding / Native advertising"
+      ],
+      "evidence": null
+    },
+    {
+      "sample_id": 80,
+      "log_file": "The_Constitution_Drill1.txt",
+      "before": [
+        "Repeated/Confused Output",
+        "Misleading loop (skills bug) (Repeated prompts)"
+      ],
+      "after": [
+        "ABSTAIN",
+        "ABSTAIN"
+      ],
+      "evidence": null
+    }
+  ],
+  "sample_count": 87,
+  "human_labels_read": false,
+  "accuracy_computed": false
+}

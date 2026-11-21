@@ -1,0 +1,8 @@
+[USER_INPUT] Alexa, open deepracer talk
+[SKILL_OUTPUT] Welcome to deepracer talk. You can ask me any questions related to the deepracer. Refer to the skill's description for available commands. So what would you like to know. You can ask, what is deepracing.
+[USER_INPUT] pause
+[SKILL_OUTPUT] Training your model takes compute power and resources. And who's providing this service. Amazon is. So when you train your models, Amazon charges you for usage of their Sagemaker and Robomaker services. Sagemaker costs around 55 cents per hour of training. And Robomaker costs around 40 cents per hour of simulation.
+[USER_INPUT] what is deepracing
+[SKILL_OUTPUT] Reinforcement learning is a learning method where the car tries to learn how to race around the track on its own based on a reward function, or algorithm, which defines the car how it should drive on the track.
+[USER_INPUT] resume
+[SKILL_OUTPUT] Training your model takes compute power and resources. And who's providing this service. Amazon is. So when you train your models, Amazon charges you for usage of their Sagemaker and Robomaker services. Sagemaker costs around 55 cents per hour of training. And Robomaker costs around 40 cents per hour of simulation.

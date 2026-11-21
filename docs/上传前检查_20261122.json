@@ -1,0 +1,12 @@
+{
+  "tracked_files": 230,
+  "credential_pattern_findings": 0,
+  "private_or_temporary_files_tracked": 0,
+  "all_87_inputs_match_frozen_hashes": true,
+  "original_predictions_and_reference_unchanged": true,
+  "offline_replay_samples": 87,
+  "offline_replay_changed_primary_paths": [],
+  "largest_tracked_file_bytes": 3318118,
+  "scope": "Upload preparation checks, not automatic label grading.",
+  "offline_tests_passed": 81
+}

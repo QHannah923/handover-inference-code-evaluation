@@ -1,0 +1,11 @@
+[USER_INPUT] Alexa, open money money
+[SKILL_OUTPUT] Here you go with a side hustle: Use your passion for food, cooking skills to make extra money with www.eatwith.com,  www.bonappetour.com,  www.hireachef.com. Do you want to hear another one.
+[USER_INPUT] teaching skills
+[SKILL_OUTPUT] Welcome back to Honey Money.  You can say 'Alexa, Open Honey Money for Extra Money', to discover legit websites for extra income. What can I help you with.
+[USER_INPUT] alexa, open honey money for extra money
+[SKILL_OUTPUT] Here you go with a side hustle: To make extra money with your wonderful ideas, passion to innovation, problemsolving skills, try www.quirky.com,  www.mindsumo.com,  www.namingforce.com,  www.innocentive.com. Would you like to know one more.
+[USER_INPUT] www.udemy.com
+[SKILL_OUTPUT] Welcome back to Honey Money.  You can say 'Alexa, Open Honey Money for Extra Money', to discover legit websites for extra income. What can I help you with.
+[USER_INPUT] teaching skills
+[SKILL_OUTPUT] Okay, before I can continue, please set a location for your amazon account on amazon.com, under the Preferences tab of Your Content and Devices.
+[USER_INPUT] amazon.com

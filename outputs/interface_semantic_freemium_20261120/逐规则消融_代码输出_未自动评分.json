@@ -1,0 +1,3717 @@
+{
+  "scope": "同一历史输出；只比较规则开关后的分类变化，没有读取人工标签或计算准确率。",
+  "experiments": [
+    {
+      "disabled_rule_family": "CAUSAL_CROSS_RECOMMENDATION",
+      "changed_output_ids": [
+        37,
+        46
+      ],
+      "predictions": [
+        {
+          "sample_id": 1,
+          "log_file": "ADT_at_Your_Service0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 2,
+          "log_file": "Ambient_Audio_Rain_Sounds_for_Relax_and_Sleep0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 3,
+          "log_file": "Aquarium_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 4,
+          "log_file": "BIG_FIVE1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Error echo"
+        },
+        {
+          "sample_id": 5,
+          "log_file": "Bathroom_Sidekick1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 6,
+          "log_file": "Bells_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 7,
+          "log_file": "Birthstone_guide0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 8,
+          "log_file": "Candle_Farm2.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 9,
+          "log_file": "Cave_sound2.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 10,
+          "log_file": "Christmas_Spectacular0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 11,
+          "log_file": "Communities_We_Love_On2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 12,
+          "log_file": "Computer_fan_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 13,
+          "log_file": "Copper_Compression0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Error echo"
+        },
+        {
+          "sample_id": 14,
+          "log_file": "Date_Ideas3.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 15,
+          "log_file": "Deepracer_Talk1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 16,
+          "log_file": "Dishwasher_sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 17,
+          "log_file": "Dog_Barking_Sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 18,
+          "log_file": "Facts_Sample_w_In_Skill_Purchasing2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 19,
+          "log_file": "Fake_News_Presidential_Tweets1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 20,
+          "log_file": "Fall_asleep_sounds1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 21,
+          "log_file": "Family_Points1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 22,
+          "log_file": "Fan_Sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 23,
+          "log_file": "Fan_Sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 24,
+          "log_file": "Fitness_Club_Home_Training_Bodyweight_Workouts0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 25,
+          "log_file": "Fortnite_Helper1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 26,
+          "log_file": "Guess_The_Animal0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 27,
+          "log_file": "Guess_the_Movie_Game0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 28,
+          "log_file": "Heartbeat_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 29,
+          "log_file": "History_Quiz1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 30,
+          "log_file": "Knowledge_Trivia1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 31,
+          "log_file": "Life_Tips0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Feedforward Ambiguity (No help guidance / Unspoken options / Feedforward Ambiguity)"
+        },
+        {
+          "sample_id": 32,
+          "log_file": "Market_Hotline1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 33,
+          "log_file": "Money_Money2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 34,
+          "log_file": "Money_Money3.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 35,
+          "log_file": "Mood_Genie2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 36,
+          "log_file": "Morning_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 37,
+          "log_file": "Movie_Facts2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 38,
+          "log_file": "My_Baby_Talk0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 39,
+          "log_file": "My_Morning0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 40,
+          "log_file": "Name_Genie_The_Gender_Predictor_1.txt",
+          "type": "Disguised Ad",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 41,
+          "log_file": "Nature_sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 42,
+          "log_file": "News_India0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 43,
+          "log_file": "Night_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 44,
+          "log_file": "Noise_of_water_bubbles0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 45,
+          "log_file": "Old_Movie_Facts0.txt",
+          "type": "Voice-Guided Rating",
+          "subtype": "Rate us 5 stars"
+        },
+        {
+          "sample_id": 46,
+          "log_file": "Old_Movie_Facts1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 47,
+          "log_file": "One_Minute_Meditation1.txt",
+          "type": "Voice-Guided Rating",
+          "subtype": "Rate us 5 stars"
+        },
+        {
+          "sample_id": 48,
+          "log_file": "Oracle_of_Delphi2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 49,
+          "log_file": "Our_Farm0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 50,
+          "log_file": "Package_Hero1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 51,
+          "log_file": "Pirate_Name_Generator0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 52,
+          "log_file": "Pygmy_Mining_Relaxing_Mining_Sound_Game0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 53,
+          "log_file": "Quiz_of_Medicine_Indications0.txt",
+          "type": "Disguised Ad",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 54,
+          "log_file": "Random_Anything0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 55,
+          "log_file": "River_Sounds0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 56,
+          "log_file": "Santa_s_Helper0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 57,
+          "log_file": "Santa_s_Helper1.txt",
+          "type": "Watch Ads/Pay to Avoid Ads",
+          "subtype": "Feature lock (Subscription interruption)"
+        },
+        {
+          "sample_id": 58,
+          "log_file": "School_Schedule2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 59,
+          "log_file": "Simple_Translator0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 60,
+          "log_file": "Sleep_Sounds_Beautiful_Dream0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 61,
+          "log_file": "Sleep_Sounds_Rain_Sounds1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 62,
+          "log_file": "Smart_Timer2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 63,
+          "log_file": "Smarty_Pants0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 64,
+          "log_file": "Softball_BASIQs0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 65,
+          "log_file": "Sound_Fan1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 66,
+          "log_file": "Sound_dryer1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 67,
+          "log_file": "Sound_of_alien_spaceship1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 68,
+          "log_file": "Sound_of_rain_on_the_forest1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 69,
+          "log_file": "Sound_of_rain_on_the_tent1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 70,
+          "log_file": "Sound_of_the_engine_room1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 71,
+          "log_file": "Sound_of_the_storm1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 72,
+          "log_file": "Space_rocket_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 73,
+          "log_file": "Space_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 74,
+          "log_file": "Spaceship_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 75,
+          "log_file": "Spooky_Buttons2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 76,
+          "log_file": "Spring_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 77,
+          "log_file": "Successful_Farming_Live0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Error echo"
+        },
+        {
+          "sample_id": 78,
+          "log_file": "Summer_sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 79,
+          "log_file": "THESE_CHORES0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 80,
+          "log_file": "The_Constitution_Drill1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 81,
+          "log_file": "The_Hogwarts_Sorting_Hat2.txt",
+          "type": "Disguised Ad",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 82,
+          "log_file": "Thingee_Tech_Talk0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 83,
+          "log_file": "Uplift_Efficiency0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 84,
+          "log_file": "Waterfall_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 85,
+          "log_file": "Your_Happiness_Now0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 86,
+          "log_file": "guess_prime_number0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 87,
+          "log_file": "your_local_guide1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        }
+      ]
+    },
+    {
+      "disabled_rule_family": "OFFER_QUERY_DENIAL",
+      "changed_output_ids": [
+        31
+      ],
+      "predictions": [
+        {
+          "sample_id": 1,
+          "log_file": "ADT_at_Your_Service0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 2,
+          "log_file": "Ambient_Audio_Rain_Sounds_for_Relax_and_Sleep0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 3,
+          "log_file": "Aquarium_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 4,
+          "log_file": "BIG_FIVE1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Error echo"
+        },
+        {
+          "sample_id": 5,
+          "log_file": "Bathroom_Sidekick1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 6,
+          "log_file": "Bells_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 7,
+          "log_file": "Birthstone_guide0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 8,
+          "log_file": "Candle_Farm2.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 9,
+          "log_file": "Cave_sound2.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 10,
+          "log_file": "Christmas_Spectacular0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 11,
+          "log_file": "Communities_We_Love_On2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 12,
+          "log_file": "Computer_fan_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 13,
+          "log_file": "Copper_Compression0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Error echo"
+        },
+        {
+          "sample_id": 14,
+          "log_file": "Date_Ideas3.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 15,
+          "log_file": "Deepracer_Talk1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 16,
+          "log_file": "Dishwasher_sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 17,
+          "log_file": "Dog_Barking_Sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 18,
+          "log_file": "Facts_Sample_w_In_Skill_Purchasing2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 19,
+          "log_file": "Fake_News_Presidential_Tweets1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 20,
+          "log_file": "Fall_asleep_sounds1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 21,
+          "log_file": "Family_Points1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 22,
+          "log_file": "Fan_Sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 23,
+          "log_file": "Fan_Sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 24,
+          "log_file": "Fitness_Club_Home_Training_Bodyweight_Workouts0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 25,
+          "log_file": "Fortnite_Helper1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 26,
+          "log_file": "Guess_The_Animal0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 27,
+          "log_file": "Guess_the_Movie_Game0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 28,
+          "log_file": "Heartbeat_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 29,
+          "log_file": "History_Quiz1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 30,
+          "log_file": "Knowledge_Trivia1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 31,
+          "log_file": "Life_Tips0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 32,
+          "log_file": "Market_Hotline1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 33,
+          "log_file": "Money_Money2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 34,
+          "log_file": "Money_Money3.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 35,
+          "log_file": "Mood_Genie2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 36,
+          "log_file": "Morning_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 37,
+          "log_file": "Movie_Facts2.txt",
+          "type": "Disguised Ad",
+          "subtype": "Biased recommendation"
+        },
+        {
+          "sample_id": 38,
+          "log_file": "My_Baby_Talk0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 39,
+          "log_file": "My_Morning0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 40,
+          "log_file": "Name_Genie_The_Gender_Predictor_1.txt",
+          "type": "Disguised Ad",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 41,
+          "log_file": "Nature_sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 42,
+          "log_file": "News_India0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 43,
+          "log_file": "Night_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 44,
+          "log_file": "Noise_of_water_bubbles0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 45,
+          "log_file": "Old_Movie_Facts0.txt",
+          "type": "Voice-Guided Rating",
+          "subtype": "Rate us 5 stars"
+        },
+        {
+          "sample_id": 46,
+          "log_file": "Old_Movie_Facts1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Biased recommendation"
+        },
+        {
+          "sample_id": 47,
+          "log_file": "One_Minute_Meditation1.txt",
+          "type": "Voice-Guided Rating",
+          "subtype": "Rate us 5 stars"
+        },
+        {
+          "sample_id": 48,
+          "log_file": "Oracle_of_Delphi2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 49,
+          "log_file": "Our_Farm0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 50,
+          "log_file": "Package_Hero1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 51,
+          "log_file": "Pirate_Name_Generator0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 52,
+          "log_file": "Pygmy_Mining_Relaxing_Mining_Sound_Game0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 53,
+          "log_file": "Quiz_of_Medicine_Indications0.txt",
+          "type": "Disguised Ad",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 54,
+          "log_file": "Random_Anything0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 55,
+          "log_file": "River_Sounds0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 56,
+          "log_file": "Santa_s_Helper0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 57,
+          "log_file": "Santa_s_Helper1.txt",
+          "type": "Watch Ads/Pay to Avoid Ads",
+          "subtype": "Feature lock (Subscription interruption)"
+        },
+        {
+          "sample_id": 58,
+          "log_file": "School_Schedule2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 59,
+          "log_file": "Simple_Translator0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 60,
+          "log_file": "Sleep_Sounds_Beautiful_Dream0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 61,
+          "log_file": "Sleep_Sounds_Rain_Sounds1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 62,
+          "log_file": "Smart_Timer2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 63,
+          "log_file": "Smarty_Pants0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 64,
+          "log_file": "Softball_BASIQs0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 65,
+          "log_file": "Sound_Fan1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 66,
+          "log_file": "Sound_dryer1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 67,
+          "log_file": "Sound_of_alien_spaceship1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 68,
+          "log_file": "Sound_of_rain_on_the_forest1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 69,
+          "log_file": "Sound_of_rain_on_the_tent1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 70,
+          "log_file": "Sound_of_the_engine_room1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 71,
+          "log_file": "Sound_of_the_storm1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 72,
+          "log_file": "Space_rocket_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 73,
+          "log_file": "Space_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 74,
+          "log_file": "Spaceship_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 75,
+          "log_file": "Spooky_Buttons2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 76,
+          "log_file": "Spring_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 77,
+          "log_file": "Successful_Farming_Live0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Error echo"
+        },
+        {
+          "sample_id": 78,
+          "log_file": "Summer_sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 79,
+          "log_file": "THESE_CHORES0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 80,
+          "log_file": "The_Constitution_Drill1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 81,
+          "log_file": "The_Hogwarts_Sorting_Hat2.txt",
+          "type": "Disguised Ad",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 82,
+          "log_file": "Thingee_Tech_Talk0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 83,
+          "log_file": "Uplift_Efficiency0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 84,
+          "log_file": "Waterfall_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 85,
+          "log_file": "Your_Happiness_Now0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 86,
+          "log_file": "guess_prime_number0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 87,
+          "log_file": "your_local_guide1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        }
+      ]
+    },
+    {
+      "disabled_rule_family": "CONTROL_INTENT_SUBSTITUTION",
+      "changed_output_ids": [
+        15
+      ],
+      "predictions": [
+        {
+          "sample_id": 1,
+          "log_file": "ADT_at_Your_Service0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 2,
+          "log_file": "Ambient_Audio_Rain_Sounds_for_Relax_and_Sleep0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 3,
+          "log_file": "Aquarium_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 4,
+          "log_file": "BIG_FIVE1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Error echo"
+        },
+        {
+          "sample_id": 5,
+          "log_file": "Bathroom_Sidekick1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 6,
+          "log_file": "Bells_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 7,
+          "log_file": "Birthstone_guide0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 8,
+          "log_file": "Candle_Farm2.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 9,
+          "log_file": "Cave_sound2.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 10,
+          "log_file": "Christmas_Spectacular0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 11,
+          "log_file": "Communities_We_Love_On2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 12,
+          "log_file": "Computer_fan_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 13,
+          "log_file": "Copper_Compression0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Error echo"
+        },
+        {
+          "sample_id": 14,
+          "log_file": "Date_Ideas3.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 15,
+          "log_file": "Deepracer_Talk1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 16,
+          "log_file": "Dishwasher_sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 17,
+          "log_file": "Dog_Barking_Sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 18,
+          "log_file": "Facts_Sample_w_In_Skill_Purchasing2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 19,
+          "log_file": "Fake_News_Presidential_Tweets1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 20,
+          "log_file": "Fall_asleep_sounds1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 21,
+          "log_file": "Family_Points1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 22,
+          "log_file": "Fan_Sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 23,
+          "log_file": "Fan_Sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 24,
+          "log_file": "Fitness_Club_Home_Training_Bodyweight_Workouts0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 25,
+          "log_file": "Fortnite_Helper1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 26,
+          "log_file": "Guess_The_Animal0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 27,
+          "log_file": "Guess_the_Movie_Game0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 28,
+          "log_file": "Heartbeat_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 29,
+          "log_file": "History_Quiz1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 30,
+          "log_file": "Knowledge_Trivia1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 31,
+          "log_file": "Life_Tips0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Feedforward Ambiguity (No help guidance / Unspoken options / Feedforward Ambiguity)"
+        },
+        {
+          "sample_id": 32,
+          "log_file": "Market_Hotline1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 33,
+          "log_file": "Money_Money2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 34,
+          "log_file": "Money_Money3.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 35,
+          "log_file": "Mood_Genie2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 36,
+          "log_file": "Morning_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 37,
+          "log_file": "Movie_Facts2.txt",
+          "type": "Disguised Ad",
+          "subtype": "Biased recommendation"
+        },
+        {
+          "sample_id": 38,
+          "log_file": "My_Baby_Talk0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 39,
+          "log_file": "My_Morning0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 40,
+          "log_file": "Name_Genie_The_Gender_Predictor_1.txt",
+          "type": "Disguised Ad",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 41,
+          "log_file": "Nature_sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 42,
+          "log_file": "News_India0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 43,
+          "log_file": "Night_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 44,
+          "log_file": "Noise_of_water_bubbles0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 45,
+          "log_file": "Old_Movie_Facts0.txt",
+          "type": "Voice-Guided Rating",
+          "subtype": "Rate us 5 stars"
+        },
+        {
+          "sample_id": 46,
+          "log_file": "Old_Movie_Facts1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Biased recommendation"
+        },
+        {
+          "sample_id": 47,
+          "log_file": "One_Minute_Meditation1.txt",
+          "type": "Voice-Guided Rating",
+          "subtype": "Rate us 5 stars"
+        },
+        {
+          "sample_id": 48,
+          "log_file": "Oracle_of_Delphi2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 49,
+          "log_file": "Our_Farm0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 50,
+          "log_file": "Package_Hero1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 51,
+          "log_file": "Pirate_Name_Generator0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 52,
+          "log_file": "Pygmy_Mining_Relaxing_Mining_Sound_Game0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 53,
+          "log_file": "Quiz_of_Medicine_Indications0.txt",
+          "type": "Disguised Ad",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 54,
+          "log_file": "Random_Anything0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 55,
+          "log_file": "River_Sounds0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 56,
+          "log_file": "Santa_s_Helper0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 57,
+          "log_file": "Santa_s_Helper1.txt",
+          "type": "Watch Ads/Pay to Avoid Ads",
+          "subtype": "Feature lock (Subscription interruption)"
+        },
+        {
+          "sample_id": 58,
+          "log_file": "School_Schedule2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 59,
+          "log_file": "Simple_Translator0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 60,
+          "log_file": "Sleep_Sounds_Beautiful_Dream0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 61,
+          "log_file": "Sleep_Sounds_Rain_Sounds1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 62,
+          "log_file": "Smart_Timer2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 63,
+          "log_file": "Smarty_Pants0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 64,
+          "log_file": "Softball_BASIQs0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 65,
+          "log_file": "Sound_Fan1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 66,
+          "log_file": "Sound_dryer1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 67,
+          "log_file": "Sound_of_alien_spaceship1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 68,
+          "log_file": "Sound_of_rain_on_the_forest1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 69,
+          "log_file": "Sound_of_rain_on_the_tent1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 70,
+          "log_file": "Sound_of_the_engine_room1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 71,
+          "log_file": "Sound_of_the_storm1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 72,
+          "log_file": "Space_rocket_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 73,
+          "log_file": "Space_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 74,
+          "log_file": "Spaceship_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 75,
+          "log_file": "Spooky_Buttons2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 76,
+          "log_file": "Spring_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 77,
+          "log_file": "Successful_Farming_Live0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Error echo"
+        },
+        {
+          "sample_id": 78,
+          "log_file": "Summer_sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 79,
+          "log_file": "THESE_CHORES0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 80,
+          "log_file": "The_Constitution_Drill1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 81,
+          "log_file": "The_Hogwarts_Sorting_Hat2.txt",
+          "type": "Disguised Ad",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 82,
+          "log_file": "Thingee_Tech_Talk0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 83,
+          "log_file": "Uplift_Efficiency0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 84,
+          "log_file": "Waterfall_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 85,
+          "log_file": "Your_Happiness_Now0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 86,
+          "log_file": "guess_prime_number0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 87,
+          "log_file": "your_local_guide1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        }
+      ]
+    },
+    {
+      "disabled_rule_family": "CONTROL_TO_SALES_MENU",
+      "changed_output_ids": [
+        8
+      ],
+      "predictions": [
+        {
+          "sample_id": 1,
+          "log_file": "ADT_at_Your_Service0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 2,
+          "log_file": "Ambient_Audio_Rain_Sounds_for_Relax_and_Sleep0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 3,
+          "log_file": "Aquarium_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 4,
+          "log_file": "BIG_FIVE1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Error echo"
+        },
+        {
+          "sample_id": 5,
+          "log_file": "Bathroom_Sidekick1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 6,
+          "log_file": "Bells_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 7,
+          "log_file": "Birthstone_guide0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 8,
+          "log_file": "Candle_Farm2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 9,
+          "log_file": "Cave_sound2.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 10,
+          "log_file": "Christmas_Spectacular0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 11,
+          "log_file": "Communities_We_Love_On2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 12,
+          "log_file": "Computer_fan_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 13,
+          "log_file": "Copper_Compression0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Error echo"
+        },
+        {
+          "sample_id": 14,
+          "log_file": "Date_Ideas3.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 15,
+          "log_file": "Deepracer_Talk1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 16,
+          "log_file": "Dishwasher_sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 17,
+          "log_file": "Dog_Barking_Sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 18,
+          "log_file": "Facts_Sample_w_In_Skill_Purchasing2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 19,
+          "log_file": "Fake_News_Presidential_Tweets1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 20,
+          "log_file": "Fall_asleep_sounds1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 21,
+          "log_file": "Family_Points1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 22,
+          "log_file": "Fan_Sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 23,
+          "log_file": "Fan_Sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 24,
+          "log_file": "Fitness_Club_Home_Training_Bodyweight_Workouts0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 25,
+          "log_file": "Fortnite_Helper1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 26,
+          "log_file": "Guess_The_Animal0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 27,
+          "log_file": "Guess_the_Movie_Game0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 28,
+          "log_file": "Heartbeat_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 29,
+          "log_file": "History_Quiz1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 30,
+          "log_file": "Knowledge_Trivia1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 31,
+          "log_file": "Life_Tips0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Feedforward Ambiguity (No help guidance / Unspoken options / Feedforward Ambiguity)"
+        },
+        {
+          "sample_id": 32,
+          "log_file": "Market_Hotline1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 33,
+          "log_file": "Money_Money2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 34,
+          "log_file": "Money_Money3.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 35,
+          "log_file": "Mood_Genie2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 36,
+          "log_file": "Morning_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 37,
+          "log_file": "Movie_Facts2.txt",
+          "type": "Disguised Ad",
+          "subtype": "Biased recommendation"
+        },
+        {
+          "sample_id": 38,
+          "log_file": "My_Baby_Talk0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 39,
+          "log_file": "My_Morning0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 40,
+          "log_file": "Name_Genie_The_Gender_Predictor_1.txt",
+          "type": "Disguised Ad",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 41,
+          "log_file": "Nature_sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 42,
+          "log_file": "News_India0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 43,
+          "log_file": "Night_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 44,
+          "log_file": "Noise_of_water_bubbles0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 45,
+          "log_file": "Old_Movie_Facts0.txt",
+          "type": "Voice-Guided Rating",
+          "subtype": "Rate us 5 stars"
+        },
+        {
+          "sample_id": 46,
+          "log_file": "Old_Movie_Facts1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Biased recommendation"
+        },
+        {
+          "sample_id": 47,
+          "log_file": "One_Minute_Meditation1.txt",
+          "type": "Voice-Guided Rating",
+          "subtype": "Rate us 5 stars"
+        },
+        {
+          "sample_id": 48,
+          "log_file": "Oracle_of_Delphi2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 49,
+          "log_file": "Our_Farm0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 50,
+          "log_file": "Package_Hero1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 51,
+          "log_file": "Pirate_Name_Generator0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 52,
+          "log_file": "Pygmy_Mining_Relaxing_Mining_Sound_Game0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 53,
+          "log_file": "Quiz_of_Medicine_Indications0.txt",
+          "type": "Disguised Ad",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 54,
+          "log_file": "Random_Anything0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 55,
+          "log_file": "River_Sounds0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 56,
+          "log_file": "Santa_s_Helper0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 57,
+          "log_file": "Santa_s_Helper1.txt",
+          "type": "Watch Ads/Pay to Avoid Ads",
+          "subtype": "Feature lock (Subscription interruption)"
+        },
+        {
+          "sample_id": 58,
+          "log_file": "School_Schedule2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 59,
+          "log_file": "Simple_Translator0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 60,
+          "log_file": "Sleep_Sounds_Beautiful_Dream0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 61,
+          "log_file": "Sleep_Sounds_Rain_Sounds1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 62,
+          "log_file": "Smart_Timer2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 63,
+          "log_file": "Smarty_Pants0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 64,
+          "log_file": "Softball_BASIQs0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 65,
+          "log_file": "Sound_Fan1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 66,
+          "log_file": "Sound_dryer1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 67,
+          "log_file": "Sound_of_alien_spaceship1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 68,
+          "log_file": "Sound_of_rain_on_the_forest1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 69,
+          "log_file": "Sound_of_rain_on_the_tent1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 70,
+          "log_file": "Sound_of_the_engine_room1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 71,
+          "log_file": "Sound_of_the_storm1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 72,
+          "log_file": "Space_rocket_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 73,
+          "log_file": "Space_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 74,
+          "log_file": "Spaceship_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 75,
+          "log_file": "Spooky_Buttons2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 76,
+          "log_file": "Spring_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 77,
+          "log_file": "Successful_Farming_Live0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Error echo"
+        },
+        {
+          "sample_id": 78,
+          "log_file": "Summer_sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 79,
+          "log_file": "THESE_CHORES0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 80,
+          "log_file": "The_Constitution_Drill1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 81,
+          "log_file": "The_Hogwarts_Sorting_Hat2.txt",
+          "type": "Disguised Ad",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 82,
+          "log_file": "Thingee_Tech_Talk0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 83,
+          "log_file": "Uplift_Efficiency0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 84,
+          "log_file": "Waterfall_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 85,
+          "log_file": "Your_Happiness_Now0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 86,
+          "log_file": "guess_prime_number0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 87,
+          "log_file": "your_local_guide1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        }
+      ]
+    },
+    {
+      "disabled_rule_family": "BROKEN_QUESTION_AND_REPLAY",
+      "changed_output_ids": [
+        19
+      ],
+      "predictions": [
+        {
+          "sample_id": 1,
+          "log_file": "ADT_at_Your_Service0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 2,
+          "log_file": "Ambient_Audio_Rain_Sounds_for_Relax_and_Sleep0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 3,
+          "log_file": "Aquarium_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 4,
+          "log_file": "BIG_FIVE1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Error echo"
+        },
+        {
+          "sample_id": 5,
+          "log_file": "Bathroom_Sidekick1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 6,
+          "log_file": "Bells_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 7,
+          "log_file": "Birthstone_guide0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 8,
+          "log_file": "Candle_Farm2.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 9,
+          "log_file": "Cave_sound2.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 10,
+          "log_file": "Christmas_Spectacular0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 11,
+          "log_file": "Communities_We_Love_On2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 12,
+          "log_file": "Computer_fan_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 13,
+          "log_file": "Copper_Compression0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Error echo"
+        },
+        {
+          "sample_id": 14,
+          "log_file": "Date_Ideas3.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 15,
+          "log_file": "Deepracer_Talk1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 16,
+          "log_file": "Dishwasher_sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 17,
+          "log_file": "Dog_Barking_Sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 18,
+          "log_file": "Facts_Sample_w_In_Skill_Purchasing2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 19,
+          "log_file": "Fake_News_Presidential_Tweets1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 20,
+          "log_file": "Fall_asleep_sounds1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 21,
+          "log_file": "Family_Points1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 22,
+          "log_file": "Fan_Sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 23,
+          "log_file": "Fan_Sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 24,
+          "log_file": "Fitness_Club_Home_Training_Bodyweight_Workouts0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 25,
+          "log_file": "Fortnite_Helper1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 26,
+          "log_file": "Guess_The_Animal0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 27,
+          "log_file": "Guess_the_Movie_Game0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 28,
+          "log_file": "Heartbeat_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 29,
+          "log_file": "History_Quiz1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 30,
+          "log_file": "Knowledge_Trivia1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 31,
+          "log_file": "Life_Tips0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Feedforward Ambiguity (No help guidance / Unspoken options / Feedforward Ambiguity)"
+        },
+        {
+          "sample_id": 32,
+          "log_file": "Market_Hotline1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 33,
+          "log_file": "Money_Money2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 34,
+          "log_file": "Money_Money3.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 35,
+          "log_file": "Mood_Genie2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 36,
+          "log_file": "Morning_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 37,
+          "log_file": "Movie_Facts2.txt",
+          "type": "Disguised Ad",
+          "subtype": "Biased recommendation"
+        },
+        {
+          "sample_id": 38,
+          "log_file": "My_Baby_Talk0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 39,
+          "log_file": "My_Morning0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 40,
+          "log_file": "Name_Genie_The_Gender_Predictor_1.txt",
+          "type": "Disguised Ad",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 41,
+          "log_file": "Nature_sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 42,
+          "log_file": "News_India0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 43,
+          "log_file": "Night_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 44,
+          "log_file": "Noise_of_water_bubbles0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 45,
+          "log_file": "Old_Movie_Facts0.txt",
+          "type": "Voice-Guided Rating",
+          "subtype": "Rate us 5 stars"
+        },
+        {
+          "sample_id": 46,
+          "log_file": "Old_Movie_Facts1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Biased recommendation"
+        },
+        {
+          "sample_id": 47,
+          "log_file": "One_Minute_Meditation1.txt",
+          "type": "Voice-Guided Rating",
+          "subtype": "Rate us 5 stars"
+        },
+        {
+          "sample_id": 48,
+          "log_file": "Oracle_of_Delphi2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 49,
+          "log_file": "Our_Farm0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 50,
+          "log_file": "Package_Hero1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 51,
+          "log_file": "Pirate_Name_Generator0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 52,
+          "log_file": "Pygmy_Mining_Relaxing_Mining_Sound_Game0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 53,
+          "log_file": "Quiz_of_Medicine_Indications0.txt",
+          "type": "Disguised Ad",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 54,
+          "log_file": "Random_Anything0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 55,
+          "log_file": "River_Sounds0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 56,
+          "log_file": "Santa_s_Helper0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 57,
+          "log_file": "Santa_s_Helper1.txt",
+          "type": "Watch Ads/Pay to Avoid Ads",
+          "subtype": "Feature lock (Subscription interruption)"
+        },
+        {
+          "sample_id": 58,
+          "log_file": "School_Schedule2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 59,
+          "log_file": "Simple_Translator0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 60,
+          "log_file": "Sleep_Sounds_Beautiful_Dream0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 61,
+          "log_file": "Sleep_Sounds_Rain_Sounds1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 62,
+          "log_file": "Smart_Timer2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 63,
+          "log_file": "Smarty_Pants0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 64,
+          "log_file": "Softball_BASIQs0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 65,
+          "log_file": "Sound_Fan1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 66,
+          "log_file": "Sound_dryer1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 67,
+          "log_file": "Sound_of_alien_spaceship1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 68,
+          "log_file": "Sound_of_rain_on_the_forest1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 69,
+          "log_file": "Sound_of_rain_on_the_tent1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 70,
+          "log_file": "Sound_of_the_engine_room1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 71,
+          "log_file": "Sound_of_the_storm1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 72,
+          "log_file": "Space_rocket_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 73,
+          "log_file": "Space_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 74,
+          "log_file": "Spaceship_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 75,
+          "log_file": "Spooky_Buttons2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 76,
+          "log_file": "Spring_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 77,
+          "log_file": "Successful_Farming_Live0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Error echo"
+        },
+        {
+          "sample_id": 78,
+          "log_file": "Summer_sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 79,
+          "log_file": "THESE_CHORES0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 80,
+          "log_file": "The_Constitution_Drill1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 81,
+          "log_file": "The_Hogwarts_Sorting_Hat2.txt",
+          "type": "Disguised Ad",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 82,
+          "log_file": "Thingee_Tech_Talk0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 83,
+          "log_file": "Uplift_Efficiency0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 84,
+          "log_file": "Waterfall_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 85,
+          "log_file": "Your_Happiness_Now0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 86,
+          "log_file": "guess_prime_number0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 87,
+          "log_file": "your_local_guide1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        }
+      ]
+    },
+    {
+      "disabled_rule_family": "OPTIONAL_EXTENSION_DECLINE_HONORED",
+      "changed_output_ids": [
+        29,
+        39
+      ],
+      "predictions": [
+        {
+          "sample_id": 1,
+          "log_file": "ADT_at_Your_Service0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 2,
+          "log_file": "Ambient_Audio_Rain_Sounds_for_Relax_and_Sleep0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 3,
+          "log_file": "Aquarium_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 4,
+          "log_file": "BIG_FIVE1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Error echo"
+        },
+        {
+          "sample_id": 5,
+          "log_file": "Bathroom_Sidekick1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 6,
+          "log_file": "Bells_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 7,
+          "log_file": "Birthstone_guide0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 8,
+          "log_file": "Candle_Farm2.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 9,
+          "log_file": "Cave_sound2.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 10,
+          "log_file": "Christmas_Spectacular0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 11,
+          "log_file": "Communities_We_Love_On2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 12,
+          "log_file": "Computer_fan_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 13,
+          "log_file": "Copper_Compression0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Error echo"
+        },
+        {
+          "sample_id": 14,
+          "log_file": "Date_Ideas3.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 15,
+          "log_file": "Deepracer_Talk1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 16,
+          "log_file": "Dishwasher_sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 17,
+          "log_file": "Dog_Barking_Sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 18,
+          "log_file": "Facts_Sample_w_In_Skill_Purchasing2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 19,
+          "log_file": "Fake_News_Presidential_Tweets1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 20,
+          "log_file": "Fall_asleep_sounds1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 21,
+          "log_file": "Family_Points1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 22,
+          "log_file": "Fan_Sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 23,
+          "log_file": "Fan_Sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 24,
+          "log_file": "Fitness_Club_Home_Training_Bodyweight_Workouts0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 25,
+          "log_file": "Fortnite_Helper1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 26,
+          "log_file": "Guess_The_Animal0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 27,
+          "log_file": "Guess_the_Movie_Game0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 28,
+          "log_file": "Heartbeat_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 29,
+          "log_file": "History_Quiz1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 30,
+          "log_file": "Knowledge_Trivia1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 31,
+          "log_file": "Life_Tips0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Feedforward Ambiguity (No help guidance / Unspoken options / Feedforward Ambiguity)"
+        },
+        {
+          "sample_id": 32,
+          "log_file": "Market_Hotline1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 33,
+          "log_file": "Money_Money2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 34,
+          "log_file": "Money_Money3.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 35,
+          "log_file": "Mood_Genie2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 36,
+          "log_file": "Morning_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 37,
+          "log_file": "Movie_Facts2.txt",
+          "type": "Disguised Ad",
+          "subtype": "Biased recommendation"
+        },
+        {
+          "sample_id": 38,
+          "log_file": "My_Baby_Talk0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 39,
+          "log_file": "My_Morning0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 40,
+          "log_file": "Name_Genie_The_Gender_Predictor_1.txt",
+          "type": "Disguised Ad",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 41,
+          "log_file": "Nature_sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 42,
+          "log_file": "News_India0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 43,
+          "log_file": "Night_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 44,
+          "log_file": "Noise_of_water_bubbles0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 45,
+          "log_file": "Old_Movie_Facts0.txt",
+          "type": "Voice-Guided Rating",
+          "subtype": "Rate us 5 stars"
+        },
+        {
+          "sample_id": 46,
+          "log_file": "Old_Movie_Facts1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Biased recommendation"
+        },
+        {
+          "sample_id": 47,
+          "log_file": "One_Minute_Meditation1.txt",
+          "type": "Voice-Guided Rating",
+          "subtype": "Rate us 5 stars"
+        },
+        {
+          "sample_id": 48,
+          "log_file": "Oracle_of_Delphi2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 49,
+          "log_file": "Our_Farm0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 50,
+          "log_file": "Package_Hero1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 51,
+          "log_file": "Pirate_Name_Generator0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 52,
+          "log_file": "Pygmy_Mining_Relaxing_Mining_Sound_Game0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 53,
+          "log_file": "Quiz_of_Medicine_Indications0.txt",
+          "type": "Disguised Ad",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 54,
+          "log_file": "Random_Anything0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 55,
+          "log_file": "River_Sounds0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 56,
+          "log_file": "Santa_s_Helper0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 57,
+          "log_file": "Santa_s_Helper1.txt",
+          "type": "Watch Ads/Pay to Avoid Ads",
+          "subtype": "Feature lock (Subscription interruption)"
+        },
+        {
+          "sample_id": 58,
+          "log_file": "School_Schedule2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 59,
+          "log_file": "Simple_Translator0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 60,
+          "log_file": "Sleep_Sounds_Beautiful_Dream0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 61,
+          "log_file": "Sleep_Sounds_Rain_Sounds1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 62,
+          "log_file": "Smart_Timer2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 63,
+          "log_file": "Smarty_Pants0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 64,
+          "log_file": "Softball_BASIQs0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 65,
+          "log_file": "Sound_Fan1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 66,
+          "log_file": "Sound_dryer1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 67,
+          "log_file": "Sound_of_alien_spaceship1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 68,
+          "log_file": "Sound_of_rain_on_the_forest1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 69,
+          "log_file": "Sound_of_rain_on_the_tent1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 70,
+          "log_file": "Sound_of_the_engine_room1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 71,
+          "log_file": "Sound_of_the_storm1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 72,
+          "log_file": "Space_rocket_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 73,
+          "log_file": "Space_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 74,
+          "log_file": "Spaceship_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 75,
+          "log_file": "Spooky_Buttons2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 76,
+          "log_file": "Spring_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 77,
+          "log_file": "Successful_Farming_Live0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Error echo"
+        },
+        {
+          "sample_id": 78,
+          "log_file": "Summer_sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 79,
+          "log_file": "THESE_CHORES0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 80,
+          "log_file": "The_Constitution_Drill1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 81,
+          "log_file": "The_Hogwarts_Sorting_Hat2.txt",
+          "type": "Disguised Ad",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 82,
+          "log_file": "Thingee_Tech_Talk0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 83,
+          "log_file": "Uplift_Efficiency0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 84,
+          "log_file": "Waterfall_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 85,
+          "log_file": "Your_Happiness_Now0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 86,
+          "log_file": "guess_prime_number0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 87,
+          "log_file": "your_local_guide1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        }
+      ]
+    },
+    {
+      "disabled_rule_family": "FREE_QUOTA_OPTIONAL_EXTENSION",
+      "changed_output_ids": [
+        56
+      ],
+      "predictions": [
+        {
+          "sample_id": 1,
+          "log_file": "ADT_at_Your_Service0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 2,
+          "log_file": "Ambient_Audio_Rain_Sounds_for_Relax_and_Sleep0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 3,
+          "log_file": "Aquarium_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 4,
+          "log_file": "BIG_FIVE1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Error echo"
+        },
+        {
+          "sample_id": 5,
+          "log_file": "Bathroom_Sidekick1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 6,
+          "log_file": "Bells_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 7,
+          "log_file": "Birthstone_guide0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 8,
+          "log_file": "Candle_Farm2.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 9,
+          "log_file": "Cave_sound2.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 10,
+          "log_file": "Christmas_Spectacular0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 11,
+          "log_file": "Communities_We_Love_On2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 12,
+          "log_file": "Computer_fan_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 13,
+          "log_file": "Copper_Compression0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Error echo"
+        },
+        {
+          "sample_id": 14,
+          "log_file": "Date_Ideas3.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 15,
+          "log_file": "Deepracer_Talk1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 16,
+          "log_file": "Dishwasher_sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 17,
+          "log_file": "Dog_Barking_Sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 18,
+          "log_file": "Facts_Sample_w_In_Skill_Purchasing2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 19,
+          "log_file": "Fake_News_Presidential_Tweets1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 20,
+          "log_file": "Fall_asleep_sounds1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 21,
+          "log_file": "Family_Points1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 22,
+          "log_file": "Fan_Sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 23,
+          "log_file": "Fan_Sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 24,
+          "log_file": "Fitness_Club_Home_Training_Bodyweight_Workouts0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 25,
+          "log_file": "Fortnite_Helper1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 26,
+          "log_file": "Guess_The_Animal0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 27,
+          "log_file": "Guess_the_Movie_Game0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 28,
+          "log_file": "Heartbeat_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 29,
+          "log_file": "History_Quiz1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 30,
+          "log_file": "Knowledge_Trivia1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 31,
+          "log_file": "Life_Tips0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Feedforward Ambiguity (No help guidance / Unspoken options / Feedforward Ambiguity)"
+        },
+        {
+          "sample_id": 32,
+          "log_file": "Market_Hotline1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 33,
+          "log_file": "Money_Money2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 34,
+          "log_file": "Money_Money3.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 35,
+          "log_file": "Mood_Genie2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 36,
+          "log_file": "Morning_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 37,
+          "log_file": "Movie_Facts2.txt",
+          "type": "Disguised Ad",
+          "subtype": "Biased recommendation"
+        },
+        {
+          "sample_id": 38,
+          "log_file": "My_Baby_Talk0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 39,
+          "log_file": "My_Morning0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 40,
+          "log_file": "Name_Genie_The_Gender_Predictor_1.txt",
+          "type": "Disguised Ad",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 41,
+          "log_file": "Nature_sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 42,
+          "log_file": "News_India0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 43,
+          "log_file": "Night_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 44,
+          "log_file": "Noise_of_water_bubbles0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 45,
+          "log_file": "Old_Movie_Facts0.txt",
+          "type": "Voice-Guided Rating",
+          "subtype": "Rate us 5 stars"
+        },
+        {
+          "sample_id": 46,
+          "log_file": "Old_Movie_Facts1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Biased recommendation"
+        },
+        {
+          "sample_id": 47,
+          "log_file": "One_Minute_Meditation1.txt",
+          "type": "Voice-Guided Rating",
+          "subtype": "Rate us 5 stars"
+        },
+        {
+          "sample_id": 48,
+          "log_file": "Oracle_of_Delphi2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 49,
+          "log_file": "Our_Farm0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 50,
+          "log_file": "Package_Hero1.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 51,
+          "log_file": "Pirate_Name_Generator0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 52,
+          "log_file": "Pygmy_Mining_Relaxing_Mining_Sound_Game0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 53,
+          "log_file": "Quiz_of_Medicine_Indications0.txt",
+          "type": "Disguised Ad",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 54,
+          "log_file": "Random_Anything0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 55,
+          "log_file": "River_Sounds0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 56,
+          "log_file": "Santa_s_Helper0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 57,
+          "log_file": "Santa_s_Helper1.txt",
+          "type": "Watch Ads/Pay to Avoid Ads",
+          "subtype": "Feature lock (Subscription interruption)"
+        },
+        {
+          "sample_id": 58,
+          "log_file": "School_Schedule2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 59,
+          "log_file": "Simple_Translator0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 60,
+          "log_file": "Sleep_Sounds_Beautiful_Dream0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 61,
+          "log_file": "Sleep_Sounds_Rain_Sounds1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 62,
+          "log_file": "Smart_Timer2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 63,
+          "log_file": "Smarty_Pants0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 64,
+          "log_file": "Softball_BASIQs0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 65,
+          "log_file": "Sound_Fan1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 66,
+          "log_file": "Sound_dryer1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 67,
+          "log_file": "Sound_of_alien_spaceship1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 68,
+          "log_file": "Sound_of_rain_on_the_forest1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 69,
+          "log_file": "Sound_of_rain_on_the_tent1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 70,
+          "log_file": "Sound_of_the_engine_room1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 71,
+          "log_file": "Sound_of_the_storm1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 72,
+          "log_file": "Space_rocket_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 73,
+          "log_file": "Space_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 74,
+          "log_file": "Spaceship_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 75,
+          "log_file": "Spooky_Buttons2.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 76,
+          "log_file": "Spring_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 77,
+          "log_file": "Successful_Farming_Live0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Error echo"
+        },
+        {
+          "sample_id": 78,
+          "log_file": "Summer_sound0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 79,
+          "log_file": "THESE_CHORES0.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 80,
+          "log_file": "The_Constitution_Drill1.txt",
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "sample_id": 81,
+          "log_file": "The_Hogwarts_Sorting_Hat2.txt",
+          "type": "Disguised Ad",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 82,
+          "log_file": "Thingee_Tech_Talk0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 83,
+          "log_file": "Uplift_Efficiency0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 84,
+          "log_file": "Waterfall_sound1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 85,
+          "log_file": "Your_Happiness_Now0.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        },
+        {
+          "sample_id": 86,
+          "log_file": "guess_prime_number0.txt",
+          "type": "ABSTAIN",
+          "subtype": "ABSTAIN"
+        },
+        {
+          "sample_id": 87,
+          "log_file": "your_local_guide1.txt",
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        }
+      ]
+    }
+  ]
+}

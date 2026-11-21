@@ -1,0 +1,8 @@
+[USER_INPUT] Alexa, open movie facts
+[SKILL_OUTPUT] because you used this skill you should also use space facts.,,,,, Hello, ask me to give you a fact about any movie.
+[USER_INPUT] help
+[SKILL_OUTPUT] You can say tell me a Movie fact, or, you can ask for a fact about star wars, a new star wars fact, a harry potter fact, a new harry potter fact, a marvel fact, a new marvel fact, etcetera. If 5, 4 or 5 star reviews are posted in the alexa skills store than I will add a new fact to each of the, new, catagories, and put the fact that was there previosly in the normal list. if 100, 4 or 5 star reviews are posted in the alexa skills store than I will add a whole new movie. poast a review by going to amazon.com and searching movie facts skill, then, scrol doun and click, write a costomer review.
+[USER_INPUT] post a review
+[SKILL_OUTPUT] Here's your fact: The sound of the Millennium Falcon was created by recording the engines of a jet airliner.,,,,,,,,,If you would like to hear about another movie, just ask.
+[USER_INPUT] give me a fact about [movie name]
+[SKILL_OUTPUT] Here's your fact: There is a Marvel super hero called Squirrel Girl, who once beat Doctor Doom by flooding his aircraft with a swarm of squirrels.,,,,,,,,,If you would like to hear about another movie, just ask.

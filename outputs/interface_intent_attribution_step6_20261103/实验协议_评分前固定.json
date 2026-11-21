@@ -1,0 +1,17 @@
+{
+  "version": "verified_intent_attribution_20261103",
+  "one_changed_factor": "Add one repeated explicit capability-to-purchase misstatement rule with a narrowly scoped fault-before-ad primary priority; retain ad as secondary and all other decisions",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "high",
+  "extra_real_api_calls": 0,
+  "rule": "At least two paired capability inquiries that the skill explicitly claims were purchase inquiries; actual purchase, quotes, and single failures excluded; a prior ad remains secondary",
+  "adoption": "fill abstention or prioritize this exact explicit repeated attribution fault over an existing ad only; preserve ad and its child",
+  "retention_gate": "manually verified positive net primary-path gain without previously correct path loss; otherwise candidate never enters production",
+  "source_sha256": "1242397bcf183709d6242409d3a6b992a78d34f12293bbb24b6ff41e36eaa36b",
+  "previous_predictions_sha256": "e83c2c4ed9aabb4d1472764ba10d11600958527f6d77249f094535190bc630dc",
+  "fixed_model_predictions_sha256": "76919a4955c22607b52f359d75aa7a61a622811bfa3e45a5ced87a222b5f6d71",
+  "prompt_sha256": "746d36281149557c5becb3ed82b99aa72a8de445226f80a624374a208af04e61",
+  "reference_sha256": "4f7fb167346ef686159b16b4895437497ba57d9ee306becdb2262f5e9a2a9705",
+  "grading": "manual comparison only; no gold labels loaded by experiment",
+  "scope": "seen development data, not an independent test set"
+}

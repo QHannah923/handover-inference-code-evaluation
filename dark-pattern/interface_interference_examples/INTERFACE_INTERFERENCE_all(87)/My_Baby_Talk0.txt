@@ -1,0 +1,16 @@
+[USER_INPUT] Alexa, open my baby talk
+[SKILL_OUTPUT] Ok, Here's My Baby Talk.<Short audio>.
+[USER_INPUT] help
+[SKILL_OUTPUT] You said help. Do you want to continue.
+[USER_INPUT] yes
+[SKILL_OUTPUT] Please select how I can help you. List of Baby Talk Requests. More about baby. Or Return to My Baby Talk.
+[USER_INPUT] return to my baby talk
+[SKILL_OUTPUT] Thank you, you will now be returned to My Baby talk. Welcome to My Baby Talk. Would you like to find out more about this baby, Talk to baby or dance with baby.
+[USER_INPUT] talk to baby
+[SKILL_OUTPUT] These are the Baby Talk requests. You can say. Alexa, ask Baby who's turn is it to change the diaper. Alexa, ask baby Who's turn is it  to feed the baby. Alexa, Play music for the baby. Alexa, Ask the baby what time is it. Alexa, Baby tell me a story. Alexa, ask Baby how do you feel today.  Go a head and talk to baby or say repeat to hear this list again.
+[USER_INPUT] i need assistance
+[SKILL_OUTPUT] These are the Baby Talk requests. You can say. Alexa, ask Baby who's turn is it to change the diaper. Alexa, ask baby Who's turn is it  to feed the baby. Alexa, Play music for the baby. Alexa, Ask the baby what time is it. Alexa, Baby tell me a story. Alexa, ask Baby how do you feel today.  Go a head and talk to baby or say repeat to hear this list again.
+[USER_INPUT] what can you do?
+[SKILL_OUTPUT] You requested what can I buy. Unfortunately there is nothing to buy in this skill. My Baby Talk is entirely free to play. But please.  Please seek out and support the artists who produced the songs included. Visit the Alexa App or Bubble Logix dot com for information on our eBooks in the Amazon Kindle Store  and our other works. My Baby Talk is a Bubble Logix property designed on Voice Flow. Would you like to go back to help or My Baby Talk.you will now be returned to Talk to Bubbles.
+[USER_INPUT] what can you do?
+[SKILL_OUTPUT] You requested what can I buy. Unfortunately there is nothing to buy in this skill. My Baby Talk is entirely free to play. But please.  Please seek out and support the artists who produced the songs included. Visit the Alexa App or Bubble Logix dot com for information on our eBooks in the Amazon Kindle Store  and our other works. My Baby Talk is a Bubble Logix property designed on Voice Flow. Would you like to go back to help or My Baby Talk.you will now be returned to Talk to Bubbles.

@@ -1,0 +1,9 @@
+[USER_INPUT] Alexa, open life coach
+[SKILL_OUTPUT] I think you should do some stretching. Are you happy to do that.
+[USER_INPUT] help
+[SKILL_OUTPUT] Life coach provides numerous tips on a daily basis to help you achieve your goals. Each activity is only suggested once per 24 hour period. The free version comes with a well rounded lifestyle, you can buy premium lifestyles to help become more productive, chilled out or social. Just say, what can I buy. If you have access to multiple lifestyles you can switch between them by saying, change my lifestyle. Returning to the skill. . I think you should it's time to review your to do list, maybe some more tasks have come up or disappeared. Did you want to give that a go.
+[USER_INPUT] what can i buy
+[SKILL_OUTPUT] There isn't anything available for you to purchase. Resuming skill. . why don't you check in on one of your family members or family friends. Are you happy to do that.
+[USER_INPUT] yes
+[SKILL_OUTPUT] Glad to hear, your family will appreciate knowing that you are thinking about them.
+[USER_INPUT] i hope so

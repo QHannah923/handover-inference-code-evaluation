@@ -1,0 +1,8 @@
+[USER_INPUT] Alexa, open the hogwarts sorting hat
+[SKILL_OUTPUT] Hmmmm  your Hogwarts house is HufflepuffIf you like this you might tryAlexa enable Harry Potter Wand Selector.
+[USER_INPUT] help
+[SKILL_OUTPUT] Ask me what is my Hogwarts house.
+[USER_INPUT] what is my hogwarts house
+[SKILL_OUTPUT] Oh this was easy.  Your Hogwarts house is definitely SlytherinIf you like this you might tryAlexa enable Harry Potter Wand Selector.
+[USER_INPUT] help
+[SKILL_OUTPUT] Ask me what is my Hogwarts house.

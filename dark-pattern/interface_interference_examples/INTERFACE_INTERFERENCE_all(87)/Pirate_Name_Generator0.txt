@@ -1,0 +1,8 @@
+[USER_INPUT] Alexa, open pirate name
+[SKILL_OUTPUT] Ok, Here's Pirate Name Generator.Ahoy there, Matey. Welcome to the Pirate name generator.  Say your first and last name and I will tell you your pirate name.
+[USER_INPUT] help
+[SKILL_OUTPUT] You can say a first and last name to get a pirate name.  Or you can say quit to exit.  If you are looking for more entertainment, quit this skill and ask me to enable the Ninja name skill to try a new skill.
+[USER_INPUT] enable the ninja name skill
+[SKILL_OUTPUT] Interesting. name skill. Your pirate name is One eyed Russel. Now, don't get caught dancing the hempen jig. You can say another first and last name or you can say exit.
+[USER_INPUT] first and last name
+[SKILL_OUTPUT] Wow. last name. Your pirate name is Infamous RedBeard. Now, grab yer cutlass. You can say another first and last name or you can say exit.

@@ -1,0 +1,18 @@
+[USER_INPUT] Alexa, open family points
+[SKILL_OUTPUT] Welcome to FamilyPoints. how may i help you. Say help to learn about voice commands.
+[USER_INPUT] help
+[SKILL_OUTPUT] To get your score, say list my family members or Email my points. If you want to correct names, you can do that only by disabling and enabling the skill and starting over. To do that say Disable family points and start again. To add a member, just say 'Add John to Family Points.                 Then say Give 10 points to John for finishing homework or Take away 10 points from John for bad behaviour.                Note that in the free plan, you only get 2 members. You can say upgrade my plan to get unlimited family members . Check us out at myfamilypoints dot com.
+[USER_INPUT] give 10 points to john for finishing homework
+[SKILL_OUTPUT] I did not find john in your family points. To know your family members, say List my family members.
+[USER_INPUT] list my family members
+[SKILL_OUTPUT] No family members in family points, you can add family members by saying add john to family points.
+[USER_INPUT] use nick names
+[SKILL_OUTPUT] Hmm, I'm not sure about that. please say help.
+[USER_INPUT] help
+[SKILL_OUTPUT] To get your score, say list my family members or Email my points. If you want to correct names, you can do that only by disabling and enabling the skill and starting over. To do that say Disable family points and start again. To add a member, just say 'Add John to Family Points.                 Then say Give 10 points to John for finishing homework or Take away 10 points from John for bad behaviour.                Note that in the free plan, you only get 2 members. You can say upgrade my plan to get unlimited family members . Check us out at myfamilypoints dot com.
+[USER_INPUT] take away 10 points from john for bad behaviour
+[SKILL_OUTPUT] I did not find john in your family points. To know your family members, say List my family members.
+[USER_INPUT] add harry to family points
+[SKILL_OUTPUT] I heard harry is that right .
+[USER_INPUT] yes
+[SKILL_OUTPUT] harry added to family points. What else would you like to do.

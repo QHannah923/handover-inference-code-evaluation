@@ -1,0 +1,464 @@
+{
+  "experiment": "selected_old_prompt_new_rules_confirmation_20261120",
+  "model": "gpt-6.1-sol",
+  "request_parameters": {
+    "reasoning_effort": "high"
+  },
+  "model_weight": 0.8,
+  "rule_weight": 0.2,
+  "strong_rule_threshold": 0.95,
+  "prompts": "v3_strict_exact_repeat_ad_boundary_20261103",
+  "input_count": 87,
+  "inputs": [
+    {
+      "number": 1,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/ADT_at_Your_Service0.txt",
+      "sha256": "1062d7c9a9b8ba1964cdcb783bf3af4278ce74119e756a8ed9e85097325d050a"
+    },
+    {
+      "number": 2,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Ambient_Audio_Rain_Sounds_for_Relax_and_Sleep0.txt",
+      "sha256": "c5abc498ce8757bb5970412bc34a36fcfdfcaa3cadc35d0e00a358964736a1c4"
+    },
+    {
+      "number": 3,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Aquarium_sound1.txt",
+      "sha256": "b4848fe6143f6090423b643eeff5495adceb53825eec8edfbcd3553c9b55131a"
+    },
+    {
+      "number": 4,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/BIG_FIVE1.txt",
+      "sha256": "d112ace82e5b855884bde6c02ba396dab6a5848a1103d8d93f779c9cac9bda41"
+    },
+    {
+      "number": 5,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Bathroom_Sidekick1.txt",
+      "sha256": "c1eaad5334d2ed08ba92adcb9cc3d919fbbbc2a2a44cb865dc0b4c9f63fa7de5"
+    },
+    {
+      "number": 6,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Bells_sound1.txt",
+      "sha256": "13eba979167eda8b737b5b717c9038ce2ea709d6aeac04a3887fcc4183f3cf2b"
+    },
+    {
+      "number": 7,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Birthstone_guide0.txt",
+      "sha256": "be12fea43db011925a1c170c56c1d79e536edab66a4c8f083ab8067161660e48"
+    },
+    {
+      "number": 8,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Candle_Farm2.txt",
+      "sha256": "532d017ff6039d237938537c7a2c72b05f3d03c6401b871f7a339f28c7a7752b"
+    },
+    {
+      "number": 9,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Cave_sound2.txt",
+      "sha256": "84b669ed067e13e48e43a72998e0109717d149269bc8220bba02d4fb9873db9a"
+    },
+    {
+      "number": 10,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Christmas_Spectacular0.txt",
+      "sha256": "fec7136a48b6f8267dcb5000aeca82d1b28e98f98be2ecfa81b9c555f6b5be73"
+    },
+    {
+      "number": 11,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Communities_We_Love_On2.txt",
+      "sha256": "f1af9514a54f4fbc571208680a7880ae44262eb7aa2ce381d3e0268d1ecbb489"
+    },
+    {
+      "number": 12,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Computer_fan_sound1.txt",
+      "sha256": "ea39284168dec9345521c7fb0570b80ce52508d52f8ce81c1e9527317f1dc389"
+    },
+    {
+      "number": 13,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Copper_Compression0.txt",
+      "sha256": "0880febe3b616087b83ee74848f8acc739d19cd80a68443828345b982b49a671"
+    },
+    {
+      "number": 14,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Date_Ideas3.txt",
+      "sha256": "8426e1eee947ca13352ac64beb411292a06c3d054c0b7e0d1d74a4263c7f8ea6"
+    },
+    {
+      "number": 15,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Deepracer_Talk1.txt",
+      "sha256": "bd3a499564e97cf61bae800f33c11f28c695292a681dd7fe6f25a527b9743f60"
+    },
+    {
+      "number": 16,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Dishwasher_sound0.txt",
+      "sha256": "5b6250e8036d350fee78606074535b45822fe76364db0dfbab2a76791a74ebe4"
+    },
+    {
+      "number": 17,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Dog_Barking_Sound1.txt",
+      "sha256": "74efd5788a386f1a2fa444d30a6abe9e37ac051e1f203734e5c05e8d0bf09417"
+    },
+    {
+      "number": 18,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Facts_Sample_w_In_Skill_Purchasing2.txt",
+      "sha256": "70efe4017f174dba419b1436583fbe54c5bf1d09e06c088426269cb92f719e94"
+    },
+    {
+      "number": 19,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Fake_News_Presidential_Tweets1.txt",
+      "sha256": "6d406f825f1198de6291e558d9a3ba4f34c5f33fe6dfe6fe19472f5d91abaa89"
+    },
+    {
+      "number": 20,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Fall_asleep_sounds1.txt",
+      "sha256": "69f54ccaac6274b3e8d52f24968ad26a155f8546810b7cab4214ab5933e67bc4"
+    },
+    {
+      "number": 21,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Family_Points1.txt",
+      "sha256": "845c72a1cb18123b4121692f919a402a49b63b18058a7f42bc15734c0ea0b6b9"
+    },
+    {
+      "number": 22,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Fan_Sound0.txt",
+      "sha256": "23b7dd3272820f66c7dd818bc989c8e91dd7c3ecc54915b53700b7325c645026"
+    },
+    {
+      "number": 23,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Fan_Sound1.txt",
+      "sha256": "40d827dd2ee3db8bb05dd735c9c78b569eb48a0b8f80462c530699a3daa03075"
+    },
+    {
+      "number": 24,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Fitness_Club_Home_Training_Bodyweight_Workouts0.txt",
+      "sha256": "0ea3485475617f8c834c8349920ff61e369ff9cf8c4dae1011fc1a09b5b567ea"
+    },
+    {
+      "number": 25,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Fortnite_Helper1.txt",
+      "sha256": "319a0ed9e111cbaabe14ebba67be7134b288e8ce9dfab36f21df1c88f18ed995"
+    },
+    {
+      "number": 26,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Guess_The_Animal0.txt",
+      "sha256": "0cd523e76bafa7ec9a6d5d6dce585a4e65c47a7b07da786d517470c88d9a1e5f"
+    },
+    {
+      "number": 27,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Guess_the_Movie_Game0.txt",
+      "sha256": "ffca11648dd6a3cc2dc71c907eb8d30fabd380bcb18f2312b74ac8cdd759d310"
+    },
+    {
+      "number": 28,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Heartbeat_sound1.txt",
+      "sha256": "e84e90f1aa5f795f1f6c328921a612b6f0a07154258e632d5eff2994696f90e3"
+    },
+    {
+      "number": 29,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/History_Quiz1.txt",
+      "sha256": "0ce75e67f948e3db237d3f96b0162d4986f39713003f3cde091015f629635397"
+    },
+    {
+      "number": 30,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Knowledge_Trivia1.txt",
+      "sha256": "9a74dd7ed8caa501f45b7301622eebdeabe0c8263496bca29654a99a5630aee3"
+    },
+    {
+      "number": 31,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Life_Tips0.txt",
+      "sha256": "9987b6a1d7ab5f51bf5571b77ab59adae8cbdd2451b454a28cbc30aae5bb8da1"
+    },
+    {
+      "number": 32,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Market_Hotline1.txt",
+      "sha256": "0635be59113ff253e222842a25e6c2cd4686b62b8f9c790fef8ba59e157e2ef6"
+    },
+    {
+      "number": 33,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Money_Money2.txt",
+      "sha256": "4c6b7554257962f5bbf47d9cdf338e533241f13dbafd82089887a1514fa541fe"
+    },
+    {
+      "number": 34,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Money_Money3.txt",
+      "sha256": "4f009962ca5ea1f4473c750e643c2dbed7d810ef486ca8677aa8139be5818e1a"
+    },
+    {
+      "number": 35,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Mood_Genie2.txt",
+      "sha256": "36f2c582c56d26c6d5e9de7aadff5419ea9f09e9b49588d3790b247d24560c2b"
+    },
+    {
+      "number": 36,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Morning_sound1.txt",
+      "sha256": "cdc29d7e15f437d3f21a7b38f3032994f44c08898088419e6773372f3bc888b7"
+    },
+    {
+      "number": 37,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Movie_Facts2.txt",
+      "sha256": "0886d8f366f1fdf3057f28e816b3f23df71f7f273c9a78857364ca944ec57c84"
+    },
+    {
+      "number": 38,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/My_Baby_Talk0.txt",
+      "sha256": "de10a6278b1c7a3707c8acd7b8fc88ea66773d2f7bf68d4e72d3a542ce17ae70"
+    },
+    {
+      "number": 39,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/My_Morning0.txt",
+      "sha256": "d935867617efef36f3dbde37e8e2c18c3c7d26ce10bc48af160986d03488396a"
+    },
+    {
+      "number": 40,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Name_Genie_The_Gender_Predictor_1.txt",
+      "sha256": "ee41ee86a6594121896d2fde962906b9d7e7e09f0ec5bd78ec601b6da5c477d9"
+    },
+    {
+      "number": 41,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Nature_sound0.txt",
+      "sha256": "031527fa491dd262560918f9fc7edbefd92694c3cc90f1e3ba9776f1311376fa"
+    },
+    {
+      "number": 42,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/News_India0.txt",
+      "sha256": "4d8f5d885c7ab40062c1c41563fde87995b5b70393f4690d914b74f1e197a96e"
+    },
+    {
+      "number": 43,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Night_sound1.txt",
+      "sha256": "6a01400a075e02ef1c41be01bd7b08063a527c2d4ffc3c59937b1f176d31a0d0"
+    },
+    {
+      "number": 44,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Noise_of_water_bubbles0.txt",
+      "sha256": "721d49feee8bd4ff4b3573fee01b828409f73998657aaefdcbc58a7813635a26"
+    },
+    {
+      "number": 45,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Old_Movie_Facts0.txt",
+      "sha256": "5901b5e93b3edb287934c85080a578002d2fb5dbdf965451940adbff7b5372e8"
+    },
+    {
+      "number": 46,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Old_Movie_Facts1.txt",
+      "sha256": "5b08484c5a7b2b3454fce63b8cde0db87e179bba5cd5ee569546704fb1a0932c"
+    },
+    {
+      "number": 47,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/One_Minute_Meditation1.txt",
+      "sha256": "7b942ee2ba697c0489e57bd8e5b887d46d3905f7b0a7dc149f14f6e7783ab311"
+    },
+    {
+      "number": 48,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Oracle_of_Delphi2.txt",
+      "sha256": "c233daf66fce770ddc4c00c28eda78eb734e78c95380463445fd4cada8220ba5"
+    },
+    {
+      "number": 49,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Our_Farm0.txt",
+      "sha256": "fd5b585acdfc2172160903180dfdfae0eb5df4ed7e42e032172ffaa60e27dfb6"
+    },
+    {
+      "number": 50,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Package_Hero1.txt",
+      "sha256": "62971a602940aa9aaeb14d8e7689ea006a01233fbbf0d01f2f25e2a4cec867bf"
+    },
+    {
+      "number": 51,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Pirate_Name_Generator0.txt",
+      "sha256": "a622c095bee58d4638f5f8413b4ff4c8516160c28a09e80441efc77ffb6103d8"
+    },
+    {
+      "number": 52,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Pygmy_Mining_Relaxing_Mining_Sound_Game0.txt",
+      "sha256": "4d343d07e74617f5a6642b8ee6b87ea59e595b2e7d450032cd9648d10a6dea7f"
+    },
+    {
+      "number": 53,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Quiz_of_Medicine_Indications0.txt",
+      "sha256": "3768b637b30ba2aa90f6131dd8412ecee786615e81620adabd20ba2f2596a2d4"
+    },
+    {
+      "number": 54,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Random_Anything0.txt",
+      "sha256": "c65bea519d4a22b0fdb231aaabc92e2507c5d1cd5140ea3642f46f3a00c760f9"
+    },
+    {
+      "number": 55,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/River_Sounds0.txt",
+      "sha256": "3d4aee443c696384c946f33b29dde3efe5dc83d84bdf7921909426d95b554b29"
+    },
+    {
+      "number": 56,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Santa_s_Helper0.txt",
+      "sha256": "6d0981a0073383acc3675d9866c2f50aca1680f7b2bf66401f4a0a67bb6fe059"
+    },
+    {
+      "number": 57,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Santa_s_Helper1.txt",
+      "sha256": "f8ddf2119045db997e1bd8541bc20d47af792b00e59b89f4479d6108a0b16bdd"
+    },
+    {
+      "number": 58,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/School_Schedule2.txt",
+      "sha256": "153e777c3d4439257874a56e5942feffb5362424b2b3ac3053e54daa83c6ad69"
+    },
+    {
+      "number": 59,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Simple_Translator0.txt",
+      "sha256": "4245130a41650c3b5587bb8911eeab7d02951615be4e0eb4db15555789d8af91"
+    },
+    {
+      "number": 60,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Sleep_Sounds_Beautiful_Dream0.txt",
+      "sha256": "30735bff0474538e2b8ac29a01b6ff3bed3911cfcc777a3704e208a712075b9d"
+    },
+    {
+      "number": 61,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Sleep_Sounds_Rain_Sounds1.txt",
+      "sha256": "e6bd4b9606a39ab864811a0fcd07c3703b37506d82011b54ac97468cb08f3aab"
+    },
+    {
+      "number": 62,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Smart_Timer2.txt",
+      "sha256": "338c1b3493238a9b4b0758ad9790ff012699c049f923fe29f27a4d3c46bd235c"
+    },
+    {
+      "number": 63,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Smarty_Pants0.txt",
+      "sha256": "6231193051f6953fd8af90b94d305ebf5f1313c2fd0ac816fc84a450ef529f90"
+    },
+    {
+      "number": 64,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Softball_BASIQs0.txt",
+      "sha256": "96cced0b7ef1dcbdcd0c35ca280dd1f77cdfb10a432ce37c6bf2765b45bf870d"
+    },
+    {
+      "number": 65,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Sound_Fan1.txt",
+      "sha256": "06a1af130de8a57bd15893c331dad80353d8103a0bd58987427edebb2e62a8f0"
+    },
+    {
+      "number": 66,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Sound_dryer1.txt",
+      "sha256": "25c3a5731dfcd4b415bfaca71c9fc3aea90327360874620e988609c100baf4c1"
+    },
+    {
+      "number": 67,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Sound_of_alien_spaceship1.txt",
+      "sha256": "e7ab16491b27ff2ba425a9e71f16e9c0beb8fce5ab409102715c5e53450e74eb"
+    },
+    {
+      "number": 68,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Sound_of_rain_on_the_forest1.txt",
+      "sha256": "ef15caa324b225b6ab252db9c8767344b93afdfe597e3b59751e079672f7441b"
+    },
+    {
+      "number": 69,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Sound_of_rain_on_the_tent1.txt",
+      "sha256": "44c942b6b8e1180425cc08f3a78b34f33d800c95e550995e6041b956df2f8eab"
+    },
+    {
+      "number": 70,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Sound_of_the_engine_room1.txt",
+      "sha256": "1a430c3f41037c4e5c162b7515da4992449e988073e699399d2fb0f9e877823c"
+    },
+    {
+      "number": 71,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Sound_of_the_storm1.txt",
+      "sha256": "db1a80c60bba55d84ccce6b0ec52f0d6178b03c6d95a93d48a0f8af9e0b88d8d"
+    },
+    {
+      "number": 72,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Space_rocket_sound1.txt",
+      "sha256": "e9f30ae867a1398c849914c0e5cdb45734d55a926858378d17693cecbd27c62a"
+    },
+    {
+      "number": 73,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Space_sound1.txt",
+      "sha256": "cb85854d7e866e10321079fc6fa1966cc7b2ac7f488c39cc4c3d9c624de7c389"
+    },
+    {
+      "number": 74,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Spaceship_sound1.txt",
+      "sha256": "be44e04444a4860526f788ea3bc14b88c4a4c5b0e510bf6530b99b5a345315f9"
+    },
+    {
+      "number": 75,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Spooky_Buttons2.txt",
+      "sha256": "d1e84737e00768c0143110255c13200e317b5aa393b0e30ef5e901864d0d4318"
+    },
+    {
+      "number": 76,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Spring_sound1.txt",
+      "sha256": "7b791dbff4ed54e2d8700f2218ffdf4b35584c174cd30f5c42ad7e10cb3056a2"
+    },
+    {
+      "number": 77,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Successful_Farming_Live0.txt",
+      "sha256": "14612e388de61c363b7bda58eaaca9505f79180b3209b9762b3648a69736e7ea"
+    },
+    {
+      "number": 78,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Summer_sound0.txt",
+      "sha256": "3b04263da76ff232ef31edcc9de5ce86e54214b4b741d128c4713e62b5138836"
+    },
+    {
+      "number": 79,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/THESE_CHORES0.txt",
+      "sha256": "165adc48526646797eee3ca9ffbdba051cce9a46d1e1783634e203f8923743f4"
+    },
+    {
+      "number": 80,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/The_Constitution_Drill1.txt",
+      "sha256": "c853cff464d3c15dc0dae71c7aca09afdbc0a2236026b3d30e9e52f4ea957782"
+    },
+    {
+      "number": 81,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/The_Hogwarts_Sorting_Hat2.txt",
+      "sha256": "e0846aedae2dcb721fe19417c9745d7955ab3ea98d4d087366edcc079f412f0d"
+    },
+    {
+      "number": 82,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Thingee_Tech_Talk0.txt",
+      "sha256": "10c943c71587d943c86612a1b6370b981057ac2c7867ec7895c46411a58035f2"
+    },
+    {
+      "number": 83,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Uplift_Efficiency0.txt",
+      "sha256": "6cbe06bc5c8c5ef70ee5a11b109530106bf8490c8da08851198a8e666bd9440c"
+    },
+    {
+      "number": 84,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Waterfall_sound1.txt",
+      "sha256": "2aa58d84e5b858edfa93f0e236b23af7fccf9f6b5f8dddae7e1b4b027fb4a3df"
+    },
+    {
+      "number": 85,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/Your_Happiness_Now0.txt",
+      "sha256": "6cc65ae47357d29a9059da32a91bc61853c78bb75832270febd9049e8a8ea6a5"
+    },
+    {
+      "number": 86,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/guess_prime_number0.txt",
+      "sha256": "941d0878272aab91a77800aef9150dfb3b1eba6644d0de4389f36185c31dcdd3"
+    },
+    {
+      "number": 87,
+      "path": "dark-pattern/interface_interference_examples/INTERFACE_INTERFERENCE_all(87)/your_local_guide1.txt",
+      "sha256": "131581afebfffd84d29a93ea851d3c042f9bb121373e51d608f85f23879faef7"
+    }
+  ],
+  "excluded_ids": [],
+  "openai_sdk": "3.16.2",
+  "source_sha256": {
+    "common.py": "01dfde1d886554f5c848b5f06a42e340698d0e5a3c3cb79351920b78bdcb3e52",
+    "experiment_config.py": "88c2d2cc24776c87972a460c6bff53e725dfe5d5c4a0acbc722ed98a1a2b2dfc",
+    "decision_policy.py": "5b31fd7f37a92e81f95d4eb79e59e2ce7b79e7fdb40ffb3ae2e899db9829fd05",
+    "interface_interference_type.py": "eb2ab2516f7b30ad3a8811691c7549fe2d89a0c3b08b4f44169aced6432a521a",
+    "interface_interference_subtype.py": "72fe36367d0b2f89ddd4539dbe8631bda2bed0249a756c6fe7a714e912cb2616",
+    "taxonomy.json": "a0cb53abcdd2cb0031b9a7501433d70ede8b37b4af3016ffa24a232dd21d4bfe",
+    "interface_interference_prompt_v2.py": "746d36281149557c5becb3ed82b99aa72a8de445226f80a624374a208af04e61",
+    "repetition_policy.py": "2c4917bd5144707d6e3f68a7bdcdf2d4e971d92c28a875005dd6e718f53de9f8",
+    "ad_subtype_policy.py": "510388e4ebb71dca3e8f6764b4432451a8a0cd828d07457c0e5bd1d77847820d",
+    "taxonomy_mapping.py": "8026349ff38dc786f382ef5f11afd093ee5e74bfe128fdacb21448940ee8a4a6",
+    "verified_failure_rules.py": "33450c3a3d66825314a5a730eef7a8a83a875b0c8d68fd31d76aec10ed03a388"
+  }
+}

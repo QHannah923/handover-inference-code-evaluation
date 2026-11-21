@@ -1,0 +1,18 @@
+[USER_INPUT] Alexa, open fitness club
+[SKILL_OUTPUT] Ok, Here's Fitness Club  Home Training  Bodyweight Workouts.Welcome to the Alexa Fitness Club, every day I propose a new standardized workout anyone can do at home, no items are required, everything you need is your body and 15 minutes of your time. This is the club's workout for today: 30 seconds of squat, 30 seconds of half pushup, 30 seconds of lunges, 30 seconds of pushup. Rest for 10 seconds after each exercise. Repeat 4 times. First Exercise: squat. Say 'go' if you are ready to start.
+[USER_INPUT] help
+[SKILL_OUTPUT] Say 'go' to start the next exercise or say 'time' to take a minute of break, if you can't take it anymore say 'stop' to stop your training, you can continue later or you can start a new workout when you'll feel ready. Here is the workout for today: 30 seconds of squat, 30 seconds of half pushup, 30 seconds of lunges, 30 seconds of pushup. Rest for 10 seconds after each exercise. Repeat 4 times. First Exercise: squat. Say 'go' if you are ready to start.
+[USER_INPUT] go
+[SKILL_OUTPUT] 3, 2, 1, go.<Short audio>.Recover .<Short audio>.Next exercise: half pushup say 'go' to start.
+[USER_INPUT] go
+[SKILL_OUTPUT] 3, 2, 1, go.<Short audio>.Recover .<Short audio>.Next exercise: lunges say 'go' to start.
+[USER_INPUT] join alexa fitness club
+[SKILL_OUTPUT] Get a 100 Personalized Training Plan that you can do at home when you want, the plan is created for your specific physical condition and every workout will be optimized on your progress. Are you ready to become the best version of yourself .
+[USER_INPUT] will get a new club's workout
+[SKILL_OUTPUT] Here is the club's workout for today: 30 seconds of squat, 30 seconds of half pushup, 30 seconds of lunges, 30 seconds of pushup. Rest for 10 seconds after each exercise. Repeat 4 times. First Exercise: squat. Say 'go' if you are ready to start.
+[USER_INPUT] can do at home
+[SKILL_OUTPUT] Get a 100 Personalized Training Plan that you can do at home when you want, the plan is created for your specific physical condition and every workout will be optimized on your progress. Are you ready to become the best version of yourself .
+[USER_INPUT] get plan
+[SKILL_OUTPUT] Get a 100 Personalized Training Plan that you can do at home when you want, the plan is created for your specific physical condition and every workout will be optimized on your progress. Are you ready to become the best version of yourself .
+[USER_INPUT] stop
+[SKILL_OUTPUT] Remember, hard work always pays of. Come back when you are ready to complete your workout.

@@ -1,0 +1,3 @@
+[USER_INPUT] Alexa, open night sound
+[SKILL_OUTPUT] Thank you for using Night sound, we hope you're sleeping better since you started using this skill. By the way, you might like our latest book, Sleep Better. Night sound earns from qualifying purchases that you make while using this skill. Would you like to learn how to buy the book on Amazon.
+[USER_INPUT] yes

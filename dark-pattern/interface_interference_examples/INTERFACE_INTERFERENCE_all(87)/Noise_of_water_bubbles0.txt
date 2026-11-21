@@ -1,0 +1,11 @@
+[USER_INPUT] Alexa, open noise of water bubbles
+[SKILL_OUTPUT] Thank you for using Noise of water bubbles, we hope you're sleeping better since you started using this skill. By the way, you might like our latest book, Sleep Better. Noise of water bubbles earns from qualifying purchases that you make while using this skill. Would you like to learn how to buy the book on Amazon.
+[USER_INPUT] help
+[SKILL_OUTPUT] Thanks to this skill you can hear a noise that can help you stay focused, do you want to continue.
+[USER_INPUT] hear noise
+[SKILL_OUTPUT] Thanks to this skill you can hear a noise that can help you stay focused, do you want to continue.
+[USER_INPUT] cover annoying noises
+[SKILL_OUTPUT] Sorry, I didn't get that. Please try again.
+[USER_INPUT] ok
+[SKILL_OUTPUT] Thank you for using Noise of water bubbles, we hope you're sleeping better since you started using this skill. By the way, you might like our latest book, Sleep Better. Noise of water bubbles earns from qualifying purchases that you make while using this skill. Would you like to learn how to buy the book on Amazon.
+[USER_INPUT] yes

@@ -1,0 +1,2 @@
+[USER_INPUT] Alexa, open market hotline
+[SKILL_OUTPUT] Welcome to Market Hotline. Please ask for help to learn about the Market Hotline, or you can Buy Wallanchuk hotline or Buy Ord Oracle hotline.

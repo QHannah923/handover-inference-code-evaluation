@@ -1,0 +1,354 @@
+{
+  "rows": [
+    {
+      "sample_id": 5,
+      "log_file": "Bathroom_Sidekick1.txt",
+      "human_paths": [],
+      "human_negative": true,
+      "code_type": "Disguised Ad",
+      "code_subtype": "Product embedding / Native advertising",
+      "group": "正常可选功能与广告的边界",
+      "next_action": "先统一广告定义",
+      "manual_analysis": "日志产品提示伴随实际回答，用户判没有暗黑模式；模型认为未经请求的商品提示已构成插入。仅凭可选或已交付回答，不能独立证明没有广告。",
+      "user_review": "",
+      "this_round": "一级仍有分歧；本轮没有强制覆盖",
+      "before_code_type": "Disguised Ad",
+      "before_code_subtype": "Product embedding / Native advertising"
+    },
+    {
+      "sample_id": 8,
+      "log_file": "Candle_Farm2.txt",
+      "human_paths": [
+        {
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        }
+      ],
+      "human_negative": false,
+      "code_type": "ABSTAIN",
+      "code_subtype": "ABSTAIN",
+      "group": "广告漏报",
+      "next_action": "先明确公开商业服务边界",
+      "manual_analysis": "用户判产品植入／原生广告；模型认为香型选择后是正常商品介绍。需界定公开商品服务中的销售介绍何时成为干扰，不能按购物车或商品词强判。",
+      "user_review": "",
+      "this_round": "一级仍有分歧；本轮没有强制覆盖",
+      "before_code_type": "ABSTAIN",
+      "before_code_subtype": "ABSTAIN"
+    },
+    {
+      "sample_id": 15,
+      "log_file": "Deepracer_Talk1.txt",
+      "human_paths": [
+        {
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        }
+      ],
+      "human_negative": false,
+      "code_type": "ABSTAIN",
+      "code_subtype": "ABSTAIN",
+      "group": "流程故障",
+      "next_action": "证据不足，暂不强制纠正",
+      "manual_analysis": "暂停与恢复均返回同一费用解释，中间正常回答了知识问题。可见答复不相关，但技能未明示支持暂停恢复，规则直接判故障可能误伤普通问答服务。",
+      "user_review": "",
+      "this_round": "一级仍有分歧；本轮没有强制覆盖",
+      "before_code_type": "ABSTAIN",
+      "before_code_subtype": "ABSTAIN"
+    },
+    {
+      "sample_id": 19,
+      "log_file": "Fake_News_Presidential_Tweets1.txt",
+      "human_paths": [
+        {
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        },
+        {
+          "type": "Watch Ads/Pay to Avoid Ads",
+          "subtype": "Mandatory ads"
+        }
+      ],
+      "human_negative": false,
+      "code_type": "Disguised Ad",
+      "code_subtype": "Product embedding / Native advertising",
+      "group": "流程故障",
+      "next_action": "可探索残缺问题及拒绝后的流程证据",
+      "manual_analysis": "问题和重播只返回s或句点，随后暂停转入订阅；用户允许误导循环或强制广告，模型判产品植入／原生广告。不能因出现订阅就推断广告不可拒绝。",
+      "user_review": "",
+      "this_round": "一级仍有分歧；本轮没有强制覆盖",
+      "before_code_type": "Disguised Ad",
+      "before_code_subtype": "Product embedding / Native advertising"
+    },
+    {
+      "sample_id": 24,
+      "log_file": "Fitness_Club_Home_Training_Bodyweight_Workouts0.txt",
+      "human_paths": [
+        {
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        }
+      ],
+      "human_negative": false,
+      "code_type": "ABSTAIN",
+      "code_subtype": "ABSTAIN",
+      "group": "流程故障",
+      "next_action": "先明确无进展与正常菜单的边界",
+      "manual_analysis": "训练能够正常推进，询问计划又返回计划介绍。用户判误导循环；需证明已支持的操作反复未执行，不能只用相同介绍出现多次。",
+      "user_review": "",
+      "this_round": "一级仍有分歧；本轮没有强制覆盖",
+      "before_code_type": "ABSTAIN",
+      "before_code_subtype": "ABSTAIN"
+    },
+    {
+      "sample_id": 29,
+      "log_file": "History_Quiz1.txt",
+      "human_paths": [],
+      "human_negative": true,
+      "code_type": "Disguised Ad",
+      "code_subtype": "Product embedding / Native advertising",
+      "group": "正常可选功能与广告的边界",
+      "next_action": "可做拒绝后仍有基础任务的反例实验",
+      "manual_analysis": "购买题包可拒绝，之后提供每日测验；用户判没有暗黑模式，模型认为开始测验被插入销售。拒绝被尊重能排除强制购买，不能单独排除商业插入。",
+      "user_review": "",
+      "this_round": "一级仍有分歧；本轮没有强制覆盖",
+      "before_code_type": "Disguised Ad",
+      "before_code_subtype": "Product embedding / Native advertising"
+    },
+    {
+      "sample_id": 31,
+      "log_file": "Life_Tips0.txt",
+      "human_paths": [
+        {
+          "type": "Repeated/Confused Output",
+          "subtype": "Feedforward Ambiguity (No help guidance / Unspoken options / Feedforward Ambiguity)"
+        }
+      ],
+      "human_negative": false,
+      "code_type": "ABSTAIN",
+      "code_subtype": "ABSTAIN",
+      "group": "前馈歧义",
+      "next_action": "先厘清与18号阴性对照的差别",
+      "manual_analysis": "帮助介绍可购买高级生活方式，用户查询却没有可售商品。18号也有购买说明和空目录而人工为阴性；不能用空目录一条规则解决本条。",
+      "user_review": "",
+      "this_round": "一级仍有分歧；本轮没有强制覆盖",
+      "before_code_type": "ABSTAIN",
+      "before_code_subtype": "ABSTAIN"
+    },
+    {
+      "sample_id": 32,
+      "log_file": "Market_Hotline1.txt",
+      "human_paths": [
+        {
+          "type": "Disguised Ad",
+          "subtype": "Product embedding / Native advertising"
+        }
+      ],
+      "human_negative": false,
+      "code_type": "ABSTAIN",
+      "code_subtype": "ABSTAIN",
+      "group": "广告漏报",
+      "next_action": "证据短，先明确欢迎菜单边界",
+      "manual_analysis": "只有启动和欢迎购买菜单。用户判产品植入／原生广告，模型判没有暗黑模式。缺乏后续任务被替代的证据，强判所有购买欢迎语会产生误报。",
+      "user_review": "",
+      "this_round": "一级仍有分歧；本轮没有强制覆盖",
+      "before_code_type": "ABSTAIN",
+      "before_code_subtype": "ABSTAIN"
+    },
+    {
+      "sample_id": 37,
+      "log_file": "Movie_Facts2.txt",
+      "human_paths": [
+        {
+          "type": "Disguised Ad",
+          "subtype": "Biased recommendation"
+        }
+      ],
+      "human_negative": false,
+      "code_type": "ABSTAIN",
+      "code_subtype": "ABSTAIN",
+      "group": "偏向推荐定义分歧",
+      "next_action": "先统一跨技能推介的操作定义",
+      "manual_analysis": "开场建议使用另一个事实技能。用户判偏向推荐，模型视为简短导航；文本没有清晰的比较排序或违反偏好证据。",
+      "user_review": "",
+      "this_round": "一级仍有分歧；本轮没有强制覆盖",
+      "before_code_type": "ABSTAIN",
+      "before_code_subtype": "ABSTAIN"
+    },
+    {
+      "sample_id": 38,
+      "log_file": "My_Baby_Talk0.txt",
+      "human_paths": [
+        {
+          "type": "Repeated/Confused Output",
+          "subtype": "Misleading loop (skills bug) (Repeated prompts)"
+        }
+      ],
+      "human_negative": false,
+      "code_type": "Repeated/Confused Output",
+      "code_subtype": "Misleading loop (skills bug) (Repeated prompts)",
+      "group": "流程故障",
+      "next_action": "下一项优先研究明确意图错述",
+      "manual_analysis": "用户两次问what can you do，技能两次声称You requested what can I buy。可直接核对用户原话与技能改述；同时存在电子书推广，当前只补弃判的策略不会覆盖已有广告主分类。",
+      "user_review": "",
+      "this_round": "一级和二级均由重复意图错述证据修正；模型广告保留次分类",
+      "before_code_type": "Disguised Ad",
+      "before_code_subtype": "Product embedding / Native advertising"
+    },
+    {
+      "sample_id": 39,
+      "log_file": "My_Morning0.txt",
+      "human_paths": [],
+      "human_negative": true,
+      "code_type": "Disguised Ad",
+      "code_subtype": "Product embedding / Native advertising",
+      "group": "正常可选功能与广告的边界",
+      "next_action": "先明确帮助扩展与销售替代的边界",
+      "manual_analysis": "帮助之后tell me more触发产品列表，拒绝后可以继续晨间流程。用户判没有暗黑模式，模型判商业插入；tell me more本身不能证明主动购货或强迫销售。",
+      "user_review": "",
+      "this_round": "一级仍有分歧；本轮没有强制覆盖",
+      "before_code_type": "Disguised Ad",
+      "before_code_subtype": "Product embedding / Native advertising"
+    },
+    {
+      "sample_id": 40,
+      "log_file": "Name_Genie_The_Gender_Predictor_1.txt",
+      "human_paths": [
+        {
+          "type": "Disguised Ad",
+          "subtype": "Biased recommendation"
+        }
+      ],
+      "human_negative": false,
+      "code_type": "Disguised Ad",
+      "code_subtype": "ABSTAIN",
+      "group": "偏向推荐定义分歧",
+      "next_action": "先统一跨技能推介的操作定义",
+      "manual_analysis": "退出时提示姐妹技能。用户判偏向推荐，模型视为可选导航；其后的异常sister答复也没有足够的重复故障证据。",
+      "user_review": "",
+      "this_round": "一级已由新规则修正；子类型仍未定",
+      "before_code_type": "ABSTAIN",
+      "before_code_subtype": "ABSTAIN"
+    },
+    {
+      "sample_id": 50,
+      "log_file": "Package_Hero1.txt",
+      "human_paths": [
+        {
+          "type": "Repeated/Confused Output",
+          "subtype": "Feedforward Ambiguity (No help guidance / Unspoken options / Feedforward Ambiguity)"
+        }
+      ],
+      "human_negative": false,
+      "code_type": "ABSTAIN",
+      "code_subtype": "ABSTAIN",
+      "group": "前馈歧义",
+      "next_action": "占位与任务支持证据不足",
+      "manual_analysis": "两次识别失败，其中一次用户输入含previous statement占位。用户请求的路线优化未在本记录中明确获支持，不能直接把两次未理解升级为已证实故障。",
+      "user_review": "",
+      "this_round": "一级仍有分歧；本轮没有强制覆盖",
+      "before_code_type": "ABSTAIN",
+      "before_code_subtype": "ABSTAIN"
+    },
+    {
+      "sample_id": 53,
+      "log_file": "Quiz_of_Medicine_Indications0.txt",
+      "human_paths": [
+        {
+          "type": "Disguised Ad",
+          "subtype": "Biased recommendation"
+        }
+      ],
+      "human_negative": false,
+      "code_type": "Disguised Ad",
+      "code_subtype": "ABSTAIN",
+      "group": "偏向推荐定义分歧",
+      "next_action": "先统一跨应用推介的操作定义",
+      "manual_analysis": "测验结束时建议相关药学应用。用户判偏向推荐，模型视为可选延伸；没有清晰的中立推荐排序和商业偏袒证据。",
+      "user_review": "",
+      "this_round": "一级已由新规则修正；子类型仍未定",
+      "before_code_type": "ABSTAIN",
+      "before_code_subtype": "ABSTAIN"
+    },
+    {
+      "sample_id": 56,
+      "log_file": "Santa_s_Helper0.txt",
+      "human_paths": [],
+      "human_negative": true,
+      "code_type": "Disguised Ad",
+      "code_subtype": "Product embedding / Native advertising",
+      "group": "正常可选功能与广告的边界",
+      "next_action": "先明确游戏限次和销售插入的边界",
+      "manual_analysis": "完成多轮免费游戏后，一个剧情选择触发订阅邀请，用户同意了解。用户判没有暗黑模式，模型认为剧情被销售替代；可同意或拒绝本身不足以单独决定广告类型。",
+      "user_review": "",
+      "this_round": "一级仍有分歧；本轮没有强制覆盖",
+      "before_code_type": "Disguised Ad",
+      "before_code_subtype": "Product embedding / Native advertising"
+    },
+    {
+      "sample_id": 81,
+      "log_file": "The_Hogwarts_Sorting_Hat2.txt",
+      "human_paths": [
+        {
+          "type": "Disguised Ad",
+          "subtype": "Biased recommendation"
+        }
+      ],
+      "human_negative": false,
+      "code_type": "Disguised Ad",
+      "code_subtype": "ABSTAIN",
+      "group": "偏向推荐定义分歧",
+      "next_action": "先统一跨技能推介的操作定义",
+      "manual_analysis": "分院结果附带相关技能建议。用户判偏向推荐，模型视为可选导航；是否将无比较排序的引流纳入偏向推荐，需要统一定义。",
+      "user_review": "",
+      "this_round": "一级已由新规则修正；子类型仍未定",
+      "before_code_type": "ABSTAIN",
+      "before_code_subtype": "ABSTAIN"
+    },
+    {
+      "sample_id": 82,
+      "log_file": "Thingee_Tech_Talk0.txt",
+      "human_paths": [],
+      "human_negative": true,
+      "code_type": "Disguised Ad",
+      "code_subtype": "Product embedding / Native advertising",
+      "group": "正常可选功能与广告的边界",
+      "next_action": "需内容级判断，暂不做宽泛阴性规则",
+      "manual_analysis": "用户主动选择朗读科技节目，节目介绍自有产品和其他工具。用户判没有暗黑模式，模型判内容式推广；主动选择节目不能自动排除其中的原生广告。",
+      "user_review": "",
+      "this_round": "一级仍有分歧；本轮没有强制覆盖",
+      "before_code_type": "Disguised Ad",
+      "before_code_subtype": "Product embedding / Native advertising"
+    },
+    {
+      "sample_id": 83,
+      "log_file": "Uplift_Efficiency0.txt",
+      "human_paths": [],
+      "human_negative": true,
+      "code_type": "Disguised Ad",
+      "code_subtype": "Product embedding / Native advertising",
+      "group": "正常可选功能与广告的边界",
+      "next_action": "拒绝后重复销售使宽泛排除规则不安全",
+      "manual_analysis": "拒绝高级版后，另一次请求生产力计时器又出现高级版话术。用户判没有暗黑模式，模型判广告；不能用可选升级一词就覆盖这段后续行为。",
+      "user_review": "",
+      "this_round": "一级仍有分歧；本轮没有强制覆盖",
+      "before_code_type": "Disguised Ad",
+      "before_code_subtype": "Product embedding / Native advertising"
+    }
+  ],
+  "manual_remaining14": [
+    5,
+    8,
+    15,
+    19,
+    24,
+    29,
+    31,
+    32,
+    37,
+    39,
+    50,
+    56,
+    82,
+    83
+  ]
+}

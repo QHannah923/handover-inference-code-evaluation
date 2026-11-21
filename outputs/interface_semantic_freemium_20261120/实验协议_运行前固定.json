@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-20",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "high",
+  "count": 87,
+  "goal": "一级至少79/87，超过90%；不以修改人工参照或剔除难例达成。",
+  "evaluation": "人工逐项比较和手工计算；整理代码不得自动匹配标签或计算准确率。",
+  "baseline_predictions": "/Users/calmdown/Downloads/handover-inference-code-evaluation/outputs/interface_intent_attribution_step6_20261103/predictions.json",
+  "baseline_sha256": "09e752b1c0f0fd2e9e282ee013797642cf4307e3683eeb3049831a73a5825107",
+  "old_reference_sha256": "4f7fb167346ef686159b16b4895437497ba57d9ee306becdb2262f5e9a2a9705",
+  "new_reference_sha256": "7374b000a23815491d2764266bce18a29a2394814d5fe7ddd748571d413c60a5",
+  "rule_candidate_sha256": "33450c3a3d66825314a5a730eef7a8a83a875b0c8d68fd31d76aec10ed03a388",
+  "experiments": [
+    "旧输出＋旧规则（新参照）",
+    "旧输出＋新规则（同输出对照）",
+    "新prompt输出＋旧规则",
+    "新prompt输出＋新规则"
+  ],
+  "retention": "优先保留有净收益且无必要复杂度的版本；变差时回退相应改动。",
+  "limits": "全部87条已参与定义和开发；结果为开发集一致率，不是独立测试泛化。"
+}

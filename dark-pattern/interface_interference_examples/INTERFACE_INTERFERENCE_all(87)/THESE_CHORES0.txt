@@ -1,0 +1,12 @@
+[USER_INPUT] Alexa, open these chores
+[SKILL_OUTPUT] <Short audio>.Say Spook Me for another sound.
+[USER_INPUT] help
+[SKILL_OUTPUT] To hear a random halloween sound, just press your Echo Button or say Alexa Spook Me. You can also say Alexa Loop Mode On or Loop Mode Off. To get immediate access to our over 100 awesomely spooky halloween sounds, just say Alexa Upgrade and I'll take care of the rest.
+[USER_INPUT] spook me
+[SKILL_OUTPUT] <Short audio>.Say Spook Me for another sound.
+[USER_INPUT] pause
+[SKILL_OUTPUT] <Short audio>.Say Spook Me for another sound.
+[USER_INPUT] resume
+[SKILL_OUTPUT] <Short audio>.Say Spook Me for another sound.
+[USER_INPUT] stop
+[SKILL_OUTPUT] Have a spooktacular day.

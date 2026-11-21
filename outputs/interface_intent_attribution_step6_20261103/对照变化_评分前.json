@@ -1,0 +1,36 @@
+[
+  {
+    "sample_id": 38,
+    "log_file": "My_Baby_Talk0.txt",
+    "before": [
+      "Disguised Ad",
+      "Product embedding / Native advertising"
+    ],
+    "after": [
+      "Repeated/Confused Output",
+      "Misleading loop (skills bug) (Repeated prompts)"
+    ],
+    "certificates": [
+      {
+        "rule_id": "REPEATED_FALSE_PURCHASE_ATTRIBUTION",
+        "type": "Repeated/Confused Output",
+        "subtype": "Misleading loop (skills bug) (Repeated prompts)",
+        "witnesses": [
+          {
+            "user_turn_id": 12,
+            "skill_turn_id": 13,
+            "user_text": "what can you do?",
+            "skill_text": "You requested what can I buy. Unfortunately there is nothing to buy in this skill. My Baby Talk is entirely free to play. But please.  Please seek out and support the artists who produced the songs included. Visit the Alexa App or Bubble Logix dot com for information on our eBooks in the Amazon Kindle Store  and our other works. My Baby Talk is a Bubble Logix property designed on Voice Flow. Would you like to go back to help or My Baby Talk.you will now be returned to Talk to Bubbles."
+          },
+          {
+            "user_turn_id": 14,
+            "skill_turn_id": 15,
+            "user_text": "what can you do?",
+            "skill_text": "You requested what can I buy. Unfortunately there is nothing to buy in this skill. My Baby Talk is entirely free to play. But please.  Please seek out and support the artists who produced the songs included. Visit the Alexa App or Bubble Logix dot com for information on our eBooks in the Amazon Kindle Store  and our other works. My Baby Talk is a Bubble Logix property designed on Voice Flow. Would you like to go back to help or My Baby Talk.you will now be returned to Talk to Bubbles."
+          }
+        ],
+        "reason": "至少两次明确功能询问被技能反称为购买询问；引用用户原话与技能自称请求逐项核对。"
+      }
+    ]
+  }
+]

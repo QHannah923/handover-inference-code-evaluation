@@ -1,0 +1,4 @@
+[USER_INPUT] Alexa, open consult the oracle
+[SKILL_OUTPUT] Welcome to Oracle of Delphi. To consult the oracle you can say 'Consult the oracle', or to hear about the premium categories for purchase, say 'What can I buy'.  For help, say , 'Help me'... So, What can I help you with.
+[USER_INPUT] help me
+[SKILL_OUTPUT] To consult the oracle, you could say, 'Consult the oracle' or you can ask for a specific category you have purchased, for example, say 'Share a past answer or get a future answer'.  To know what else you can buy, say, 'What can i buy.'. So, what can I help you with.

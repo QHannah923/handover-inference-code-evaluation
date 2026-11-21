@@ -1,0 +1,11 @@
+{
+  "predictions_sha256": "0bda1e156221a4da5f4967d454b272594fe7c07f6e69247d24540219283c9b4c",
+  "calls_sha256": "7c7015aa53fd197771b74f81c4d5d716011d71c0211675ab63bb6c8e5cc17161",
+  "new_reference_sha256": "7374b000a23815491d2764266bce18a29a2394814d5fe7ddd748571d413c60a5",
+  "old_output_new_rules_sha256": "b827af2dc2666146b368f6db131916a02cd57fc964707c2ecc60a13a882b7040",
+  "input_count": 87,
+  "completed": 87,
+  "failed_responses_not_scored_as_none": true,
+  "ablation_scope": "关闭独立证据模块仍保留旧关键词排序和格式／证据校验，不等于移除全部规则。",
+  "grading_or_accuracy_calculated_here": false
+}

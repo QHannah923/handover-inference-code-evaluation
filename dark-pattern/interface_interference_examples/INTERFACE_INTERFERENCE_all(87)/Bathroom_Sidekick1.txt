@@ -1,0 +1,32 @@
+[USER_INPUT] Alexa, open bathroom sidekick
+[SKILL_OUTPUT] Welcome to Bathroom Sidekick. This skill is not a substitude for professional medical advice. You can say commands like, I pooped, I peed, I showered, I flossed, I brushed, or I vomited, or you can say stop. What can I help you with.
+[USER_INPUT] account issues
+[SKILL_OUTPUT] Please specify if you peed, pooped, showered, flossed, brushed, or vomited.
+[USER_INPUT] i pooped
+[SKILL_OUTPUT] Without touching it, what was the poop consistency: hard, firm, soft, or liquid..
+[USER_INPUT] hard
+[SKILL_OUTPUT] What was the size. Small or large.
+[USER_INPUT] small
+[SKILL_OUTPUT] What color was it. Brown, Black, Red, Green, White, or Yellow.
+[USER_INPUT] brown
+[SKILL_OUTPUT] You currently do not have our logging product. If you wish to hear more about it say, tell me about logging.  Constipation usually leads to hard stools. Small pieces of stool aren't normal. Brown is the normal or usual color. You can say commands like, I pooped, I peed, I showered, I flossed, I brushed, or I vomited, or you can say stop. What can I help you with.
+[USER_INPUT] i peed
+[SKILL_OUTPUT] What color was your pee. Clear, light yellow, yellow, orange, dark brown, red, blue, or green.
+[USER_INPUT] black
+[SKILL_OUTPUT] You currently do not have our logging product. If you wish to hear more about it say, tell me about logging.  I'm not sure why your pee is this color. You should talk to a doctor. You can say commands like, I pooped, I peed, I showered, I flossed, I brushed, or I vomited, or you can say stop. What can I help you with.
+[USER_INPUT] i showered
+[SKILL_OUTPUT] Usually people take a shower or bath once a day, but it is often recommended to shower or bathe every other day, or two to three times a week. You can say commands like, I pooped, I peed, I showered, I flossed, I brushed, or I vomited, or you can say stop. What can I help you with.
+[USER_INPUT] i pooped
+[SKILL_OUTPUT] Without touching it, what was the poop consistency: hard, firm, soft, or liquid..
+[USER_INPUT] firm
+[SKILL_OUTPUT] What was the size. Small or large.
+[USER_INPUT] large
+[SKILL_OUTPUT] What color was it. Brown, Black, Red, Green, White, or Yellow.
+[USER_INPUT] red
+[SKILL_OUTPUT] Firm stools are normal being not too hard or soft. Large stools are usually normal. Red coloring could be from bleeding in the lower intestinal tract, like intestines or rectum, and even from hemorrhoids. Other causes can be red food coloring, red gelatin, cranberries, beats, or tomato juices. Consult your doctor. You can say commands like, I pooped, I peed, I showered, I flossed, I brushed, or I vomited, or you can say stop. What can I help you with.
+[USER_INPUT] billing
+[SKILL_OUTPUT] Please specify if you peed, pooped, showered, flossed, brushed, or vomited.
+[USER_INPUT] i peed
+[SKILL_OUTPUT] What color was your pee. Clear, light yellow, yellow, orange, dark brown, red, blue, or green.
+[USER_INPUT] green
+[SKILL_OUTPUT] Sources for green urine include: food dyes or medications like amitriptyline, indomethacin, and propofol. Additionally pseudomonas bacteria can be the cause during urinary tract infections. You can say commands like, I pooped, I peed, I showered, I flossed, I brushed, or I vomited, or you can say stop. What can I help you with.

@@ -1,0 +1,8 @@
+[USER_INPUT] Alexa, open name genie
+[SKILL_OUTPUT] Handing off to Name Genie  The Gender Predictor by Yash.Welcome to Name Genie  The Gender Predictor. Please, give me a first name.
+[USER_INPUT] waiting for champ
+[SKILL_OUTPUT] champ is a male first name with a probability of 100.Do you want to try again, the name genie providing another first name.
+[USER_INPUT] no
+[SKILL_OUTPUT] Ok Bye. see you soon. you can also check the descripton and try out our sister skills to get surprised.
+[USER_INPUT] try sister skills
+[SKILL_OUTPUT] Wow, sister, talking to you just clears my head.

@@ -1,0 +1,4 @@
+[USER_INPUT] Alexa, open date ideas
+[SKILL_OUTPUT] We're happy to help you come up with fun and creative date ideas. For some examples of what this skill can do, ask for help now.
+[USER_INPUT] stop
+[SKILL_OUTPUT] Thank you for using the our skill. Be sure to check us out on instagram at That Couple Who Travels. Have fun on your date.

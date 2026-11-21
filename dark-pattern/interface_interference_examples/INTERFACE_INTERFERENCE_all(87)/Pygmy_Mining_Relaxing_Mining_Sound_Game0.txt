@@ -1,0 +1,18 @@
+[USER_INPUT] Alexa, open pygmy mining
+[SKILL_OUTPUT] Ok, Here's Pygmy Mining: Relaxing Mining Sound Game..<Short audio>..<Short audio>.Chapter Zero. Prologue. This is a story about dwarves. It is a story about another world, connected to this one through your smart speaker. The young dwarf boy Pygmy was waiting for his father, an adventurer, to come back home. Pygmy said,.<Short audio>.It's already three months since Father went out on an adventure. How much longer until he comes back home.<Short audio>.Father said not to worry and to wait for his return, but I can't wait anymore. I have deciided, I will head out on a journey to search for my father. Will you help me.
+[USER_INPUT] help
+[SKILL_OUTPUT] This skill is a game where you travel the world of the dwarves together with the young dwarf boy Pygmy. Go mining, gather money, and travel to various places together. When you arrive at a new place, you can listen to the soundtrack of that place. You can also get items in town at the tool maker, the medicine shop, or the inn. If you don't have enough virtual money in the game, you can buy some instead by paying with inskill purchasing. Do you want to hear more details about inskill purchasing.
+[USER_INPUT] yes
+[SKILL_OUTPUT] In this skill, you can purchase crystals and a premium membership. If you are stuck because you don't have enough coins in the game, you can buy crystals to get items immediately. If you subscribe to the monthly premium membership, you can listen to the soundtracks of chapters you played previously at any time in high quality, and once per day can restore your health without spending time waiting in the inn.  Do you want to hear the explanation once more.
+[USER_INPUT] no
+[SKILL_OUTPUT] .<Short audio>.
+[USER_INPUT] <audio response expected>
+[SKILL_OUTPUT] What did you say just now. Father said not to worry and to wait for his return, but I can't wait anymore. I have deciided, I will head out on a journey to search for my father. Will you help me.
+[USER_INPUT] yes
+[SKILL_OUTPUT] Having made up his mind, Pygmy looked at the money in his possession.
+[USER_INPUT] count the money
+[SKILL_OUTPUT] What did you say just now. I know, I can earn money by mining with this wooden shovel, just like my father did. Father said that I'm still too young to work, but that's wrong. Do you think so, too.
+[USER_INPUT] yes
+[SKILL_OUTPUT] .<Short audio>.Great, with that settled, let's go right away to do some mining. Are you ready.
+[USER_INPUT] yes
+[SKILL_OUTPUT] .

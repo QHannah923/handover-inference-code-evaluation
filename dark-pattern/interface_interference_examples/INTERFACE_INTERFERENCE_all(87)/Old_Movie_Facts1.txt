@@ -1,0 +1,16 @@
+[USER_INPUT] Alexa, open movie facts
+[SKILL_OUTPUT] because you used this skill you should also use space facts.,,,,, Hello, ask me to give you a fact about any movie.
+[USER_INPUT] pause
+[SKILL_OUTPUT] undefined.
+[USER_INPUT] give me a fact about [movie name]
+[SKILL_OUTPUT] Here's your fact: in minecraft An arrow shot at primed TNT will come right back at you.,,,,,,,,,If you would like to hear about another movie, just ask.
+[USER_INPUT] resume
+[SKILL_OUTPUT] if you would like to hear another fact, just ask.
+[USER_INPUT] tell me another fact
+[SKILL_OUTPUT] Here's your fact: In The Lion The Witch and the wordrobe was inspired by three girls who lived with Lewis during World War II.,,,,,,,,,If you would like to hear about another movie, just ask.
+[USER_INPUT] yes
+[SKILL_OUTPUT] if you would like to hear another fact, just ask.
+[USER_INPUT] tell me a movie fact
+[SKILL_OUTPUT] Here's your fact: this movie has not been added yet. If 100 people use this skill in the next 30 days, a new fact about every movie will be added. if there is a certain movie you would like me to add than post a review, In your review please write what movie you would like me to add Post a review by going to amazon.com and searching movie facts skill, then, scroll down and click, write a customer review.,,,,,,,,,If you would like to hear about another movie, just ask.
+[USER_INPUT] resume
+[SKILL_OUTPUT] if you would like to hear another fact, just ask.

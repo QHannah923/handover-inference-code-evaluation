@@ -1,0 +1,4 @@
+[USER_INPUT] Alexa, open money money
+[SKILL_OUTPUT] Here you go with a side hustle: Make extra money by selling your old books, DVDs, electronics at www.bookscouter.com,  www.decluttr.com,  www.letgo.com. Can I tell you another opportunity.
+[USER_INPUT] stop
+[SKILL_OUTPUT] Goodbye. Stay safe and come back soon..

@@ -1,0 +1,22 @@
+[USER_INPUT] Alexa, open guess prime number
+[SKILL_OUTPUT] Ok, Here's guess prime number.Welcome to the Guess Prime Number. Guess a prime number from one to three hundred. You have five chances to guess the correct number. Would you like to play.
+[USER_INPUT] help
+[SKILL_OUTPUT] I am thinking of a prime number between one and three hundred, try to guess it and I will tell you if you got it or it is higher or lower.
+[USER_INPUT] 137
+[SKILL_OUTPUT] Please say Yes to continue or say Cancel to exit the skill.
+[USER_INPUT] yes
+[SKILL_OUTPUT] Great. Try saying a prime number to start the game.
+[USER_INPUT] 199
+[SKILL_OUTPUT] 199 is too low. Try saying a larger number.
+[USER_INPUT] 10000
+[SKILL_OUTPUT] 10000 is not a prime number. Try saying a prime number.
+[USER_INPUT] 2
+[SKILL_OUTPUT] 2 is too low. Try saying a larger number.
+[USER_INPUT] 1000
+[SKILL_OUTPUT] 1000 is not a prime number. Try saying a prime number.
+[USER_INPUT] 3
+[SKILL_OUTPUT] 3 is too low. You have guessed five times. The prime number is 283. If you'd like unlimited gueeses to play, you can now get the guess prime number unlimited. Just ask me unlimited guesses. Would you like to play a new game.
+[USER_INPUT] yes
+[SKILL_OUTPUT] Great. Try saying a prime number to start the game.
+[USER_INPUT] 5
+[SKILL_OUTPUT] 5 is too low. Try saying a larger number.

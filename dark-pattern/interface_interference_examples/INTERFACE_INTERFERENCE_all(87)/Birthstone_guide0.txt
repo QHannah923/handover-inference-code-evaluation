@@ -1,0 +1,16 @@
+[USER_INPUT] Alexa, open birthstone guide
+[SKILL_OUTPUT] Ok, Here's Birthstone guide.Welcome to BIRTHSTONE GUIDE. A birthstone is a gemstone that represents a person's month of birth. Please tell me: which month were you born in.
+[USER_INPUT] help
+[SKILL_OUTPUT] To know your birthstone, just tell me the month you were born in. You can buy BIRTHSTONE PREMIUM. With BIRTHSTONE PREMIUM, if your birthstone is for example, zultanite, saying: zultanite characteristics, zultanite healing properties, zultanite uses, zultanite locations, or zultanite facts, you'll know very interesting facts about it. For more information about this application say DISCLAIMER. For more information on gemstones and minerals, visit: mineraltown dot com.
+[USER_INPUT] zultanite characteristics
+[SKILL_OUTPUT] If you want to know your birthstone just tell me: which month you were born in..
+[USER_INPUT] january
+[SKILL_OUTPUT] <Short audio>.Your birthstone is  garnet. Garnets occur in all colors except blue. very interesting. Different ancient civilizations attributed a number of healing properties to crystals. if you want to know more about GARNET, you can buy BIRTHSTONE PREMIUM. For more information say: ABOUT BIRTHSTONE PREMIUM. You also can ask me for another birthstone just telling me: which month were you born in.
+[USER_INPUT] february
+[SKILL_OUTPUT] <Short audio>.Your birthstone is  amethyst. Amethyst is the violet colored macrocrystalline variety of quartz. very interesting. Different ancient civilizations attributed a number of healing properties to crystals. if you want to know more about AMETHYST, you can buy BIRTHSTONE PREMIUM. For more information say: ABOUT BIRTHSTONE PREMIUM. You also can ask me for another birthstone just telling me: which month were you born in.
+[USER_INPUT] march
+[SKILL_OUTPUT] <Short audio>.Your birthstone is  aquamarine. Aquamarine is the blue variety of beryl. Mostly appears as long prisms. very interesting. Different ancient civilizations attributed a number of healing properties to crystals. if you want to know more about AQUAMARINE, you can buy BIRTHSTONE PREMIUM. For more information say: ABOUT BIRTHSTONE PREMIUM. You also can ask me for another birthstone just telling me: which month were you born in.
+[USER_INPUT] about birthstone premium
+[SKILL_OUTPUT] thanks for asking. With BIRTHSTONE PREMIUM you'll know all about your birthstone like characteristics, uses, healing properties attributed and worldwide locations where it can be found. excellent. If you are ready to buy say 'BUY BIRTHSTONE PREMIUM'. For ask me for your birthstone just tell me: which month were you born in.
+[USER_INPUT] april
+[SKILL_OUTPUT] <Short audio>.Your birthstone is  diamond. Diamonds can be found as embedded, octahedron, dodecahedron or cubic crystals. very interesting. Different ancient civilizations attributed a number of healing properties to crystals. if you want to know more about DIAMOND, you can buy BIRTHSTONE PREMIUM. For more information say: ABOUT BIRTHSTONE PREMIUM. You also can ask me for another birthstone just telling me: which month were you born in.

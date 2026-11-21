@@ -1,0 +1,10 @@
+[USER_INPUT] Alexa, open spooky buttons
+[SKILL_OUTPUT] Handing off to Spooky Buttons by Voice Data Soft.Welcome to Spooky Buttons.  To hear a random halloween sound, just press your Echo Button or say Alexa, Spook Me. You can also say Alexa Loop Mode.  Or Alexa Goodbye to finish. You're using the basic version of Spooky Buttons.  To get immediate access to our over 100 awesomely spooky halloween sounds, just say Alexa Upgrade.
+[USER_INPUT] alexa loop mode
+[SKILL_OUTPUT] Loop mode is now ON.  I'll now play a random sound every few seconds. To turn loop mode off, say Alexa Loop Mode Off.
+[USER_INPUT] alexa loop mode off
+[SKILL_OUTPUT] I have turned Loop mode OFF. Say Alexa Spook Me for another sound.
+[USER_INPUT] alexa loop mode
+[SKILL_OUTPUT] Loop mode is now ON.  I'll now play a random sound every few seconds. To turn loop mode off, say Alexa Loop Mode Off.
+[USER_INPUT] loop mode off
+[SKILL_OUTPUT] I have turned Loop mode OFF. Say Alexa Spook Me for another sound.

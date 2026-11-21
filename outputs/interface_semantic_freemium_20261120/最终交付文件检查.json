@@ -1,0 +1,9 @@
+{
+  "xlsx_export_values_match_entered_manual_records": true,
+  "detail_rows": 87,
+  "uncertain_contexts": 20,
+  "blank_manual_review_column_preserved": true,
+  "panes_and_filter_tables_preserved": true,
+  "raw_prediction_hash_unchanged_since_pregrading_export": true,
+  "classification_or_accuracy_computed_in_this_check": false
+}
